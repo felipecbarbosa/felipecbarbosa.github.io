@@ -6,7 +6,7 @@ url: "http://example.com" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Felipe Barbosa - Business, Marketing, Product & Growth
-  avatar: http://res.cloudinary.com/felipe-barbosa/image/upload/v1497551867/felipe-barbosa-business-marketing-product-growth.png
+  avatar: https://res.cloudinary.com/felipe-barbosa/image/upload/v1497551867/felipe-barbosa-business-marketing-product-growth.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
