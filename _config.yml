@@ -46,7 +46,6 @@ theme_settings:
   disqus_shortname: felipebarbosa
   muut_community_name: # From muut.com settings, e.g. "muttcommunityname"
   katex: true # Enable if using math markup
-  waypoint: # Disabled
   jquery: true  
 
   # Localization strings
