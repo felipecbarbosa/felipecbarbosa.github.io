@@ -5,8 +5,8 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
+  title: Felipe Barbosa - Business, Marketing, Produto & Growth
+  avatar: felipe-barbosa-business-marketing-product-growth.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
@@ -27,7 +27,7 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "felipecbarbosa"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -37,7 +37,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "felipecb_"
   wordpress:
   youtube:
 
