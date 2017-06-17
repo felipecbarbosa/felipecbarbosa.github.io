@@ -30,7 +30,7 @@ theme_settings:
   github: "felipecbarbosa"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: https://www.linkedin.com/in/felipecardosobarbosa/
   pinterest:
   reddit:
   soundcloud:
@@ -43,10 +43,11 @@ theme_settings:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  disqus_shortname: felipebarbosa
   muut_community_name: # From muut.com settings, e.g. "muttcommunityname"
   katex: true # Enable if using math markup
-
+  jquery: true
+  
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
