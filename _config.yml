@@ -73,4 +73,4 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-gems: [jekyll-paginate, jekyll-sitemap, github-pages]
+gems: [jekyll-paginate]
