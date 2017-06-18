@@ -2,7 +2,6 @@
 layout: page
 title: Leituras Recomendadas
 permalink: /leituras-recomendadas/
-feature-img: ""
 ---
 
 Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
