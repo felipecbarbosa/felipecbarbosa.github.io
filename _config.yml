@@ -13,7 +13,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <p>Quer receber dicas de livros, artigos interessantes e posts novos do blog?</p>
-
+     <script type="text/javascript" src="//static.mailerlite.com/data/webforms/449267/p9g6c2.js?v1"></script>
      
   header_text_feature_image:
   footer_text: >
