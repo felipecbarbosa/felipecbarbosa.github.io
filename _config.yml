@@ -12,8 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Toda semana um conteúdo novo na sua caixa de entrada.</p>
-     <p>Dicas de livros, artigos interessantes e posts novos escritos por mim.</p>
+     <p>Quer receber dicas de livros, artigos interessantes e posts novos escritos por mim?</p>
 
      
   header_text_feature_image:
