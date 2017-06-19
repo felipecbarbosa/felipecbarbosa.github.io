@@ -2,6 +2,7 @@
 layout: page
 title: Sobre
 permalink: /sobre/
+hide: true
 ---
 
 Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
