@@ -17,6 +17,277 @@
 	<!-- CSS -->
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
+	<!-- Header Form CSS -->
+	<style>
+	@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,latin-ext');
+	#mlb2-5388423,
+	#mlb2-5388423 *,
+	#mlb2-5388423 a:hover,
+	#mlb2-5388423 a:visited,
+	#mlb2-5388423 a:focus,
+	#mlb2-5388423 a:active {
+		overflow: visible;
+		position: static;
+		background: none;
+		border: none;
+		bottom: auto;
+		clear: none;
+		cursor: default;
+		float: none;
+		letter-spacing: normal;
+		line-height: normal;
+		text-align: left;
+		text-indent: 0;
+		text-transform: none;
+		visibility: visible;
+		white-space: normal;
+		max-height: none;
+		max-width: none;
+		left: auto;
+		min-height: 0;
+		min-width: 0;
+		right: auto;
+		top: auto;
+		width: auto;
+		z-index: auto;
+		text-shadow: none;
+		box-shadow: none;
+		outline: medium none;
+	}
+
+	#mlb2-5388423 a:hover {
+		cursor: pointer !important;
+	}
+
+	#mlb2-5388423 h4 {
+		font-weight: normal;
+	}
+
+	#mlb2-5388423 .subscribe-form {
+		padding: 20px;
+		border: 2px solid #F6F6F6 !important;
+		background: #0099ff none !important;
+		border-radius: 0px !important;
+		box-sizing: border-box !important;
+	}
+
+	#mlb2-5388423 .ml-block-form {
+		margin-bottom: 0px;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section {
+		margin-bottom: 20px;
+		width: 100%;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section.mb10 {
+		margin-bottom: 10px;
+		float: left;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section.mb0 {
+		margin-bottom: 0px;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section h4 {
+		margin: 0px 0px 10px 0px !important;
+		padding: 0px !important;
+		color: #000000 !important;
+		font-family: 'Open Sans', sans-serif !important;
+		font-size: 28px !important;
+		line-height: 100%;
+		text-align: left !important;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section p,
+	#mlb2-5388423 .subscribe-form .form-section li {
+		line-height: 150%;
+		padding: 0px !important;
+		margin: 0px 0px 10px 0px;
+		color: #000000 !important;
+		font-family: 'Open Sans', sans-serif !important;
+		font-size: 14px !important;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section a {
+		font-size: 14px !important;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section .confirmation_checkbox {
+		line-height: 150%;
+		padding: 0px !important;
+		margin: 0px 0px 15px 0px !important;
+		color: #000000 !important;
+		font-family: 'Open Sans', sans-serif !important;
+		font-size: 12px !important;
+		font-weight: normal !important;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section .confirmation_checkbox input[type="checkbox"] {
+		margin-right: 5px !important;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section .form-group {
+		margin-bottom: 15px;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section .form-group label {
+		float: left;
+		margin-bottom: 10px;
+		width: 100%;
+		line-height: 100%;
+		font-weight: bold;
+		color: #000000 !important;
+		font-family: 'Open Sans', sans-serif !important;
+		font-size: 14px !important;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section .checkbox {
+		width: 100%;
+		margin: 0px 0px 10px 0px;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section .checkbox label {
+		color: #000000 !important;
+		font-family: 'Open Sans', sans-serif !important;
+		font-size: 14px !important;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section .checkbox input {
+		margin: 0px 5px 0px 0px;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section .checkbox input[type=checkbox] {
+		-webkit-appearance: checkbox;
+	}
+
+	#mlb2-5388423.ml-subscribe-form .form-group .form-control {
+		width: 100%;
+		font-size: 13px;
+		padding: 10px 10px;
+		height: auto;
+		font-family: Arial;
+		border-radius: 0px;
+		border: 1px solid #cccccc !important;
+		color: #000000 !important;
+		background-color: #FFFFFF !important;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		clear: left;
+	}
+
+	#mlb2-5388423.ml-subscribe-form button {
+		border: none !important;
+		cursor: pointer !important;
+		width: 100% !important;
+		border-radius: 10px !important;
+		height: 40px !important;
+		background-color: #ffffff !important;
+		color: #000000 !important;
+		font-family: 'Open Sans', sans-serif !important;
+		font-size: 16px !important;
+		text-align: center !important;
+		padding: 0 !important;
+		margin: 0 !important;
+	}
+
+	#mlb2-5388423.ml-subscribe-form button.gradient-on {
+		background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
+		background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
+		background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
+		background: linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
+	}
+
+	#mlb2-5388423.ml-subscribe-form button.gradient-on:hover {
+		background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
+		background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
+		background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
+		background: linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
+	}
+
+	#mlb2-5388423.ml-subscribe-form button[disabled] {
+		cursor: not-allowed!important;
+	}
+
+	#mlb2-5388423.ml-subscribe-form .form-section.ml-error label {
+		color: red!important;
+	}
+
+	#mlb2-5388423.ml-subscribe-form .form-group.ml-error label {
+		color: red!important;
+	}
+
+	#mlb2-5388423.ml-subscribe-form .form-group.ml-error .form-control {
+		border-color: red!important;
+	}
+
+	#mlb2-5388423 .ml-vertical-align-center {
+		text-align: center;
+	}
+
+	#mlb2-5388423 .ml-block-success,
+	#mlb2-5388423 form.ml-block-form {
+		display: inline-block;
+		width: 100% !important;
+	}
+
+	@media (max-width: 768px) {
+		#mlb2-5388423 {
+			width: 100% !important;
+		}
+		#mlb2-5388423 form.ml-block-form,
+		#mlb2-5388423 .subscribe-form {
+			width: 100% !important;
+		}
+	}
+
+	#mlb2-5388423 .subscribe-form.horizontal {
+		padding-bottom: 0px;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section.horizontal {
+		float: left;
+		margin-bottom: 5px;
+		width: 70%;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section.horizontal .form-group {
+		float: left;
+		width: 50%;
+		padding-right: 10px;
+		box-sizing: border-box;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section.horizontal .form-group .form-control {
+		height: 40px;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section.horizontal.ml-button-position {
+		width: 30%;
+		padding: 0;
+	}
+
+	#mlb2-5388423 .subscribe-form .form-section.horizontal.ml-button-position.top-padding {
+		padding-top: 24px;
+	}
+
+	@media (max-width: 768px) {
+		#mlb2-5388423 .subscribe-form .form-section.horizontal {
+			float: none;
+		}
+		#mlb2-5388423 .subscribe-form .form-section.horizontal,
+		#mlb2-5388423 .subscribe-form .form-section.horizontal.ml-button-position,
+		#mlb2-5388423 .subscribe-form .form-section.horizontal .form-group {
+			width: 100%;
+			padding: 0;
+		}
+		#mlb2-5388423 .subscribe-form .form-section.horizontal.ml-button-position {
+			margin-bottom: 20px;
+		}
+	}
+	</style>
+
 	<!--Favicon-->
 	<link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
 
