@@ -4,6 +4,85 @@
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
+	<!-- Open Graph Tags -->
+	<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% endif %} | {{ site.title | escape }}" />
+	<meta property="og:site_name" content="{{ site.title | escape }}" />
+	<meta property="og:type" content="{% if page.opengraph_type %}{{ page.opengraph_type }}{% else if site.opengraph_type %}{{ site.opengraph_type }}{% else %}website{% endif %}" />
+
+	{% if page.excerpt or site.descriptiion %}
+	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}{% else %}{{ site.description }}{% endif %}" />
+	{% endif %}
+
+	<meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
+
+	{% if site.facebook_app_id %}
+	<meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
+	{% endif %}
+
+	<meta name="twitter:card" content="summary" />
+
+	{% if site.author.twitter %}
+	<meta name="twitter:site" content="{{ site.author.twitter }}" />
+	{% endif %}
+
+	{% if page.author.twitter or site.author.twitter %}
+	<meta name="twitter:creator" content="{% if page.twitter %}{{ page.author.twitter }}{% else %}{{site.author.twitter }}{% endif %}" />
+	{% endif %}
+
+	{% if page.author.google or site.author.google %}
+	<link rel=”author” href="https://plus.google.com/{% if page.author.google %}{{ page.author.google }}{% else %}{{ site.author.google }}{% endif %}"/>
+	{% endif %}
+
+	{% if page.determiner %}
+	<meta property="og:determiner" content="{{ page.determiner }}" />
+	{% endif %}
+
+	{% if site.locales %}
+	{% assign locale_i = 0 %}
+	{% for locale in site.locales %}
+		<meta property="og:locale{% if locale_i != 0 %}:alternate{% endif %}" content="{{ locale }}" />
+		{% assign locale_i = locale_i | plus: 1 %}
+	{% endfor %}
+	{% endif %}
+
+	{% if page.image.src %}
+	<!-- Open Graph Image -->
+
+	<meta property="og:image" content="{{ site.url | replace:'https','http' }}{{ page.image.src }}" />
+	<meta property="og:image:secure_url" content="{{ site.url | replace:'http://','https://' }}{{ page.image.src }}" />
+
+	{% if page.image.type %}
+	<meta property="og:image:type" content="{{ page.image.type }}" />
+	{% endif %}
+
+	{% if page.image.height %}
+	<meta property="og:image:height" content="{{ page.image.height }}" />
+	{% endif %}
+
+	{% if page.image.width %}
+	<meta property="og:image:width" content="{{ page.image.width }}" />
+	{% endif %}
+
+	{% elsif site.image.src %}
+	<!-- Open Graph Image -->
+
+	<meta property="og:image" content="{{ site.url | replace:'https','http' }}{{ site.image.src }}" />
+	<meta property="og:image:secure_url" content="{{ site.url | replace:'http://','https://' }}{{ site.image.src }}" />
+
+	{% if site.image.type %}
+	<meta property="og:image:type" content="{{ site.image.type }}" />
+	{% endif %}
+
+	{% if site.image.height %}
+	<meta property="og:image:height" content="{{ site.image.height }}" />
+	{% endif %}
+
+	{% if site.image.width %}
+	<meta property="og:image:width" content="{{ site.image.width }}" />
+	{% endif %}
+
+	{% endif %}
+
 	<!-- Google, Bing, Pinterest and Facebook Meta Verification -->
 	<meta name="google-site-verification" content="wAtOt92GCvuANIDEh57uq0aeHzYwrz0sEUcsaV3N5cw" />
 	<meta name="google-site-verification" content="IONveo9e9y77VPz-9fJ2N31XAPbHoVNAg2HiHSUX2lo" />
