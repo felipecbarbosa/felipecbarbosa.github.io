@@ -68,4 +68,4 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-gems: [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag]
+gems: [jekyll-paginate, jekyll-sitemap]
