@@ -44,8 +44,7 @@ theme_settings:
   # Scripts
   disqus_shortname: felipebarbosa
   katex: true # Enable if using math markup
-  jquery: true
-
+  
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
