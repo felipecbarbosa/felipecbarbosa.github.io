@@ -13,8 +13,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <p>Quer receber dicas de livros, artigos interessantes e posts novos do blog?</p>
-     <script type="text/javascript" src="//static.mailerlite.com/data/webforms/457995/t2x4q0.js?v1"></script>
-     
+          
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
