@@ -2,6 +2,19 @@
 <script src="{{ "/js/katex_init.js" | prepend: site.baseurl }}"></script>
 {% endif %}
 
+<!-- Mudança Title Tab -->
+<script>
+$(document).ready(function () {
+  var title =  document.title;
+  window.addEventListener('focus', function() {      
+    document.title = title;
+  });
+  window.addEventListener('blur', function() {
+      document.title = "Continue lendo!";
+  });
+});
+</script>
+
 {% if site.theme_settings.footer_text %}
 <footer class="site-footer">
 	<p class="text">{{ site.theme_settings.footer_text }}</p>
