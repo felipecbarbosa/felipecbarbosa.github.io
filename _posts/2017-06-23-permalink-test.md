@@ -2,6 +2,7 @@
 layout: post
 title: Permalink Test
 category: Test
+author: Felipe Barbosa
 permalink: /permalink-test/
 ---
 
