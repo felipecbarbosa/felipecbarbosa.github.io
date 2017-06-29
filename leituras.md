@@ -18,6 +18,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Dias de Luta - o rock e o Brasil dos anos 80
 - O Covil do Diabo
 - O Herói e o Fora-da-Lei
+- Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
 
 ### Livros 2016 (22)
 - Flashboys
