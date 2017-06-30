@@ -36,13 +36,12 @@
 	{% if page.feature-img %}
 	<!-- Open Graph Image -->
 
-	<meta property="og:image" content="{{ site.url | replace:'https','http' }}{{ page.feature-img }}" />
-	<meta property="og:image:secure_url" content="{{ site.url | replace:'http://','https://' }}{{ page.feature-img }}" />
-
+	<meta property="og:image" content="{{ page.feature-img }}" />
+	
 	{% elsif site.theme_settings.image %}
 	<!-- Open Graph Image -->
 
-	<meta property="og:image" content="{{ site.url | replace:'https','http' }}{{ site.theme_settings.image }}" />
+	<meta property="og:image" content="{{ site.theme_settings.image }}" />
 	
 	{% endif %}
 
