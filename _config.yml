@@ -12,6 +12,7 @@ theme_settings:
   author: Felipe Barbosa
   name: Felipe Barbosa
   locale: pt-br
+  image: https://res.cloudinary.com/felipe-barbosa/image/upload/q_100/v1498795725/social-img-og.png
   
   # Header and footer text
   header_text: >

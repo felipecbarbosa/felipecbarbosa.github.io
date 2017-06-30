@@ -33,42 +33,17 @@
 	<meta property="og:locale" content="{{ site.theme_settings.locale }}" />
 	{% endif %}
 
-	{% if page.image.src %}
+	{% if page.feature-img %}
 	<!-- Open Graph Image -->
 
-	<meta property="og:image" content="{{ site.url | replace:'https','http' }}{{ page.image.src }}" />
-	<meta property="og:image:secure_url" content="{{ site.url | replace:'http://','https://' }}{{ page.image.src }}" />
+	<meta property="og:image" content="{{ site.url | replace:'https','http' }}{{ page.feature-img }}" />
+	<meta property="og:image:secure_url" content="{{ site.url | replace:'http://','https://' }}{{ page.feature-img }}" />
 
-	{% if page.image.type %}
-	<meta property="og:image:type" content="{{ page.image.type }}" />
-	{% endif %}
-
-	{% if page.image.height %}
-	<meta property="og:image:height" content="{{ page.image.height }}" />
-	{% endif %}
-
-	{% if page.image.width %}
-	<meta property="og:image:width" content="{{ page.image.width }}" />
-	{% endif %}
-
-	{% elsif site.image.src %}
+	{% elsif site.theme_settings.image %}
 	<!-- Open Graph Image -->
 
-	<meta property="og:image" content="{{ site.url | replace:'https','http' }}{{ site.image.src }}" />
-	<meta property="og:image:secure_url" content="{{ site.url | replace:'http://','https://' }}{{ site.image.src }}" />
-
-	{% if site.image.type %}
-	<meta property="og:image:type" content="{{ site.image.type }}" />
-	{% endif %}
-
-	{% if site.image.height %}
-	<meta property="og:image:height" content="{{ site.image.height }}" />
-	{% endif %}
-
-	{% if site.image.width %}
-	<meta property="og:image:width" content="{{ site.image.width }}" />
-	{% endif %}
-
+	<meta property="og:image" content="{{ site.url | replace:'https','http' }}{{ site.theme_settings.image }}" />
+	
 	{% endif %}
 
 	<!-- Google, Bing, Pinterest and Facebook Meta Verification -->
