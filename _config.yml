@@ -9,9 +9,8 @@ theme_settings:
   avatar: felipe-barbosa-business-marketing-product-growth.png
   gravatar: # Email MD5 hash
   description: "Um blog para falar sobre negócios de tecnologia, marketing nas startups (growth marketing) e desenvolvimento de produto." # used by search engines
-  author:
+  author: Felipe Barbosa
   name: Felipe Barbosa
-  twitter: 'felipecb_'
   locale: pt-br
   
   # Header and footer text

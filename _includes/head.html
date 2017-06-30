@@ -5,12 +5,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Open Graph Tags -->
-	<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% endif %} | {{ site.title | escape }}" />
-	<meta property="og:site_name" content="{{ site.title | escape }}" />
-	<meta property="og:type" content="{% if page.opengraph_type %}{{ page.opengraph_type }}{% else if site.opengraph_type %}{{ site.opengraph_type }}{% else %}website{% endif %}" />
+	<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% endif %} | {{ site.theme_settings.title | escape }}" />
+	<meta property="og:site_name" content="Felipe Barbosa" />
+	<meta property="og:type" content="website" />
 
-	{% if page.excerpt or site.descriptiion %}
-	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}{% else %}{{ site.description }}{% endif %}" />
+	{% if page.excerpt or site.theme_settings.descriptiion %}
+	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}{% else %}{{ site.theme_settings.description }}{% endif %}" />
 	{% endif %}
 
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
@@ -21,28 +21,16 @@
 
 	<meta name="twitter:card" content="summary" />
 
-	{% if site.author.twitter %}
-	<meta name="twitter:site" content="{{ site.author.twitter }}" />
+	{% if site.twitter %}
+	<meta name="twitter:site" content="{{ site.twitter }}" />
 	{% endif %}
 
-	{% if page.author.twitter or site.author.twitter %}
-	<meta name="twitter:creator" content="{% if page.twitter %}{{ page.author.twitter }}{% else %}{{site.author.twitter }}{% endif %}" />
+	{% if page.twitter or site.twitter %}
+	<meta name="twitter:creator" content="{% if page.twitter %}{{ page.twitter }}{% else %}{{site.twitter }}{% endif %}" />
 	{% endif %}
 
-	{% if page.author.google or site.author.google %}
-	<link rel=”author” href="https://plus.google.com/{% if page.author.google %}{{ page.author.google }}{% else %}{{ site.author.google }}{% endif %}"/>
-	{% endif %}
-
-	{% if page.determiner %}
-	<meta property="og:determiner" content="{{ page.determiner }}" />
-	{% endif %}
-
-	{% if site.locales %}
-	{% assign locale_i = 0 %}
-	{% for locale in site.locales %}
-		<meta property="og:locale{% if locale_i != 0 %}:alternate{% endif %}" content="{{ locale }}" />
-		{% assign locale_i = locale_i | plus: 1 %}
-	{% endfor %}
+	{% if site.theme_settings.locale %}
+	<meta property="og:locale" content="{{ site.theme_settings.locale }}" />
 	{% endif %}
 
 	{% if page.image.src %}
