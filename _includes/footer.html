@@ -29,6 +29,45 @@ $.extend($.validator.messages, {
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!-- End mc_embed_signup -->
 
+<!-- Segment Identify/Pageview Facebook Track -->
+<script type='text/javascript'>
+$('form[name="mc-embedded-subscribe-form-post"] input[type="submit"]').click(function(e){
+  e.preventDefault();
+
+	analytics.identify($('#mce-EMAIL').val(), {
+  		name: $('#mce-FNAME').val(),
+  		email: $('#mce-EMAIL').val()
+	});
+	
+	analytics.track('subscribed-to-newsletter-post');
+    
+    	_dcq.push(["identify", {
+  		email: $('#mce-EMAIL').val(),
+  		name: $('#mce-FNAME').val(),
+ 		tags: ["Newsletter Post"]
+	}]);
+	
+	$('form[name="mc-embedded-subscribe-form-post"]').submit();
+});
+
+$('form[name="mc-embedded-subscribe-form-header"] input[type="submit"]').click(function(e){
+  e.preventDefault();
+
+	analytics.identify($('#mce-EMAILH').val(), {
+		email: $('#mce-EMAILH').val()
+	});
+    
+	analytics.track('subscribed-to-newsletter-header');
+    
+    	_dcq.push(["identify", {
+  		email: $('#mce-EMAILH').val(),
+  		tags: ["Newsletter Header"]
+	}]);
+	
+	$('form[name="mc-embedded-subscribe-form-header"]').submit();
+});    
+</script>
+
 <!-- Schema.Org -->
 <script type="application/ld+json">
 [
