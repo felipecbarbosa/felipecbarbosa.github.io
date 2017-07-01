@@ -7,3 +7,5 @@ permalink: /permalink-test/
 ---
 
 This is a test.
+
+Is Github working?
