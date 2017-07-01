@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Open Graph Tags -->
-	<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% endif %} | {{ site.theme_settings.title | escape }}" />
+	<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.theme_settings.title | escape }}{% endif %}" />
 	<meta property="og:site_name" content="Felipe Barbosa" />
 	<meta property="og:type" content="website" />
 
