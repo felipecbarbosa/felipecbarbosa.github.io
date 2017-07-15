@@ -19,6 +19,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - O Covil do Diabo
 - O Herói e o Fora-da-Lei
 - Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
+- Competing Against Luck
 
 ### Livros 2016 (22)
 - Flashboys
