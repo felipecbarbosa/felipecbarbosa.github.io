@@ -14,7 +14,7 @@ A equipe do Route nunca conversou sobre o que nos levou a chegar ao fim sem suce
 
 Sei que depois que temos o resultado fica fácil olhar pro passado e contar uma história para justificar o que aconteceu. Tudo fica claro. 
 
-Ter uma visão do que fizemos errado não significa dizer que teríamos sucessos fazendo o oposto, mas sim que nossos desafios seriam outros. Nesse caso também é possível olhar pra trás e ver pontos bem errados porque a maioria nós líamos e sabíamos que não estávamos certo, afinal poderiam ser aprendidos em qualquer manual "Criando uma Startup 101" (ou lendo o famoso A Startup Enxuta).
+Ter uma visão do que fizemos errado não significa dizer que teríamos sucessos fazendo o oposto, mas sim que nossos desafios seriam outros. Nesse caso também é possível olhar pra trás e ver pontos bem errados, afinal poderiam ser aprendidos em qualquer manual "Criando uma Startup 101" (ou lendo o famoso A Startup Enxuta).
 
 Posso dizer que cometemos erros em todas as frentes do negócio: marketing, vendas, desenvolvimento de produto e em decisões estratégicas do negócio.
 
