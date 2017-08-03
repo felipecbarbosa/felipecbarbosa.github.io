@@ -78,13 +78,13 @@ Estava estampado lá no site e na nossa comunicação <i>Free while in Beta</i>.
 
 Quando começamos a convidar usuários que não eram do nosso grupo de amigos (nessa época as empresas RedeHost, Umbler e nós mesmos internamente usávamos o Route) vimos que as pessoas não estavam usando de fato a ferramenta.
 
-Criavam conta, mexiam um pouco, enviavam email com algumas perguntas mas não criavam fluxos de email automatizados.
+Criavam conta, mexiam um pouco, nos enviavam email com algumas perguntas mas não criavam fluxos de email automatizados.
 
 Isso foi nos preocupando, conversávamos internamente mas não tivemos nenhum processo de fazer um estudo, uma pesquisa com essas pessoas pra entender o que estava acontecendo.
 
 De outubro de 2014 até agosto de 2015 ficamos em Beta sem ter buscado entender profundamente o motivo dos usuários estarem tão pouco engajados.
 
-Assumios que era um problema de produto apenas: nosso design não é bom o suficiente para guiar os usuários na ferramenta.
+Assumimos que era um problema de produto apenas: nosso design não é bom o suficiente para guiar os usuários na ferramenta.
 
 Decidimos que o certo a se fazer era uma mudança radical na interface.
 
