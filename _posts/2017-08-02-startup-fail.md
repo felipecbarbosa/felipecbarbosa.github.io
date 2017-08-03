@@ -148,9 +148,9 @@ O Route era muito bom ao mesmo tempo que não era.
 
 Nossas melhores features, as que estavam redondas não eram as que mais importavam aos nossos usuários.
 
-Um problema emblemático era o do tempo para enviar os emails nos fluxos. Alguns momentos eles iam no tempo certo e outras não.
+Um problema emblemático era o do tempo para enviar os emails nos fluxos. Alguns momentos eles iam no tempo certo e outros não.
 
-Perdemos alguns contratos com clientes bem interessantes por erros básicos que cometemos e que uma ferramenta que tinha como core o envio de mensagens de email não poderia cometer.
+Perdemos alguns contratos com clientes bem interessantes por erros básicos que cometemos e que uma ferramenta que tinha como função principal o envio de mensagens de email não poderia cometer.
 
 O mínimo que o usuário espera é que o email seja enviado e que as informações nele sejam confiáveis, uma vez que devido ao poder de customização do Route, uma mensagem de email poderia ter muitos parâmetros que seriam preenchidos de maneira dinâmica para cada pessoa que recebesse.
 
@@ -174,7 +174,7 @@ Nossa equipe toda era nova nesse mundo da startup, do SaaS e da tecnologia de ma
 
 Lá fora, além de tudo, existiam vários concorrentes mais estabelecidos e outros que começavam a ganhar tração.
 
-A gente conversava internamente assummindo que nenhuma empresa tinha ainda dominado o mercado de automação de marketing. 
+A gente conversava internamente assumindo que nenhuma empresa tinha ainda dominado o mercado de automação de marketing. 
 
 As pesquisas sobre o mercado mostravam que muitas empresas, a maior parte delas, não utilizava nenhuma ferramenta. Olha só que oportunidade!
 
