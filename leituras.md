@@ -22,6 +22,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Competing Against Luck (Muito Além da Sorte: Inovação e Escolhas - Como entender o que os clientes querem e quanto estão disposts a pagar)
 - Intercom On Starting Up
 - O Projeto Desfazer
+- The Handy Guide for Product People
 
 ### Livros 2016 (22)
 - Flashboys
