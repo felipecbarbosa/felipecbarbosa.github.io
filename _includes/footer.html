@@ -125,6 +125,15 @@ $('form[name="mc-embedded-subscribe-form-header"] input[type="submit"]').click(f
 ]
 </script>
 
+<!-- AgileCRM Tracking -->
+<script id="_agile_min_js" async type="text/javascript" src="https://felipebarbosa.agilecrm.com/stats/min/agile-min.js"> </script>
+	<script type="text/javascript" >
+	var Agile_API = Agile_API || {}; Agile_API.on_after_load = function(){
+	_agile.set_account('t2gtj1geprh4pjglvs08m9045s', 'felipebarbosa');
+	_agile.track_page_view();
+	_agile_execute_web_rules();};
+</script>
+
 {% if site.theme_settings.footer_text %}
 <footer class="site-footer">
 	<p class="text">{{ site.theme_settings.footer_text }}</p>
