@@ -19,10 +19,11 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - O Covil do Diabo
 - O Herói e o Fora-da-Lei
 - Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
-- Competing Against Luck
+- Competing Against Luck - The Story of Innovation and Customer Choice
 - Intercom On Starting Up
 - O Projeto Desfazer
 - The Handy Guide for Product People
+- The San Franciso Fallacy - The Ten Fallacies That Make Founders Fail
 
 ### Livros 2016 (22)
 - Flashboys
