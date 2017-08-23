@@ -27,7 +27,7 @@ Nos comentários muita gente falando que tinha que construtir marca, que não ad
 Parece que havia chegado o momento onde aquelas pessoas (pelo que eu lembro muitos eram de agência) queriam esfregar na cara do pessoal de performance que *branding* era muito importante.
 
 <center>
-![O'RLY?](http://res.cloudinary.com/felipe-barbosa/image/upload/c_scale,w_400/v1503462039/orly_owl_fjtm0k.jpg)
+<img src="http://res.cloudinary.com/felipe-barbosa/image/upload/c_scale,w_400/v1503462039/orly_owl_fjtm0k.jpg" alt=ORLY>
 </center>
 
 Impressionante é que durante o tempo que eu acompanhei não teve ninguém dizendo que focar apenas em *branding* também não ajuda muito.
