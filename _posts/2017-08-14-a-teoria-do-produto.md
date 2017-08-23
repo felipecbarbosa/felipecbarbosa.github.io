@@ -21,13 +21,13 @@ Em qualquer segmento, mercado e época parece que um gerente de produto fica no 
 
 No Marketing, dentro do clássico Mix de Marketing (4 P's) a teoria do produto está presente. Um dos P's é justamente o de Produto.
 
-Posso dizer que a vontade de revisitar os P de Produto do Mix de Marketing ficou mais forte lendo sobre a teoria do Jobs To Be Done: as pessoas "contratam" (hire) produtos para determinado <i>job</i>.
+Posso dizer que a vontade de revisitar os P de Produto do Mix de Marketing ficou mais forte lendo sobre a teoria do Jobs To Be Done: as pessoas "contratam" (hire) produtos para determinado *job*.
 
-Quando uma empresa entende o <i>job</i> que ela executa acaba fazendo que ela posicione seu produto de maneira diferente, faz com que ela enxergue seus concorrentes de uma outra maneira, descobrindo muitas vezes que concorre não apenas com empresas do mesmo setor, e veja que o que as pessoas compram não é necessariamente o produto em si.
+Quando uma empresa entende o *job* que ela executa acaba fazendo que ela posicione seu produto de maneira diferente, faz com que ela enxergue seus concorrentes de uma outra maneira, descobrindo muitas vezes que concorre não apenas com empresas do mesmo setor, e veja que o que as pessoas compram não é necessariamente o produto em si.
 
 "People don't want to buy a quarter-inch drill, they want a quarter-inch hole."
 
-A frase acima atribuída ao Theodore Levitt, autor do clássico artigo <i>Marketing Myopia</i>, retrata bem a ideia de que as empresas podem estar erradas quanto ao que pensam vender aos clientes e de que um produto não é apenas um produto.
+A frase acima atribuída ao Theodore Levitt, autor do clássico artigo *Marketing Myopia*, retrata bem a ideia de que as empresas podem estar erradas quanto ao que pensam vender aos clientes e de que um produto não é apenas um produto.
 
 Ele tem diferentes camadas e produz percepções diferentes nas pessoas que buscam eles.
 
