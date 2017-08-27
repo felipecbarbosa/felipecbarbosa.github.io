@@ -3,7 +3,7 @@ layout: post
 title: A teoria do produto - Uma visão de Marketing
 author: Felipe Barbosa
 permalink: /teoria-do-produto/
-category: produto
+categories: produto
 published: false
 ---
 

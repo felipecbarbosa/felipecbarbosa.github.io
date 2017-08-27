@@ -3,7 +3,7 @@ layout: post
 title: Startup Fail - O que erramos no Route?
 author: Felipe Barbosa
 permalink: /route-startup-fail/
-category: startup
+categories: startup
 ---
 
 Alguns meses atrás eu comecei a escrever um texto contando a minha experiência no Route onde o foco era o que eu acreditava que fizemos errado.
