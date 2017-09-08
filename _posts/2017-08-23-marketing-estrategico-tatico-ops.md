@@ -2,7 +2,7 @@
 layout: post
 title: Precisamos falar sobre Marketing estratégico, tático e operacional
 author: Felipe Barbosa
-permalink: /Marketing-estrategico-tatico-operacional/
+permalink: /marketing-estrategico-tatico-operacional/
 categories: Marketing
 ---
 

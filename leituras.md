@@ -24,6 +24,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - O Projeto Desfazer
 - The Handy Guide for Product People
 - The San Franciso Fallacy - The Ten Fallacies That Make Founders Fail
+- Hypergrowth - How the Customer-Driven Model is Revolutionizing the Way Businesses Build Products, Teams, & Brands
 
 ### Livros 2016 (22)
 - Flashboys
