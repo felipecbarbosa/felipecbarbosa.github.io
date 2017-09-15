@@ -25,6 +25,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - The Handy Guide for Product People
 - The San Franciso Fallacy - The Ten Fallacies That Make Founders Fail
 - Hypergrowth - How the Customer-Driven Model is Revolutionizing the Way Businesses Build Products, Teams, & Brands
+- The Product Book - How to Become a Great Product Manager
 
 ### Livros 2016 (22)
 - Flashboys
