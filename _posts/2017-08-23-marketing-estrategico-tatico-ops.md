@@ -3,7 +3,7 @@ layout: post
 title: Precisamos falar sobre Marketing estratégico, tático e operacional
 author: Felipe Barbosa
 permalink: /marketing-estrategico-tatico-operacional/
-categories: Marketing
+categories: marketing
 ---
 
 O universo do Marketing de tempo em tempo testa minha paciência com relação a alguns especialistas por aí.
@@ -28,7 +28,7 @@ Parece que havia chegado o momento onde aquelas pessoas (pelo que eu lembro muit
 
 <br>
 <div style="text-align:center;">
-<img src="http://res.cloudinary.com/felipe-barbosa/image/upload/c_scale,w_400/v1503462039/orly_owl_fjtm0k.jpg" />
+<img src="https://res.cloudinary.com/felipe-barbosa/image/upload/v1503462039/orly_owl_fjtm0k.jpg" />
 </div>
 <br>
 
