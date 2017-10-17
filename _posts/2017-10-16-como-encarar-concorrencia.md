@@ -18,7 +18,9 @@ Existem histórias clássicas como a das grandes empresas ferroviárias que não
 
 Essas são histórias clássicas dos cursos de administração. Todas elas deviam estar presas aos seus concorrentes mais próximos e semelhantes.
 
-Você não é concorrente de alguém ou tem algum concorrente. Você está concorrente de alguém e alguém está seu concorrente.
+Você não é concorrente de alguém ou tem algum concorrente. 
+
+**Você está concorrente de alguém e alguém está seu concorrente**.
 
 ## Definindo a concorrência
 
@@ -121,7 +123,7 @@ De uma forma ou outra, a decisão de bater de frente ou não vai aparecer ao pen
 
 Pensar a concorrência parece uma tarefa fácil mas não é. 
 
-Fico sempre com um pé atrás quando alguém de bate pronto diz quem é quem não é concorrente. Será que toda essa certeza condiz com a realidade?
+Fico sempre com um pé atrás quando alguém de bate pronto diz quem é e quem não é concorrente. Será que toda essa certeza condiz com a realidade?
 
 Falei lá em cima que definir os concorrentes é uma escolha, mas existem maneiras melhores de fazermos qualquer escolha.
 
