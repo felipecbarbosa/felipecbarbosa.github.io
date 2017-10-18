@@ -12,7 +12,7 @@ Algumas dessas escolhas podem ser por vontade do gestor e outras vem naturalment
 
 Parece fácil definir os concorrentes, em um primeiro momento basta pensar em produtos e serviços semelhantes ao seu. 
 
-Apesar de parece óbvia essa escolha ela pode gerar a famosa miopia de marketing. 
+Apesar de parecer óbvia essa escolha ela pode gerar a famosa miopia de marketing. 
 
 Existem histórias clássicas como a das grandes empresas ferroviárias que não perceberam o desenvolvimento das autoestradas, automóveis e transportes aéreos. A Blockbuster que não viu a oportunidade da distribuição digital. A Kodak que ficou presa aos filmes.
 
@@ -42,7 +42,9 @@ Seguindo no exemplo das ferramentas que se posicionam como Automação de Market
 
 Na concorrência por mercado já começa a ficar mais interessante a análise porque começam a surgir insights que passariam desabercebidos.
 
-O Github, em uma análise mais básica de concorrência, não seria considerado concorrente do Trello. Mas no momento que adicionou uma maneira de gerenciar projetos com uma visão Kanban, de certa forma passou a ser porque, para um determinado segmento de clientes, eles estavam resolvendo uma necessidade semelhante.
+O Github, em uma análise mais básica de concorrência, não seria considerado concorrente do Trello. 
+
+Mas no momento que adicionou uma maneira de gerenciar projetos com uma visão Kanban, de certa forma passou a ser porque, para um determinado segmento de clientes, eles estavam resolvendo uma necessidade semelhante.
 
 ### Concorrência por segmento ou setor de mercado
 
@@ -72,7 +74,7 @@ Também é um conceito mais para se pensar em inovação do que simplesmente def
 
 De qualquer forma é uma maneira interessante de pensar quem são os concorrentes.
 
-Uma ferramenta de webconferência como Google Hangouts, Uberconference, Skype e outras tantas que existem no mercado poderiam ser vistas como competidoras por companias aéres e hotéis que lucrariam com as viagens de negócios que agora são realizadas remotamente.
+Uma ferramenta de webconferência como Google Hangouts, Uberconference, Skype e outras tantas que existem no mercado poderiam ser vistas como competidoras por companias aéreas e hotéis que lucrariam com as viagens de negócios que agora são realizadas remotamente.
 
 O Intercom e Drift, por exemplo, podem ser competidores um do outro, competidores das ferramentas que enviam emails que citei acima e também de ferramentas de conferência se pensarmos no uso delas para comunicação com clientes. 
 
