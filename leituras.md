@@ -27,6 +27,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Hypergrowth - How the Customer-Driven Model is Revolutionizing the Way Businesses Build Products, Teams, & Brands
 - The Product Book - How to Become a Great Product Manager
 - Small Data - Como poucas pistas indicam grandes tendências
+- From Cradle to Stage: Stories from the Mothers Who Rocked and Raised Rock Stars
 
 ### Livros 2016 (22)
 - Flashboys
