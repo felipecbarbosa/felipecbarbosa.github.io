@@ -8,6 +8,10 @@ permalink: /leituras-recomendadas/
 
 Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia. Aqui estão os livros que li nos últimos tempos.
 
+### Livros 2018
+- Sejamos todos Feministas
+- Intercom on Marketing
+
 ### Livros 2017
 - Antifrágil
 - Intercom on Onboarding
@@ -28,6 +32,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - The Product Book - How to Become a Great Product Manager
 - Small Data - Como poucas pistas indicam grandes tendências
 - From Cradle to Stage: Stories from the Mothers Who Rocked and Raised Rock Stars
+- Mulheres Incríveis
 
 ### Livros 2016 (22)
 - Flashboys
