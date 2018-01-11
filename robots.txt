@@ -1,0 +1,7 @@
+---
+permalink: robots.txt
+layout:
+---
+
+User-agent: *
+Sitemap: {{ site.url }}/sitemap.xml
