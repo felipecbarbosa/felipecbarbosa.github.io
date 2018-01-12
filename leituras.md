@@ -12,7 +12,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Sejamos todos Feministas
 - Intercom on Marketing
 
-### Livros 2017
+### Livros 2017 (21)
 - Antifrágil
 - Intercom on Onboarding
 - Scrum e Métodos Ágeis — Um Guia Prático
@@ -50,7 +50,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Intercom on Jobs to Be Done
 - Intercom on Customer Engagement
 - The Lean Product Playbook
-- You’re Not Só Smart
+- You’re Not So Smart
 - Tudo é Óbvio (Desde que você saiba a resposta)
 - Feitas para Vencer
 - Marina
