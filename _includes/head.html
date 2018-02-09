@@ -5,11 +5,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- AMP Mercury Converter -->
-	{% if page.url %}
 	<link rel="amphtml" href="https://mercury.postlight.com/amp?url={{ site.url }}{{ page.url }}">
-	{% endif %}
-
-
+	
 	<!-- Open Graph Tags -->
 	<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.theme_settings.title | escape }}{% endif %}" />
 	<meta property="og:site_name" content="Felipe Barbosa" />
