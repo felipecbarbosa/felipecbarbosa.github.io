@@ -138,18 +138,6 @@ addthis_share = {
 }
 </script>
 
-<!--Interakt Tracking -->
-<script>
-	(function() {
-	var interakt = document.createElement('script');
-	interakt.type = 'text/javascript'; interakt.async = true;
-	interakt.src = "//cdn.interakt.co/interakt/1b4978793a6af123a0b6c079e79eefc0.js";
-	var scrpt = document.getElementsByTagName('script')[0];
-	scrpt.parentNode.insertBefore(interakt, scrpt);
-	})()
-  </script>
-
-
 {% if site.theme_settings.footer_text %}
 <footer class="site-footer">
 	<p class="text">{{ site.theme_settings.footer_text }}</p>
