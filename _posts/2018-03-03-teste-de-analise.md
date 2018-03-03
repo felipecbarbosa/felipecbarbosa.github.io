@@ -220,7 +220,13 @@ Comecei a investir mais nos treinamentos de sites como [Datacamp](https://dataca
 
 Sabia que eu estava em um nível próximo ao intermediário, mas agora quero me estabelecer no intermediário para chegar logo no avançado.
 
-Resolvi me tornar mais fluente na parte de análise de produtos e de negócios. 
+Resolvi me tornar mais fluente na parte de análise de produtos e de negócios.
+
+Não que eu queira ir para uma dessas áreas de ciência de dados, esse teste está longe de ter uma complexidade nesse nível.
+
+Mas eu sinto falta da vivência desse pensamento mais matemático. Durante meus anos no Route era mais próximo do meu trabalho, mas hoje está um pouco mais distante.
+
+E a prática vai levando a melhorias contínuas nas análises e como entender os problemas. 
 
 Acrescentar novos conhecimentos e ferramentas a algo que eu sempre me senti confortável em fazer.
 
