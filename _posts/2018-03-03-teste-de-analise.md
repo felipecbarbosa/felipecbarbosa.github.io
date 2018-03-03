@@ -110,7 +110,7 @@ Comecei criando uma tabela para organizar as informações que eu tinha e começ
 
 Nela coloquei nas colunas os anos e nas linhas os itens que estavam na descrição do cenário. A minha tabela inicial ficou da seguinte maneira:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuCEO2i359amCTus-pudLMRF76pcS0jA5k0XI1-fjbDJ1NiSPzHREbRU5Ix3kVXozRg5p3cgM6m4tN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrBpjcZdt2TpC3I6?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 Comecei a preencher a linha dedicada ao Facebook. Mais precisamente ao tráfego projetado nesse período. Fiz isso porque era a partir dele que eu iria pegar o tráfego projetado para a ABC.
 
@@ -136,7 +136,7 @@ Com a informação do tráfego calculada, com a taxa de conversão do tráfego e
 
 Com a quantidade vendida teria a informação dos custos atrelados as vendas e com isso ver quanto ficaria a receita para poder responder se valia a pena a operação mesmo investindo $62K.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuCEO2i359amCTus-pudLMRF76pcS0jA5k0XI1-fjbDJ1NiSPzHREbRU5Ix3kVXozRg5p3cgM6m4tN/pubhtml?gid=1094902133&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shricKWpxqkzra68i?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 Tudo certo, não é mesmo?
 
@@ -156,7 +156,7 @@ De 2010 até 2014 a ABC teria gerado um resultado de $86.345, o que dá por volt
 
 Essa questão pedia uma análise sobre quanto deveria aumentar a conversão para valer a pena trocar do PayPal que cobrava 5% de cada cartão vendido pro Facebook que cobraria 10%.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuCEO2i359amCTus-pudLMRF76pcS0jA5k0XI1-fjbDJ1NiSPzHREbRU5Ix3kVXozRg5p3cgM6m4tN/pubhtml?gid=1764842120&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrEltfU0wr9jmYXK?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 Nessa tabela, eu fiz um teste aumentando de 0,5% de conversão para 0,6% de conversão e ver o resultado financeiro.
 
