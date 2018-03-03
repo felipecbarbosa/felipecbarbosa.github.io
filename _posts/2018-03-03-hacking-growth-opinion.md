@@ -46,7 +46,7 @@ A diferença é que cada empresa vai achar a maneira de executá-la que esteja d
 
 Quando estava na metade do livro isso ficou claro. Publiquei o seguinte no meu LinkedIn:
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:6370282270883872768" height="435" width="504" frameborder="0" allowfullscreen=""></iframe>
+<center><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:6370282270883872768" height="435" width="504" frameborder="0" allowfullscreen=""></iframe></center>
 
 "Comecei a ler o livro Hacking Growth e percebi uma coisa.
 
