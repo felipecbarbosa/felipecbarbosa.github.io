@@ -12,7 +12,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Sejamos todos Feministas
 - Intercom on Marketing
 - Jobs To Be Done
-- Hacking Growth
+- Hacking Growth - A Estratégia De Marketing Inovadora Das Empresas De Crescimento Mais Rápido ([Review Hacking Growth](https://www.felipebarbosa.me/hacking-growth/)) 
 
 ### Livros 2017 (21)
 - Antifrágil
