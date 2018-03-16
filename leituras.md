@@ -13,6 +13,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Intercom on Marketing
 - Jobs To Be Done
 - Hacking Growth - A Estratégia De Marketing Inovadora Das Empresas De Crescimento Mais Rápido ([Review Hacking Growth](https://www.felipebarbosa.me/hacking-growth/)) 
+- Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy 
 
 ### Livros 2017 (21)
 - Antifrágil
