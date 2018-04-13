@@ -10,7 +10,7 @@ Dias atrás li um artigo escrito pelo Raphael Farinazzo com o [título 5 ideias 
 
 ## Integrando Vendas e Produto quando o timme é enxuto
 
-Nunca trabalhei especificamente como um Product Manager, mas no meu tempo de Route (e depois durante o período que estive na Umbler trabalhando como Product Marketig) acabei incorporando diversos papeis além do principal que era de responsável pelo Marketing e um deles me fazia muito envolvido com as decisões de produto.
+Nunca trabalhei especificamente como um Product Manager, mas no meu tempo de Route (e depois durante o período que estive na Umbler trabalhando como Product Marketing) acabei incorporando diversos papeis além do principal que era de responsável pelo Marketing e um deles me fazia muito envolvido com as decisões de produto.
 
 Na época, como era uma equipe enxuta, eu vivia no meu dia a dia a tarefa de gerar demanda, tentar vender o produto, dar suporte e definir os caminhos que deveríamos seguir com o Route. Pela proximidade de todo o time com essas questões muitas vezes os insights e feedback gerados quando nosso papel era o de vendas ajudava a guiar as decisões de produto.
 
