@@ -127,8 +127,3 @@ Acredito que isso pode levar a uma familiaridade maior do dia a dia de cada áre
 Com menos conflitos.
 
 Bom, essa é uma opinião de quem está vendo de fora isso mas que já sentiu na pele esse desafio de alinhamento de diferentes times.
-
-
-
-
-
