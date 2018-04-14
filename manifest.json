@@ -1,0 +1,18 @@
+{
+    "name": "Felipe Barbosa Blog",
+    "short_name": "FBarbosa",
+    "theme_color": "#0099ff",
+    "background_color": "transparent",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/?utm_source=pwa_site",
+    "lang": "pt-BR",
+    "orientation": "any",
+    "icons": [
+      {
+        "src": "https://res.cloudinary.com/felipe-barbosa/image/upload/q_100/v1523742512/blog-logo-icon-manifest_dq9bky.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }

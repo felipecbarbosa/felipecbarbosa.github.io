@@ -6,6 +6,9 @@
 
 	<!-- AMP Mercury Converter -->
 	<link rel="amphtml" href="https://mercury.postlight.com/amp?url={{ site.url }}{{ page.url }}">
+
+	<!-- Manifest.Json PWA-->
+	<link rel="manifest" href="/manifest.json">
 	
 	<!-- Open Graph Tags -->
 	<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.theme_settings.title | escape }}{% endif %}" />
