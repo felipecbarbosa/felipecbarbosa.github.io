@@ -8,7 +8,7 @@
 	<link rel="amphtml" href="https://mercury.postlight.com/amp?url={{ site.url }}{{ page.url }}">
 
 	<!-- Manifest.Json PWA-->
-	<link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl }}">
+	<link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl | prepend: site.url }}">
 	
 	<!-- Open Graph Tags -->
 	<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.theme_settings.title | escape }}{% endif %}" />
@@ -180,7 +180,15 @@
 	<!-- MailMunch Integration -->
 	<script src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-mailmunch-site-id="472068" async="async"></script>
 
-	<!-- Autopilot Integration -->
-	<script type="text/javascript">(function(o){var b="https://api.autopilothq.com/anywhere/",t="c7baf727ed3843e699da9882d9591fca049a8d01a8384a56b25de612cd24d264",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s="SCRIPT",d=document,l=d.getElementsByTagName(s)[0],p="t="+c(d.title||"")+"&u="+c(d.location.href||"")+"&r="+c(d.referrer||""),j="text/javascript",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p="devmode=true&"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent("onload",y);}else{window.addEventListener("load",y,false);}})({});</script>
-	
+	<!-- Service Worker Script -->
+    <script type="text/javascript">
+        if ("serviceWorker" in navigator) {
+            navigator.serviceWorker.register("/sw.js").then(function(registration) {
+                console.info("Service Worker registration successful with scope: ", registration.scope);
+            }).catch(function(err) {
+                console.error("Service Worker registration failed: ", err);
+            });
+        }
+	</script>
+		
 </head>
