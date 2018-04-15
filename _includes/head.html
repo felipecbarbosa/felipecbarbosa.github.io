@@ -180,15 +180,4 @@
 	<!-- MailMunch Integration -->
 	<script src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-mailmunch-site-id="472068" async="async"></script>
 
-	<!-- Service Worker Script -->
-    <script type="text/javascript">
-        if ("serviceWorker" in navigator) {
-            navigator.serviceWorker.register("/sw.js").then(function(registration) {
-                console.info("Service Worker registration successful with scope: ", registration.scope);
-            }).catch(function(err) {
-                console.error("Service Worker registration failed: ", err);
-            });
-        }
-	</script>
-		
 </head>
