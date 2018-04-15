@@ -8,7 +8,7 @@ categories: produto
 
 Dias atrás li um artigo escrito pelo Raphael Farinazzo com o [título 5 ideias de palestras ou artigos sobre produto para você produzir (e me enviar o link)](https://conteudo.produto.io/5-ideias-de-palestras-ou-artigos-sobre-produto-para-voc%C3%AA-produzir-e-me-enviar-o-link-3dc9195d6c73). Desafio aceito.
 
-## Integrando Vendas e Produto quando o timme é enxuto
+## Integrando Vendas e Produto quando o time é enxuto
 
 Nunca trabalhei especificamente como um Product Manager, mas no meu tempo de Route (e depois durante o período que estive na Umbler trabalhando como Product Marketing) acabei incorporando diversos papeis além do principal que era de responsável pelo Marketing e um deles me fazia muito envolvido com as decisões de produto.
 
