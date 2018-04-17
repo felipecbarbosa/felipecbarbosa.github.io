@@ -39,13 +39,7 @@ $('form[name="mc-embedded-subscribe-form-post"] input[type="submit"]').click(fun
 	
 	analytics.track('subscribed-to-newsletter-post');
     
-    	_dcq.push(["identify", {
-  		email: $('#mce-EMAIL').val(),
-  		name: $('#mce-FNAME').val(),
- 		tags: ["Newsletter Post"]
-	}]);
-	
-	$('form[name="mc-embedded-subscribe-form-post"]').submit();
+    $('form[name="mc-embedded-subscribe-form-post"]').submit();
 });
 
 $('form[name="mc-embedded-subscribe-form-header"] input[type="submit"]').click(function(e){
@@ -57,12 +51,7 @@ $('form[name="mc-embedded-subscribe-form-header"] input[type="submit"]').click(f
     
 	analytics.track('subscribed-to-newsletter-header');
     
-    	_dcq.push(["identify", {
-  		email: $('#mce-EMAILH').val(),
-  		tags: ["Newsletter Header"]
-	}]);
-	
-	$('form[name="mc-embedded-subscribe-form-header"]').submit();
+    $('form[name="mc-embedded-subscribe-form-header"]').submit();
 });    
 </script>
 
