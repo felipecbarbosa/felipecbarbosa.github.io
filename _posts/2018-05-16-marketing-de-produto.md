@@ -57,7 +57,7 @@ Fica claro que quando definimos **Produto** sempre surge indicativo de atividade
 
 ## O que é Marketing de Produto?
 
-Se **Marketing** e **Produto** sempre andaram juntos, falar [Marketing de Produto](http://theengineeringmanager.com/growth/product-marketing/) não é rendundante? 
+Se **Marketing** e **Produto** sempre andaram juntos, falar [Marketing de Produto](https://blog.intercom.com/the-importance-of-an-effective-product-marketing-strategy/) não é rendundante? 
 
 Pode até ser, mas como a atividade dos profissionais de marketing ficou presa a parte da promoção e construção de marca por muito tempo, de forma que muitos achem que apenas isso é marketing, acho que vale ter times e profissionais atuando com **Marketing de Produto**.
 
