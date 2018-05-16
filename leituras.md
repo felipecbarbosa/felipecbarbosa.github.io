@@ -19,6 +19,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Superprevisões
 - A Jogada do Século
 - Paz, Amor e Sgt. Pepper - Os bastidores do disco mais importante dos Beatles
+- A Imaginação de Marketing
 
 ### Livros 2017 (21)
 - Antifrágil
