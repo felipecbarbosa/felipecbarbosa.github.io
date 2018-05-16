@@ -28,7 +28,7 @@ Parece que havia chegado o momento onde aquelas pessoas (pelo que eu lembro muit
 
 <br>
 <div style="text-align:center;">
-<img src="https://res.cloudinary.com/felipe-barbosa/image/upload/v1503462039/orly_owl_fjtm0k.jpg" />
+<img alt="Orly Owl Meme" src="https://res.cloudinary.com/felipe-barbosa/image/upload/v1503462039/orly_owl_fjtm0k.jpg" />
 </div>
 <br>
 
