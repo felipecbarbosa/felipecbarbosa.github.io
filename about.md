@@ -46,7 +46,7 @@ Em 2010 lancei um novo blog onde escrevia sobre Marketing e Publicidade. Além d
 
 Também fui professor de inglês no Quatrum e CCAA durante a faculdade. A seguir irei descrever as experiências que considero mais relevantes.
 
-**Analista de Marketing Digital @ Grupo A Educação (maio 2017 - atualmente)**
+### Analista de Marketing Digital @ Grupo A Educação (maio 2017 - atualmente)
 
 Trabalho na área responsável pelo Marketing da Blackboard e Rosetta Stone os quais são representados no Brasil pelo Grupo A Educação.
 
@@ -64,7 +64,7 @@ Para que as ações de marketing sejam mais efetivas trabalho próximo ao time C
 
 > Ferramentas que uso: Eloqua, RD Station, Salesforce, Google Analytics, Google Tag Manager, Google AdWords, Mixpanel, Hotjar, Heap Analytics, Autopilot e Leadpages. 
 
-**Product Marketing Manager @ Umbler (novembro 2016 - maio 2017)**
+### Product Marketing Manager @ Umbler (novembro 2016 - maio 2017)
 
 Como *Product Marketing Manager* na Umbler minha principal responsabilidade foi pensar e trabalhar para otimizar a jornada do cliente que criava uma conta em nosso produto: todas as interações em nosso app e pontos de contato com a empresa.
 
@@ -79,7 +79,7 @@ Fui responsável por:
 
 > Ferramentas que usei: Intercom, Route, Google Analytics, ProductBoard e Trello
 
-**Chief Marketing Officer @ Route (janeiro 2014 - novembro 2016)**
+### Chief Marketing Officer @ Route (janeiro 2014 - novembro 2016)
 
 Entrei no Route para ser o responsável pelo Marketing da startup que estava na fase final do desenvolvimento da sua plataforma de Automação de Marketing.
 
@@ -102,7 +102,7 @@ Com o lançamento da ferramenta aos primeiros beta-testers acabei sendo respons�
 
 > Ferramentas que usei: Route, HelpScout, Profitwell, Drift, Sumo, Hotjar, Mixpanel, Google Analytics e Google Tag Manager
 
-**Planner e Gerente de Projetos @ Digital Imobi (junho 2012 - junho 2013)**
+### Planner e Gerente de Projetos @ Digital Imobi (junho 2012 - junho 2013)
 
 Fui responsável pelo planejamento estratégico para a criação da agência e depois atuei como *Planner* quando conquistamos os primeiros clientes.
 
