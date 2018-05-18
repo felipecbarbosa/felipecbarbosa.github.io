@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Artigos sobre Startups"
+title: Artigos sobre Startups
 permalink: /startups/
 hide: true
 ---
-Aqui você encontrará todos os meus posts sobre startups.
+Aqui você encontrará todos os meus posts sobre Startups.
 
 :)
 
