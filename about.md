@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-# Felipe Cardoso Barbosa
+## Felipe Cardoso Barbosa
 
 Eu trabalho com produtos e negócios digitais há quase 10 anos.
 
