@@ -10,7 +10,7 @@ Eu trabalho com produtos e negócios digitais há quase 10 anos.
 
 Sou formado em Administração de Empresas pela Universidade Federal do Rio Grande do Sul (UFRGS) e sou pós-graduado em [Marketing](/marketing/) Digital pela Escola Superior de Propaganda e Marketing (ESPM-Sul).
 
-Em minha experiência profissional eu estive envolvido em times de Marketing e de [Produto](/produto/). Algumas atividades as quais já fui e sou responsável:
+Em minha experiência profissional eu estive envolvido em times de Marketing e de [Produto](/produto/) de empresas de tecnologia no mercado B2B. Algumas atividades as quais já fui e sou responsável:
 
 - Desenvolvimento de produto e *Customer Development*
 - Marketing de Produto
