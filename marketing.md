@@ -4,7 +4,7 @@ title: Artigos sobre Marketing
 permalink: /marketing/
 hide: true
 ---
-Aqui você encontrará todos os meus posts sobre Marketing.
+Aqui você encontrará todos os meus artigos sobre Marketing.
 
 :)
 

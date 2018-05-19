@@ -4,7 +4,7 @@ title: Artigos sobre Startups
 permalink: /startups/
 hide: true
 ---
-Aqui você encontrará todos os meus posts sobre Startups.
+Aqui você encontrará todos os meus artigos sobre Startups.
 
 :)
 

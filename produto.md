@@ -4,7 +4,7 @@ title: Artigos sobre Produto
 permalink: /produto/
 hide: true
 ---
-Aqui você encontrará todos os meus posts sobre Produto.
+Aqui você encontrará todos os meus artigos sobre Produto.
 
 :)
 
