@@ -126,14 +126,6 @@
 </li>
 {% endif %}
 
-{% if site.theme_settings.tumblr %}
-<li>
-	<a href="http://{{ site.theme_settings.tumblr }}.tumblr.com/" title="{{ site.theme_settings.str_follow_on }} Tumblr">
-		<i class="fa fa-fw fa-tumblr"></i>
-	</a>
-</li>
-{% endif %}
-
 {% if site.theme_settings.twitter %}
 <li>
 	<a href="https://twitter.com/{{ site.theme_settings.twitter }}" title="{{ site.theme_settings.str_follow_on }} Twitter" target="_blank">
@@ -154,6 +146,14 @@
 <li>
 	<a href="https://www.youtube.com/user/{{ site.theme_settings.youtube }}" title="{{ site.theme_settings.str_follow_on }} YouTube">
 		<i class="fa fa-fw fa-youtube"></i>
+	</a>
+</li>
+{% endif %}
+
+{% if site.theme_settings.cv %}
+<li>
+	<a href="https://felipebarbosa.me/files/{{ site.theme_settings.cv }}" title="{{ site.theme_settings.str_download }} CV">
+		<i class="fa fa-fw fa-file-pdf"></i>
 	</a>
 </li>
 {% endif %}
