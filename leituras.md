@@ -20,6 +20,8 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - A Jogada do Século
 - Paz, Amor e Sgt. Pepper - Os bastidores do disco mais importante dos Beatles
 - A Imaginação de Marketing
+- O Labirinto dos Espíritos
+- Vale Tudo da Notícia
 
 ### Livros 2017 (21)
 - Antifrágil
