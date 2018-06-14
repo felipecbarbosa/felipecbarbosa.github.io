@@ -10,10 +10,10 @@ Eu trabalho com produtos e negócios digitais há quase 10 anos.
 
 Sou formado em Administração de Empresas pela Universidade Federal do Rio Grande do Sul (UFRGS) e sou pós-graduado em [Marketing](/marketing/) Digital pela Escola Superior de Propaganda e Marketing (ESPM-Sul).
 
-Em minha experiência profissional eu estive envolvido em times de Marketing e de [Produto](/produto/) de empresas de tecnologia no mercado B2B. Algumas atividades as quais já fui e sou responsável:
+Em minha experiência profissional eu estive envolvido em times de Marketing e de [Produto](/produto/) de empresas de tecnologia no mercado [B2B](/b2b/). Algumas atividades as quais já fui e sou responsável:
 
 - Desenvolvimento de produto e *Customer Development*
-- Marketing de Produto
+- [Marketing de Produto](/marketing-de-produto/)
 - Demonstração de produto e *calls* de vendas
 - Suporte e Sucesso do Cliente
 - Relatórios de *Analytics*
@@ -68,7 +68,7 @@ Para que as ações de marketing sejam mais efetivas trabalho próximo ao time C
 
 Como *Product Marketing Manager* na Umbler minha principal responsabilidade foi pensar e trabalhar para otimizar a jornada do cliente que criava uma conta em nosso produto: todas as interações em nosso app e pontos de contato com a empresa.
 
-Trabalhei próximo ao time de Produto, Marketing, Sucesso do Cliente, Suporte e Vendas para poder criar a melhor experiência aos nossos usuários e clientes.
+Trabalhei próximo ao time de Produto, Marketing, Sucesso do Cliente, Suporte e [Vendas](/vendas-enterprise/) para poder criar a melhor experiência aos nossos usuários e clientes.
 
 Fui responsável por:
 
@@ -119,14 +119,11 @@ Caso você queira conversar pode me chamar no chat no canto direito inferior do 
 
 Você pode me adicionar ou seguir nas redes sociais. Os links estão no canto direito superior.
 
-Para facilitar, deixo aqui o acesso rápido via mobile ao meu LinkedIn.
+Para facilitar, deixo aqui o acesso rápido via mobile ao meu LinkedIn. Obrigado!
 
 <br>
 <div style="text-align:center;">
 <img alt="Perfil Felipe Cardoso Barbosa no LinkedIn" src="https://res.cloudinary.com/felipe-barbosa/image/upload/c_scale,q_auto,w_350/v1528943644/codigo-linkedin_ijuqw4.png" />
 <br>
 <em>Código para acesso ao perfil no LinkedIn</em> 
-</div>
-<br>
-
-Obrigado! 
+</div> 
