@@ -6,6 +6,14 @@ permalink: /sobre/
 
 ## Felipe Cardoso Barbosa
 
+<br>
+<div style="text-align:center;">
+<img alt="Perfil Felipe Cardoso Barbosa no LinkedIn" src="https://res.cloudinary.com/felipe-barbosa/image/upload/c_scale,q_auto,w_350/v1528943644/codigo-linkedin_ijuqw4.png" />
+<br>
+<em>Código para acesso ao perfil no LinkedIn</em> 
+</div>
+<br>
+
 Eu trabalho com produtos e negócios digitais há quase 10 anos.
 
 Sou formado em Administração de Empresas pela Universidade Federal do Rio Grande do Sul (UFRGS) e sou pós-graduado em [Marketing](/marketing/) Digital pela Escola Superior de Propaganda e Marketing (ESPM-Sul).
