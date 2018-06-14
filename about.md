@@ -6,14 +6,6 @@ permalink: /sobre/
 
 ## Felipe Cardoso Barbosa
 
-<br>
-<div style="text-align:center;">
-<img alt="Perfil Felipe Cardoso Barbosa no LinkedIn" src="https://res.cloudinary.com/felipe-barbosa/image/upload/c_scale,q_auto,w_350/v1528943644/codigo-linkedin_ijuqw4.png" />
-<br>
-<em>Código para acesso ao perfil no LinkedIn</em> 
-</div>
-<br>
-
 Eu trabalho com produtos e negócios digitais há quase 10 anos.
 
 Sou formado em Administração de Empresas pela Universidade Federal do Rio Grande do Sul (UFRGS) e sou pós-graduado em [Marketing](/marketing/) Digital pela Escola Superior de Propaganda e Marketing (ESPM-Sul).
@@ -126,5 +118,15 @@ Na Digital Imobi fui responsável por:
 Caso você queira conversar pode me chamar no chat no canto direito inferior do site ou mandar um email para felipe[at]felipebarbosa.me.
 
 Você pode me adicionar ou seguir nas redes sociais. Os links estão no canto direito superior.
+
+Para facilitar, deixo aqui o acesso rápido via mobile ao meu LinkedIn.
+
+<br>
+<div style="text-align:center;">
+<img alt="Perfil Felipe Cardoso Barbosa no LinkedIn" src="https://res.cloudinary.com/felipe-barbosa/image/upload/c_scale,q_auto,w_350/v1528943644/codigo-linkedin_ijuqw4.png" />
+<br>
+<em>Código para acesso ao perfil no LinkedIn</em> 
+</div>
+<br>
 
 Obrigado! 
