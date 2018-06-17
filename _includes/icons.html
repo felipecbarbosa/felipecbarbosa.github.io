@@ -118,14 +118,6 @@
 </li>
 {% endif %}
 
-{% if site.theme_settings.steam %}
-<li>
-	<a href="http://steamcommunity.com/id/{{ site.theme_settings.steam }}" title="{{ site.theme_settings.str_follow_on }} Steam">
-		<i class="fa fa-fw fa-steam"></i>
-	</a>
-</li>
-{% endif %}
-
 {% if site.theme_settings.twitter %}
 <li>
 	<a href="https://twitter.com/{{ site.theme_settings.twitter }}" title="{{ site.theme_settings.str_follow_on }} Twitter" target="_blank">
@@ -154,6 +146,14 @@
 <li>
 	<a href="https://felipebarbosa.me/files/{{ site.theme_settings.cv }}" title="{{ site.theme_settings.str_download }} CV">
 		<i class="fa fa-fw fa-download"></i>
+	</a>
+</li>
+{% endif %}
+
+{% if site.theme_settings.ideas %}
+<li>
+	<a href="{{ site.theme_settings.ideas }}" title="{{ site.theme_settings.str_follow_on }} ideia ou feedback">
+		<i class="fa fa-fw fa-lightbulb"></i>
 	</a>
 </li>
 {% endif %}

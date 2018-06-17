@@ -48,7 +48,7 @@ theme_settings:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
-  steam:
+  ideas: https://portal.prodpad.com/b80a11cc-6d54-11e7-9642-22000a2145da
   cv: "felipe_cv.pdf"
   twitter: "felipecb_"
   medium: "felipe-barbosa"
@@ -65,6 +65,7 @@ theme_settings:
   str_prev: "Prev"
   str_continue_reading: "Continue reading"
   str_download: "Faça o download do meu"
+  str_ideas: "Deixe sua"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
