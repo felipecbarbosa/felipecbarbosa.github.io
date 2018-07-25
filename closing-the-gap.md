@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: page
 title: Closing the Gap - Using technology to automate your Marketing and Sales Funnel
-author: Felipe Barbosa
 permalink: /marketing-sales-automation/
-categories: marketing
-published: false
+hide: true
 ---
 
 No other moment in history **marketers and sales people** had so many technologies to improve their work. Most strategies and tactics are still the same used in the past, but how to implement them has changed considerably.
