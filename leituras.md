@@ -22,6 +22,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - A Imaginação de Marketing
 - O Labirinto dos Espíritos
 - Vale Tudo da Notícia
+- Algorithms to Live By: The Computer Science of Human Decisions
 
 ### Livros 2017 (21)
 - Antifrágil
