@@ -20,7 +20,9 @@ As vezes startups mudam de nome, mudam a marca, mudam o posicionamento, mudam se
 
 Isso, na minha opinião, indica que a realidade é diferente do discurso. Da palestra em algum evento de ponta. Dos textões no LinkedIn.
 
-Em alguns casos as próprias empresas que somem do mapa! Um caso recente e emblemático é a [Theranos](https://www.nytimes.com/2018/06/15/health/theranos-elizabeth-holmes-fraud.html). Nesse caso até investidores ficaram cegos e jogaram dinheiro na empresa que nem um produto real possuia. Nada funcionava como dito. Eles conseguiram [parceria com uma grande rede de farmácias](https://www.theverge.com/2016/5/25/11776018/theranos-walgreens-blood-testing-partnership-validation)!
+Em alguns casos as próprias empresas que somem do mapa! Um caso recente e emblemático é a [Theranos](https://www.nytimes.com/2018/06/15/health/theranos-elizabeth-holmes-fraud.html). 
+
+Nesse caso até investidores ficaram cegos e jogaram dinheiro na empresa que nem um produto real possuia. Nada funcionava como dito. Eles conseguiram [parceria com uma grande rede de farmácias](https://www.theverge.com/2016/5/25/11776018/theranos-walgreens-blood-testing-partnership-validation)!
 
 Não era pouca coisa não.
 
@@ -28,7 +30,9 @@ Se pessoas experientes e que vivem de investir em empresas se perdem em meio ao 
 
 O dia a dia dos negócios não é fácil. Não é uma terra de fantasia cheia de Unicórnios. Crescer é muito difícil.
 
-Sempre achei complicado estudar cases que não tragam números concretos, comparações que tem um ponto de partida como base (não adianta dizer que cresceu 300% em 1 ano se tinha 3 clientes e foi pra 9). É um número expressivo, mas muito mais fácil do que quando se tem 100 clientes, falando em números percentuais.
+Sempre achei complicado estudar cases que não tragam números concretos, comparações que tem um ponto de partida como base (não adianta dizer que cresceu 300% em 1 ano se tinha 3 clientes e foi pra 12). É um número expressivo, mas muito mais fácil do que quando se tem 100 clientes, falando em números percentuais.
+
+Nesse exemplo, não é necessariamente um caso ruim, mas ao olhar e querer comparar com a sua própria realidade, pode passar uma impressão errada.
 
 Acho que em muitos casos as armadilhas que aparecem no livro [Como Mentir com Estatística](https://www.amazon.com.br/Como-Mentir-Estat%C3%ADstica-Darrell-Huff/dp/858057952X) se fazem presentes nessas apresentações e cases.
 
@@ -36,7 +40,8 @@ Acho que em muitos casos as armadilhas que aparecem no livro [Como Mentir com Es
 
 Nesse caso das startups a maioria das situações é de [known unknowns](https://en.wikipedia.org/wiki/There_are_known_knowns), ou seja, nós sabemos que não sabemos de muitas informações. Está claro isso, mas mesmo assim agimos como se tudo fosse verdade!
 
-Não vamos ver startups divulgando abertamente que estão ficando sem dinheiro até demonstrar isso com demissões em massa, por exemplo. Soundcloud, alguém lembra?! 
+Não vamos ver startups divulgando abertamente que estão ficando sem dinheiro até demonstrar isso com demissões em massa, por exemplo. Soundcloud, alguém lembra?!
+
 Geralmente esses casos pegam todos de surpresa mas nos últimos anos algumas das startups mais conceituadas no mundo passaram por isso. Imaginem a situações nas que estão recém se estabelecendo?
 
 Ontem lendo uma discussão no Quora sobre o Tony Robbins um de seus detratores deu uma opinião que faz sentido: as pessoas que pagam caro para ver uma de suas palestras nunca vão assumir que não adiantou em nada. A pressão social e a própria pressão interna vão influenciar no que elas externam.
