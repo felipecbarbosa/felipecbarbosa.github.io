@@ -23,6 +23,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - O Labirinto dos Espíritos
 - Vale Tudo da Notícia
 - Algorithms to Live By: The Computer Science of Human Decisions
+- Inspired: How to Create Tech Products Customers Love
 
 ### Livros 2017 (21)
 - Antifrágil

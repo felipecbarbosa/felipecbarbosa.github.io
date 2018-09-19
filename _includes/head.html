@@ -156,16 +156,6 @@
 	<link href="//fonts.googleapis.com/css?family={{ site.theme_settings.google_fonts }}" rel="stylesheet" type="text/css">
 	{% endif %}
 
-	<!-- Google Analytics Code (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-68423071-3"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-
-	gtag('config', 'UA-68423071-3');
-	</script>
-
 	<!-- Facebook Pixel Code -->
 	<script>
 	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -187,6 +177,9 @@
 	analytics.page();
 	}}();
 	</script>
+	
+	<!-- Autopilot Integration -->
+	<script type="text/javascript">(function(o){var b="https://api.autopilothq.com/anywhere/",t="db44c96ce4a24a5bbdd7f19359c7e74c556ab70dec8c478ea6724958d9d861ab",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s="SCRIPT",d=document,l=d.getElementsByTagName(s)[0],p="t="+c(d.title||"")+"&u="+c(d.location.href||"")+"&r="+c(d.referrer||""),j="text/javascript",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p="devmode=true&"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent("onload",y);}else{window.addEventListener("load",y,false);}})({});</script>
 
 	<!-- MailMunch Integration -->
 	<script src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-mailmunch-site-id="472068" async="async"></script>
