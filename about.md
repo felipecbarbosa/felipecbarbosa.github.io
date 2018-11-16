@@ -46,7 +46,19 @@ Em 2010 lancei um novo blog onde escrevia sobre Marketing e Publicidade. Além d
 
 Também fui professor de inglês no Quatrum e CCAA durante a faculdade. A seguir irei descrever as experiências que considero mais relevantes.
 
-### Analista de Marketing Digital @ Grupo A Educação (maio 2017 - atualmente)
+### Analista de Marketing de Produto @ Plataformatec (setembro 2018 - atualmente)
+
+Trabalho na *squad* multidisciplinar focada no mercado brasileiro e sou responsável pelo [Marketing de Produto](/marketing-de-produto/) dentro do time.
+
+Meu foco é nas seguintes atividades:
+
+- Posicionamento e Proposição de Valor
+- Sales Enablement
+- Análise de Métricas
+
+> Ferramentas que uso: RD Station, Pipedrive, Drift, Google Analytics.
+
+### Analista de Marketing Digital @ Grupo A Educação (maio 2017 - setembro 2018)
 
 Trabalho na área responsável pelo Marketing da Blackboard e Rosetta Stone os quais são representados no Brasil pelo Grupo A Educação.
 
