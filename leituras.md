@@ -24,6 +24,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Vale Tudo da Notícia
 - Algorithms to Live By: The Computer Science of Human Decisions
 - Inspired: How to Create Tech Products Customers Love
+- Os Primeiros 90 Dias: Estratégia de Sucesso para Novos Líderes
 
 ### Livros 2017 (21)
 - Antifrágil
