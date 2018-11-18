@@ -55,7 +55,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  disqus_shortname: felipebarbosa
+  disqus_shortname: https://felipebarbosa.disqus.com/embed.js
     
   # Localization strings
   str_follow_on: "Follow on"
