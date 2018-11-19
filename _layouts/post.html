@@ -60,21 +60,8 @@ layout: default
 {% endif %}
 
 <!-- Disqus -->
-<div id="disqus_thread"></div>
-<script>
-
-var disqus_config = function () {
-this.page.url = https://www.felipebarbosa.me/{{ page.url }};
-this.page.identifier = {{ page.id }};
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://felipebarbosa.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
+{% if site.theme_settings.disqus_shortname %}
+<div class="comments">
+  {% include disqus.html %}
+</div>
+{% endif %}
