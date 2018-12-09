@@ -26,6 +26,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Inspired: How to Create Tech Products Customers Love
 - Os Primeiros 90 Dias: Estratégia de Sucesso para Novos Líderes
 - Direto ao Ponto: Criando Produtos de Forma Enxuta
+- Positioning for Professionals: How Professional Knowledge Firms Can Differentiate Their Way to Success
 
 ### Livros 2017 (21)
 - Antifrágil
