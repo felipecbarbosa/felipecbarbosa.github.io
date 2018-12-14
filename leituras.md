@@ -27,6 +27,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Os Primeiros 90 Dias: Estratégia de Sucesso para Novos Líderes
 - Direto ao Ponto: Criando Produtos de Forma Enxuta
 - Positioning for Professionals: How Professional Knowledge Firms Can Differentiate Their Way to Success
+- Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers
 
 ### Livros 2017 (21)
 - Antifrágil
