@@ -12,13 +12,13 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Sejamos todos Feministas
 - Intercom on Marketing
 - Jobs To Be Done
-- Hacking Growth - A Estratégia De Marketing Inovadora Das Empresas De Crescimento Mais Rápido ([Review Hacking Growth](https://www.felipebarbosa.me/hacking-growth/)) 
+- Hacking Growth: A Estratégia De Marketing Inovadora Das Empresas De Crescimento Mais Rápido ([Review Hacking Growth](https://www.felipebarbosa.me/hacking-growth/)) 
 - Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy
 - Os Números do Jogo
 - A Matemática do Dia a Dia
 - Superprevisões
 - A Jogada do Século
-- Paz, Amor e Sgt. Pepper - Os bastidores do disco mais importante dos Beatles
+- Paz, Amor e Sgt. Pepper: Os bastidores do disco mais importante dos Beatles
 - A Imaginação de Marketing
 - O Labirinto dos Espíritos
 - Vale Tudo da Notícia
@@ -28,26 +28,28 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Direto ao Ponto: Criando Produtos de Forma Enxuta
 - Positioning for Professionals: How Professional Knowledge Firms Can Differentiate Their Way to Success
 - Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers
+- Muito Além da Sorte: Processos Inovadores para Entender o que os Clientes Querem
+- Product Management in Practice: A Real-World Guide to the Key Connective Role of the 21st Century
 
 ### Livros 2017 (21)
 - Antifrágil
 - Intercom on Onboarding
-- Scrum e Métodos Ágeis — Um Guia Prático
-- Brief — Make a bigger impact by saying less
+- Scrum e Métodos Ágeis: Um Guia Prático
+- Brief: Make a bigger impact by saying less
 - Gestão e Desenvolvimento de Produtos e Marcas
 - Marketing Direto e Database
-- Dias de Luta - o rock e o Brasil dos anos 80
+- Dias de Luta: o Rock e o Brasil dos anos 80
 - O Covil do Diabo
 - O Herói e o Fora-da-Lei
 - Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
-- Competing Against Luck - The Story of Innovation and Customer Choice
+- Competing Against Luck: The Story of Innovation and Customer Choice
 - Intercom On Starting Up
 - O Projeto Desfazer
 - The Handy Guide for Product People
-- The San Franciso Fallacy - The Ten Fallacies That Make Founders Fail
-- Hypergrowth - How the Customer-Driven Model is Revolutionizing the Way Businesses Build Products, Teams, & Brands
-- The Product Book - How to Become a Great Product Manager
-- Small Data - Como poucas pistas indicam grandes tendências
+- The San Franciso Fallacy: The Ten Fallacies That Make Founders Fail
+- Hypergrowth: How the Customer-Driven Model is Revolutionizing the Way Businesses Build Products, Teams, & Brands
+- The Product Book: How to Become a Great Product Manager
+- Small Data: Como poucas pistas indicam grandes tendências
 - From Cradle to Stage: Stories from the Mothers Who Rocked and Raised Rock Stars
 - Mulheres Incríveis
 
@@ -60,7 +62,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Content Marketing Growth Hacking
 - O Filtro Invisível
 - Como Não Ser Um Babaca
-- SCRUM — A arte de fazer o dobro do trabalho na metade do tempo
+- SCRUM: A arte de fazer o dobro do trabalho na metade do tempo
 - A Estratégia do Oceano Azul
 - Número Zero
 - Intercom on Product Management
