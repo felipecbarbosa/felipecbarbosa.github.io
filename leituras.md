@@ -8,7 +8,7 @@ permalink: /leituras-recomendadas/
 
 Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia. Aqui estão os livros que li nos últimos tempos.
 
-### Livros 2018
+### Livros 2018 (21)
 - Sejamos todos Feministas
 - Intercom on Marketing
 - Jobs To Be Done
