@@ -8,6 +8,9 @@ permalink: /leituras-recomendadas/
 
 Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia. Aqui estão os livros que li nos últimos tempos.
 
+### Livros 2019
+- O Mundo Assombrado pelos Demônios: A Ciência Vista Como Uma Vela No Escuro
+
 ### Livros 2018 (21)
 - Sejamos todos Feministas
 - Intercom on Marketing
