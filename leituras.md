@@ -56,26 +56,26 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - From Cradle to Stage: Stories from the Mothers Who Rocked and Raised Rock Stars
 - Mulheres Incríveis
 
-### Livros 2016 (22)
-- Flashboys
-- O lado difícil das coisas difíceis
-- O que se passa na cabeça dos cachorros
-- How to lie with statistics
-- Os Vencedores
-- Content Marketing Growth Hacking
-- O Filtro Invisível
-- Como Não Ser Um Babaca
-- SCRUM: A arte de fazer o dobro do trabalho na metade do tempo
-- A Estratégia do Oceano Azul
-- Número Zero
-- Intercom on Product Management
-- Intercom on Jobs to Be Done
-- Intercom on Customer Engagement
-- The Lean Product Playbook
-- You’re Not So Smart
-- Tudo é Óbvio (Desde que você saiba a resposta)
-- Feitas para Vencer
-- Marina
-- Traction
-- On Being a Data Skeptic
-- Trabalhe 4 horas por semana
+### Livros 2016 (22 livros - 5613 páginas - 15 páginas/dia em média no ano)
+- Flashboys (240 páginas)
+- O lado difícil das situações difíceis (312 páginas) 
+- O que se passa na cabeça dos cachorros (400 páginas)
+- How to lie with statistics (144 páginas)
+- Os Vencedores (856 páginas)
+- Growth Hacking with Content Marketing (101 páginas)
+- O filtro invisível: O que a internet está escondendo de você (287 páginas)
+- Como Não Ser Um Babaca (192 páginas)
+- SCRUM: A arte de fazer o dobro do trabalho na metade do tempo (240 páginas)
+- A Estratégia do Oceano Azul (312 páginas)
+- Número Zero (208 páginas)
+- Intercom on Product Management (59 páginas)
+- Intercom on Jobs to Be Done (50 páginas)
+- Intercom on Customer Engagement (69 páginas)
+- The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback (307 páginas)
+- Você Não É Tão Esperto Quanto Pensa (256 páginas)
+- Tudo é Óbvio: Desde que você saiba a resposta (336 páginas)
+- Empresas Feitas Para Vencer: Porque Algumas Empresas Alcançam a Excelência e Outras Não (368 páginas)
+- Marina (192 páginas)
+- Traction: How Any Startup Can Achieve Explosive Customer Growth (240 páginas)
+- On Being a Data Skeptic (28 páginas)
+- Trabalhe 4 horas por semana (416 páginas)
