@@ -56,7 +56,8 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - From Cradle to Stage: Stories from the Mothers Who Rocked and Raised Rock Stars
 - Mulheres Incríveis
 
-### Livros 2016 (22 livros - 5613 páginas - 15 páginas/dia em média no ano)
+### Livros 2016 
+> 22 livros - 5613 páginas - 15 páginas/dia em média no ano
 - Flashboys (240 páginas)
 - O lado difícil das situações difíceis (312 páginas) 
 - O que se passa na cabeça dos cachorros (400 páginas)
