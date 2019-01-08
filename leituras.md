@@ -12,27 +12,28 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - O Mundo Assombrado pelos Demônios: A Ciência Vista Como Uma Vela No Escuro (512 páginas)
 
 ### Livros 2018 (21)
-- Sejamos todos Feministas
-- Intercom on Marketing
-- Jobs To Be Done
-- Hacking Growth: A Estratégia De Marketing Inovadora Das Empresas De Crescimento Mais Rápido ([Review Hacking Growth](https://www.felipebarbosa.me/hacking-growth/)) 
-- Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy
-- Os Números do Jogo
-- A Matemática do Dia a Dia
-- Superprevisões
-- A Jogada do Século
-- Paz, Amor e Sgt. Pepper: Os bastidores do disco mais importante dos Beatles
-- A Imaginação de Marketing
-- O Labirinto dos Espíritos
-- Vale Tudo da Notícia
-- Algorithms to Live By: The Computer Science of Human Decisions
-- Inspired: How to Create Tech Products Customers Love
-- Os Primeiros 90 Dias: Estratégia de Sucesso para Novos Líderes
-- Direto ao Ponto: Criando Produtos de Forma Enxuta
-- Positioning for Professionals: How Professional Knowledge Firms Can Differentiate Their Way to Success
-- Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers
-- Muito Além da Sorte: Processos Inovadores para Entender o que os Clientes Querem
-- Product Management in Practice: A Real-World Guide to the Key Connective Role of the 21st Century
+```21 livros - 6114 páginas - 16 páginas/dia em média no ano```
+- Sejamos todos Feministas (64 páginas)
+- Intercom on Marketing (140 páginas)
+- Jobs to be Done: Theory to Practice (202 páginas)
+- Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success ([Review Hacking Growth](https://www.felipebarbosa.me/hacking-growth/)) (300 páginas) 
+- Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy (254 páginas)
+- Os números do jogo: Por que tudo o que você sabe sobre futebol está errado (402 páginas)
+- A Matemática do Dia a Dia (256 páginas)
+- Superprevisões: A arte e a ciência de antecipar o futuro (320 páginas) 
+- A Jogada do Século (322 páginas)
+- Paz, Amor e Sgt. Pepper: Os bastidores do disco mais importante dos Beatles (224 páginas)
+- A Imaginação de Marketing (264 páginas)
+- O Labirinto dos Espíritos (784 páginas)
+- Vale-Tudo da Notícia. O Escândalo de Grampos, Suborno e Tráfico de Influência que Abalou Um dos Maiores Conglomerados de Mídia do Mundo (480 páginas)
+- Algorithms to Live By: The Computer Science of Human Decisions (369 páginas)
+- Inspired: How to Create Tech Products Customers Love (368 páginas)
+- Os Primeiros 90 Dias: Estratégia de Sucesso para Novos Líderes (240 páginas)
+- Direto ao Ponto: Criando Produtos de Forma Enxuta (162 páginas)
+- Positioning for Professionals: How Professional Knowledge Firms Can Differentiate Their Way to Success (208 páginas)
+- Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers (288 páginas)
+- Muito Além da Sorte: Processos Inovadores para Entender o que os Clientes Querem (279 páginas)
+- Product Management in Practice: A Real-World Guide to the Key Connective Role of the 21st Century (188 páginas)
 
 ### Livros 2017
 ```20 livros - 4799 páginas - 13 páginas/dia em média no ano```
