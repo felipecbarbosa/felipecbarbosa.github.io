@@ -34,27 +34,28 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 - Muito Além da Sorte: Processos Inovadores para Entender o que os Clientes Querem
 - Product Management in Practice: A Real-World Guide to the Key Connective Role of the 21st Century
 
-### Livros 2017 (21)
-- Antifrágil
-- Intercom on Onboarding
-- Scrum e Métodos Ágeis: Um Guia Prático
-- Brief: Make a bigger impact by saying less
-- Gestão e Desenvolvimento de Produtos e Marcas
-- Marketing Direto e Database
-- Dias de Luta: o Rock e o Brasil dos anos 80
-- O Covil do Diabo
-- O Herói e o Fora-da-Lei
-- Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
-- Competing Against Luck: The Story of Innovation and Customer Choice
-- Intercom On Starting Up
-- O Projeto Desfazer
-- The Handy Guide for Product People
-- The San Franciso Fallacy: The Ten Fallacies That Make Founders Fail
-- Hypergrowth: How the Customer-Driven Model is Revolutionizing the Way Businesses Build Products, Teams, & Brands
-- The Product Book: How to Become a Great Product Manager
-- Small Data: Como poucas pistas indicam grandes tendências
-- From Cradle to Stage: Stories from the Mothers Who Rocked and Raised Rock Stars
-- Mulheres Incríveis
+### Livros 2017
+```20 livros - 4799 páginas - 13 páginas/dia em média no ano```
+- Antifrágil (664 páginas)
+- Intercom on Onboarding (116 páginas)
+- Scrum e Métodos Ágeis: Um Guia Prático (142 páginas)
+- Brief: Make a bigger impact by saying less (256 páginas)
+- Gestão e Desenvolvimento de Produtos e Marcas (148 páginas)
+- Marketing Direto e Database (173 páginas)
+- Dias de Luta: o Rock e o Brasil dos anos 80 (440 páginas)
+- O Covil do Diabo (213 páginas)
+- O Herói e o Fora-da-Lei (376 páginas)
+- Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias (320 páginas)
+- Competing Against Luck: The Story of Innovation and Customer Choice (293 páginas)
+- Intercom On Starting Up (119 páginas)
+- O Projeto Desfazer (368 páginas)
+- The Handy Guide for Product People (23 páginas)
+- The San Franciso Fallacy: The Ten Fallacies That Make Founders Fail (146 páginas)
+- Hypergrowth: How the Customer-Driven Model is Revolutionizing the Way Businesses Build Products, Teams, & Brands (80 páginas)
+- The Product Book: How to Become a Great Product Manager (314 páginas)
+- Small Data: Como poucas pistas indicam grandes tendências (240 páginas)
+- From Cradle to Stage: Stories from the Mothers Who Rocked and Raised Rock Stars (240 páginas)
+- Mulheres Incríveis (128 páginas)
 
 ### Livros 2016 
 ```22 livros - 5613 páginas - 15 páginas/dia em média no ano```
