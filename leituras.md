@@ -11,7 +11,7 @@ Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia
 ### Livros 2019
 - O Mundo Assombrado pelos Demônios: A Ciência Vista Como Uma Vela No Escuro (512 páginas)
 
-### Livros 2018 (21)
+### Livros 2018
 ```21 livros - 6114 páginas - 16 páginas/dia em média no ano```
 - Sejamos todos Feministas (64 páginas)
 - Intercom on Marketing (140 páginas)
