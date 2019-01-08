@@ -6,7 +6,11 @@ permalink: /leituras-recomendadas/
 
 ## O que tenho lido?
 
-Sempre procuro encontrar um tempo no meu dia-a-dia para colocar a leitura em dia. Aqui estão os livros que li nos últimos tempos.
+Sempre procuro encontrar um tempo no meu dia a dia para ler um livro. Pode ser em casa, na ida e na volta do trabalho. Na hora do almoço. Enfim, gosto muito de ler e sempre tenho mais livros não lidos do que eu consigo ler em um ano. 
+
+Acredito que dessa forma sempre tenho opções e novos conhecimentos que ainda estão ali para serem descobertos.
+
+Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ### Livros 2019
 - O Mundo Assombrado pelos Demônios: A Ciência Vista Como Uma Vela No Escuro (512 páginas)
