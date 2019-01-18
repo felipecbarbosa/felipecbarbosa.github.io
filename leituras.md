@@ -16,6 +16,7 @@ Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas o
 - O Mundo Assombrado pelos Demônios: A Ciência Vista Como Uma Vela No Escuro (512 páginas)
 - Como fazer amigos e influenciar pessoas: O guia clássico e definitivo para relacionar-se com as pessoas (212 páginas)
 - Become a Technical Marketer: A Guide to Working Faster, Accelerating Growth, Automating Marketing Tasks, and More (115 páginas)
+- How Not to Be Wrong: The Power of Mathematical Thinking (466 páginas)
 
 ### Livros 2018
 ```21 livros - 6114 páginas - 16 páginas/dia em média no ano```
