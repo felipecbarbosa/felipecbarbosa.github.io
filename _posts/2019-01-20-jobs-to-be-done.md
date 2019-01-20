@@ -80,4 +80,6 @@ Quer ver? Clique nessa [pesquisa pelo termo Jobs to be done]([https://www.google
 
 Assim como no meu ponto de vista *paçoca* é de amendoim e para outros é de carne, no mundo do JBTD para uns ele é a soma de aspectos funcionais e emocionais e para outros é mais focado na parte funcional.
 
-Talvez não tenha lhe ajudado a entender mais sobre o que significa *Jobs To Be Done* mas é porque esse assunto não tem nada escrito em pedra e acho que não terá tão cedo. Enquanto houver briga de qual método é o melhor, de quem foi a ideia original e ser difícil fazer uma conexão entre aplicação ampla e resultados recorrentes de quem aplica, vai sempre ficar no campo do gosto pessoal de quem decide utilizar essa *teoria.*
+Talvez não tenha lhe ajudado a entender mais sobre o que significa *Jobs To Be Done* mas é porque esse assunto não tem nada escrito em pedra e acho que não terá tão cedo. 
+
+Enquanto houver briga de qual método é o melhor, de quem foi a ideia original e ser difícil fazer uma conexão entre aplicação ampla e resultados recorrentes de quem aplica, vai sempre ficar no campo do gosto pessoal de quem decide utilizar essa *teoria*.
