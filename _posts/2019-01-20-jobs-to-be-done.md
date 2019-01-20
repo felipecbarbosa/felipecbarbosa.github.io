@@ -5,7 +5,7 @@ author: Felipe Barbosa
 permalink: /pacoca-jobs-to-be-done/
 categories: produto
 ---
-Ontem fui em um evento aqui em São Paulo da Product School sobre **Jobs To Be Done** (JTBD). Durante a conversa e os exemplos percebi que a questão do JTBD me lembra a questão da paçoca.
+Dia 17/01 fui em um evento aqui em São Paulo da Product School sobre **Jobs To Be Done** (JTBD). Durante a conversa e os exemplos percebi que a questão do JTBD me lembra a questão da paçoca.
 
 O tempo do Orkut foi um período de ouro para conhecer novas pessoas, era o melhor exemplo de rede social que até então havia surgido (pelo menos para mim). Lá conheci gente de tudo quanto era lugar do Brasil.
 
