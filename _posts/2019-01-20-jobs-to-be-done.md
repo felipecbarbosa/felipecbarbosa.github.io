@@ -45,15 +45,13 @@ Além disso tem o fato de que é bem claro pra profissionais de Marketing que es
 
 Querem que pessoas lembrem disso na hora de decidir. Confesso que sinto falta desse detalhe quando se fala na **Teoria do Trabalho a Ser Feito**, mas esse ano ao ler o livro *Positioning for Professionals: How Professional Knowledge Firms Can Differentiate Their Way to Success* em um momento o autor ligava esses pontos.
 
-Mas se pensarmos nesse modelo de *jobs as progress* não existe um ferramental único descritivo do que fazer no processo. Já o modelo *ODI* (Outcome-Driven Innovation) que vem com diversas ferramentas para começar a rodar a visão deles do Jobs To Be Done, e talvez por isso tenha um grande apelo também.
+Mas se pensarmos nesse modelo de *jobs as progress* não existe um ferramental único descritivo do que fazer no processo. Já o modelo *ODI*, [Outcome-Driven Innovation](https://strategyn.com/outcome-driven-innovation-process/) do Tony Ulwick, vem com diversas ferramentas para começar a rodar a visão deles do Jobs To Be Done, e talvez por isso tenha um grande apelo também.
 
-Um dos pontos que me leva a acreditar mais na versão que fala sobre aspectos funcionais e emocionais, relacionadas ao progresso porque também deixa claro que JTBD fala sobre inovação disruptiva e não melhorias incrementais. 
-
-Em meu ponto de vista progresso muda certos comportamentos necessários e não vejo que o foco em tarefas e aspectos funcionais seja o suficiente para encontrar essas oportunidades de inovação sem entender um contexto maior.
+Em meu ponto de vista progresso muda certos comportamentos necessários e não vejo que o foco em tarefas e aspectos funcionais seja o suficiente para encontrar essas oportunidades de inovação sem entender um contexto maior. Sem entender o lado das emoções nas decisões tomadas e considerá-las tão importante quanto os aspectos funcionais e mais visíveis.
 
 Outra coisa que me faz pender pro lado do JTBD de profissionais como Clayton Christensen é que o outro modelo que fala do *Outcome-Driven Innovation* é específico de uma consultoria e tem várias patentes sobre o modelo.
 
-Então, parece que tem um peso forte aí para dizer que é o melhor modelo (ou talvez o original). Costumo ficar com um pé atrás quando alguém tem muito a ganhar com um modelo no mundo dos negócios.
+Então, parece que tem um peso forte aí para dizer que é o melhor modelo (ou talvez o original). Costumo ficar com um pé atrás quando alguém tem muito a ganhar com um modelo próprio no mundo dos negócios.
 
 Então escolher qual é a melhor vai depender de como você entende que faz mais sentido na aplicação em sua empresa e no que você acredita que vá conseguir de resultados. Também é legal saber que um dos casos mais famosos, a [história do Milkshake]([https://www.youtube.com/watch?v=sfGtw2C95Ms](https://www.youtube.com/watch?v=sfGtw2C95Ms)), não foi levada a diante pela empresa. No caso a empresa é o McDonald's.
 
