@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This Won't Scale: o livro de Marketing do Drift
+title: This Won't Scale - o livro de Marketing do Drift
 author: Felipe Barbosa
 permalink: /this-wont-scale/
 category: marketing
@@ -19,19 +19,19 @@ Posso dizer que acompanho o **Drift** desde o seu início (a empresa se chamava 
 
 ![Driftt Beta Test](https://res.cloudinary.com/felipe-barbosa/image/upload/q_100/v1548942568/driftt-beta-compress_oajxhe.png)
 
-Desde então vi eles deixarem de ser *Driftt* e se chamar **Drift**, vi lançarem a versão 2.0, vi a modificação no site (lembro que estava navegando e, do nada, mudou todo o site), fui cliente quando trabalhava no [Route](#), criei uma conta gratuita quando lançaram essa opção e hoje sou cliente novamente pela [Plataformatec](#).
+Desde então vi eles deixarem de ser *Driftt* e se chamar **Drift**, vi lançarem a versão 2.0, vi a modificação no site (lembro que estava navegando e, do nada, mudou todo o site), fui cliente quando trabalhava no [Route](/route-startup-fail/), criei uma conta gratuita quando lançaram essa opção e hoje sou cliente novamente pela [Plataformatec](https://plataformatec.com/).
 
-Todo esse tempo, apesar das mudanças, eles mantiveram o foco. Começaram falando com pessoas de [Marketing de Produto](#), depois foram entrando também na conversa com o time de Vendas e hoje criaram até um segmento novo: *Conversational Marketing*.
+Todo esse tempo, apesar das mudanças, eles mantiveram o foco. Começaram falando com pessoas de [Marketing de Produto](/marketing-de-produto/), depois foram entrando também na conversa com o time de Vendas e hoje criaram até um segmento novo: *Conversational Marketing*.
 
-No ínico lembro que eles eram basicamente um novo *Intercom*, na minha visão, mas com o tempo eles se distanciaram de tal forma que o *Intercom* passou a tentar entrar nesse mesmo segmento deles (diferente do **Drift**, o *Intercom* sempre foi focado em times de [Produto](#)).
+No ínico lembro que eles eram basicamente um novo *Intercom*, na minha visão, mas com o tempo eles se distanciaram de tal forma que o *Intercom* passou a tentar entrar nesse mesmo segmento deles (diferente do **Drift**, o *Intercom* sempre foi focado em times de [Produto](/produto/).
 
 Só para mostrar como essa batalha **Drift** vs *Intercom* existe, ontem vi a seguinte postagem de um SDR do *Intercom*:
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6496890279738560512" height="356" width="504" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6496890279738560512" height="356" width="504" frameborder="0" allowfullscreen=""></iframe><br>
 
 Mas o que quero mostrar com isso?
 
-Que eu acompanho a empresa um bom tempo, vi algumas mudanças no produto e na mensagem, mas ela sempre foi consistente com o que a empresa queria ser. Sempre foi consistente com o que está escrito no livro [This Won't Scale]([https://www.drift.com/books/this-wont-scale/](https://www.drift.com/books/this-wont-scale/)).
+Que eu acompanho a empresa um bom tempo, vi algumas mudanças no produto e na mensagem, mas ela sempre foi consistente com o que a empresa queria ser. Sempre foi consistente com o que está escrito no livro [This Won't Scale](https://www.drift.com/books/this-wont-scale/).
 
 A grande mensagem do livro é:
 
