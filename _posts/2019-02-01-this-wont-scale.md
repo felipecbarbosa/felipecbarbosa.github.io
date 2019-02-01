@@ -27,7 +27,7 @@ No ínico lembro que eles eram basicamente um novo *Intercom*, na minha visão, 
 
 Só para mostrar como essa batalha **Drift** vs *Intercom* existe, ontem vi a seguinte postagem de um SDR do *Intercom*:
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6496890279738560512" height="356" width="504" frameborder="0" allowfullscreen=""></iframe><br>
+<center><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6496890279738560512" height="356" width="504" frameborder="0" allowfullscreen=""></iframe><br></center>
 
 Mas o que quero mostrar com isso?
 
@@ -71,10 +71,10 @@ Um dia é Inbound Marketing, outro dia é Growth Hacking, outro dia é Account B
 
 Lendo **This Won't Scale** você verá como essa abordagem funciona e ainda saber por onde começar. Eles ao longo do livro falam livros e pessoas que seguem para aprender.
 
-O livro é um bom caminho para colocar no seu dia a dia conceitos e ideias de Marketing que não é comum aparecerem nas publicações e nos livros de Marketing que focam no mercado de tecnologia e [Startups]().
+O livro é um bom caminho para colocar no seu dia a dia conceitos e ideias de Marketing que não é comum aparecerem nas publicações e nos livros de Marketing que focam no mercado de tecnologia e [Startups](/startups/).
 
 Quando você fizer isso acho que vai ter o mesmo sentimento que eu tenho ao ler os clássicos e o mesmo que o Dave relata nesse vídeo:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I used to care more about tips/tricks/tactics/optimizations/funnels, etc. and then <a href="https://twitter.com/dcancel?ref_src=twsrc^tfw">@dcancel</a> hit me with this marketing lesson.<br><br>Focus on the one thing that has *never* changed: PEOPLE.<br><br>📹 <a href="https://twitter.com/Nasdaq?ref_src=twsrc^tfw">@Nasdaq</a> <a href="https://t.co/cOq7X7WwjD">pic.twitter.com/cOq7X7WwjD</a></p>— Dave Gerhardt (@davegerhardt) <a href="https://twitter.com/davegerhardt/status/1091090376587386880?ref_src=twsrc^tfw">January 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I used to care more about tips/tricks/tactics/optimizations/funnels, etc. and then <a href="https://twitter.com/dcancel?ref_src=twsrc^tfw">@dcancel</a> hit me with this marketing lesson.<br><br>Focus on the one thing that has *never* changed: PEOPLE.<br><br>📹 <a href="https://twitter.com/Nasdaq?ref_src=twsrc^tfw">@Nasdaq</a> <a href="https://t.co/cOq7X7WwjD">pic.twitter.com/cOq7X7WwjD</a></p>— Dave Gerhardt (@davegerhardt) <a href="https://twitter.com/davegerhardt/status/1091090376587386880?ref_src=twsrc^tfw">January 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 Você pode pedir a versão física e ler online o livro aqui: [https://www.drift.com/books/this-wont-scale/](https://www.drift.com/books/this-wont-scale/).
