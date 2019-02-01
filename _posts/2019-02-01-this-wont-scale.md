@@ -5,9 +5,9 @@ author: Felipe Barbosa
 permalink: /this-wont-scale/
 category: marketing
 ---
-Essa semana, no dia 28/01, recebi em casa um livro que a equipe de Marketing do Drift ofereceu gratuitamente: This Won't Scale. É um livro curto, organizado em 8 capítulos e 41 tópicos com uma ótima reflexão sobre o papel do Marketing nas empresas de tecnologia.
+Essa semana, no dia 28/01, recebi em casa um livro que a equipe de Marketing do Drift ofereceu gratuitamente: **This Won't Scale**. É um livro curto, organizado em 8 capítulos e 41 tópicos com uma ótima reflexão sobre o papel do Marketing nas empresas de tecnologia.
 
-Eu sou formado em Administração de Empresa e minha ênfase (na UFRGS escolhemos uma área a qual vamos ter mais disciplinas ao final do curso) é em Marketing. Sempre gostei dos clássicos: Kotler, Al Ries, Jack Trout e Jay Levinson.
+Eu sou formado em Administração de Empresa e minha ênfase (na UFRGS escolhemos uma área a qual vamos ter mais disciplinas ao final do curso) é em [Marketing](/marketing/). Sempre gostei dos clássicos: Kotler, Al Ries, Jack Trout e Jay Levinson.
 
 Com o tempo fui conhecendo outros autores como o Theodore Levitt (o cara da Miopia em Marketing e do clássico **A Imaginação de Marketing**), li sobre o Ogilvy (o livro **Confissões de Um Publicitário**) e cada vez mais fui estudando, entendendo e assimilando toda a base da atividade.
 
@@ -19,7 +19,7 @@ Posso dizer que acompanho o **Drift** desde o seu início (a empresa se chamava 
 
 ![Driftt Beta Test](https://res.cloudinary.com/felipe-barbosa/image/upload/q_100/v1548942568/driftt-beta-compress_oajxhe.png)
 
-Desde então vi eles deixarem de ser *Driftt* e se chamar **Drift**, vi lançarem a versão 2.0, vi a modificação no site (lembro que estava navegando e, do nada, mudou todo o site), fui cliente quando trabalhava no [Route](/route-startup-fail/), criei uma conta gratuita quando lançaram essa opção e hoje sou cliente novamente pela [Plataformatec](https://plataformatec.com/).
+Desde então vi eles deixarem de ser **Driftt** e se chamar **Drift**, vi lançarem a versão 2.0, vi a modificação no site (lembro que estava navegando e, do nada, mudou todo o site), fui cliente quando trabalhava no [Route](/route-startup-fail/), criei uma conta gratuita quando lançaram essa opção e hoje sou cliente novamente pela [Plataformatec](https://plataformatec.com/).
 
 Todo esse tempo, apesar das mudanças, eles mantiveram o foco. Começaram falando com pessoas de [Marketing de Produto](/marketing-de-produto/), depois foram entrando também na conversa com o time de Vendas e hoje criaram até um segmento novo: *Conversational Marketing*.
 
@@ -27,7 +27,7 @@ No ínico lembro que eles eram basicamente um novo *Intercom*, na minha visão, 
 
 Só para mostrar como essa batalha **Drift** vs *Intercom* existe, ontem vi a seguinte postagem de um SDR do *Intercom*:
 
-<center><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6496890279738560512" height="356" width="504" frameborder="0" allowfullscreen=""></iframe><br></center>
+<center><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6496890279738560512" height="356" width="504" frameborder="0" allowfullscreen=""></iframe></center><br>
 
 Mas o que quero mostrar com isso?
 
