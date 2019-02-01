@@ -19,7 +19,7 @@ Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas o
 - How Not to Be Wrong: The Power of Mathematical Thinking (466 páginas)
 - Cosmos (487 páginas)
 - The Customer Interview Toolbox (22 páginas)
-- This Won't Scale: 41 plays from the Drift marketing team to help your business cut through the noise, grow faster than the competition & thrill your customers (110 páginas)
+- This Won't Scale: 41 plays from the Drift marketing team to help your business cut through the noise, grow faster than the competition & thrill your customers ([Review This Won't Scale](/this-wont-scale/)) (110 páginas)
 
 ### Livros 2018
 ```21 livros - 6114 páginas - 16 páginas/dia em média no ano```
