@@ -27,13 +27,13 @@ Basicamente temos uma linha que defende que os *trabalhos* envolvem aspectos fun
 
 Apesar das duas proporem a ideia de que entender o *job* é entender a real razão porque as pessoas consomem e decidem por determinado produto ou serviço, ambas são opostas nas maneiras que acreditam que esse *job* será descoberto.
 
-Essa questão é tão forte no mundo do Jobs To Be Done que esses tempos uma treta das mais feias surgiu no Twitter e no Medium. Estava tão intensa que eu resolvi criar uma lista no Twitter para acompanhá-la. Chamei de [JTBD War]([https://twitter.com/felipecb_/lists/jtbd-war](https://twitter.com/felipecb_/lists/jtbd-war)) e resolvi deixá-la pública agora.
+Essa questão é tão forte no mundo do Jobs To Be Done que esses tempos uma treta das mais feias surgiu no Twitter e no Medium. Estava tão intensa que eu resolvi criar uma lista no Twitter para acompanhá-la. Chamei de [JTBD War](https://twitter.com/felipecb_/lists/jtbd-war) e resolvi deixá-la pública agora.
 
 A ideia que segue do **JTBD** levar em conta aspectos funcionais e emocionais é descrita como *jobs-as-progress* e a que leva em conta os aspectos funcionais deixando para um segundo plano os emocionais é descrita como *jobs-as-activities*.
 
-Uma das pessoas envolvidas na treta do JTBD é o Alan Klement e ele tem um [texto bem interessante]([https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89)) sobre as diferentes ideias a respeito do **Jobs To Be Done**.
+Uma das pessoas envolvidas na treta do JTBD é o Alan Klement e ele tem um [texto bem interessante](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89) sobre as diferentes ideias a respeito do **Jobs To Be Done**.
 
-Você vai ver no texto do Alan Klement que ele relaciona esse diferente entendimento do que é JTBD com as opiniões de detratores da *teoria*. Antes de continuar acho legal deixar um texto que li esses dias com uma [crítica ao modelo]([https://articles.uie.com/jobs-to-be-done-an-occasionally-useful-ux-gimmick/](https://articles.uie.com/jobs-to-be-done-an-occasionally-useful-ux-gimmick/)).
+Você vai ver no texto do Alan Klement que ele relaciona esse diferente entendimento do que é JTBD com as opiniões de detratores da *teoria*. Antes de continuar acho legal deixar um texto que li esses dias com uma [crítica ao modelo](https://articles.uie.com/jobs-to-be-done-an-occasionally-useful-ux-gimmick/).
 
 Bom, voltando ao assunto.
 
@@ -53,7 +53,7 @@ Outra coisa que me faz pender pro lado do JTBD de profissionais como Clayton Chr
 
 Então, parece que tem um peso forte aí para dizer que é o melhor modelo (ou talvez o original). Costumo ficar com um pé atrás quando alguém tem muito a ganhar com um modelo próprio no mundo dos negócios.
 
-Então escolher qual é a melhor vai depender de como você entende que faz mais sentido na aplicação em sua empresa e no que você acredita que vá conseguir de resultados. Também é legal saber que um dos casos mais famosos, a [história do Milkshake]([https://www.youtube.com/watch?v=sfGtw2C95Ms](https://www.youtube.com/watch?v=sfGtw2C95Ms)), não foi levada a diante pela empresa. No caso a empresa é o McDonald's.
+Então escolher qual é a melhor vai depender de como você entende que faz mais sentido na aplicação em sua empresa e no que você acredita que vá conseguir de resultados. Também é legal saber que um dos casos mais famosos, a [história do Milkshake](https://www.youtube.com/watch?v=sfGtw2C95Ms), não foi levada a diante pela empresa. No caso a empresa é o McDonald's.
 
 Acho que esse também é um ponto interessante: qual das duas abordagens é mais fácil de ser implementada e ter a aprovação das pessoas em cargos executivos? 
 
@@ -74,7 +74,7 @@ Fora esses tem um livro que tem versão em PDF gratuita do Alan Klement chamado 
 
 Também é possível encontrar diversos artigos e ideias sobre o que é Jobs to Be Done por aí. Vão ter muitas ideias, muitas opostas, algumas falando que tudo não passa de ideias já existentes com novos nomes. É um ambiente caótico em alguns momentos.
 
-Quer ver? Clique nessa [pesquisa pelo termo Jobs to be done]([https://www.google.com/search?q=jobs+to+be+done&oq=jobs+to+be+done&aqs=chrome..69i57j69i60l3j0l2.1498j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=jobs+to+be+done&oq=jobs+to+be+done&aqs=chrome..69i57j69i60l3j0l2.1498j0j4&sourceid=chrome&ie=UTF-8)) e tire suas próprias conclusões.
+Quer ver? Clique nessa [pesquisa pelo termo Jobs to be done](https://www.google.com/search?q=jobs+to+be+done&oq=jobs+to+be+done&aqs=chrome..69i57j69i60l3j0l2.1498j0j4&sourceid=chrome&ie=UTF-8) e tire suas próprias conclusões.
 
 Assim como no meu ponto de vista *paçoca* é de amendoim e para outros é de carne, no mundo do JBTD para uns ele é a soma de aspectos funcionais e emocionais e para outros é mais focado na parte funcional.
 
