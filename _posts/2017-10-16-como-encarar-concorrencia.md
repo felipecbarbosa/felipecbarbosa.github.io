@@ -68,7 +68,7 @@ Uma empresa como EADBox que oferece LMS (Sistema de Gestão de Aprendizagem) tan
 
 Acredito que a ideia desse tipo de análise é semelhante com a de mercado, mas a maneira de chegar a conclusões sobre os concorrentes é mais complexa.
 
-Na teoria do **Jobs to be Done** não se fala em necessidades versus desejos (necessidade são intrínsecas e os desejos são, basicamente, nossas preferências para suprir certa necessidade). 
+Na teoria do [Jobs to be Done](/pacoca-jobs-to-be-done/) não se fala em necessidades versus desejos (necessidade são intrínsecas e os desejos são, basicamente, nossas preferências para suprir certa necessidade). 
 
 Também é um conceito mais para se pensar em inovação do que simplesmente definir uma concorrência.
 
@@ -106,7 +106,7 @@ O Intercom não é tão explícito quanto a quais concorrentes está brigando, m
 </div>
 <br>
 
-O Hotjat também utiliza uma estratégia frente a concorrência semelhante, mas mais agressiva.
+O Hotjar também utiliza uma estratégia frente a concorrência semelhante, mas mais agressiva.
 
 <br>
 <div style="text-align:center;">
@@ -130,13 +130,3 @@ Fico sempre com um pé atrás quando alguém de bate pronto diz quem é e quem n
 Falei lá em cima que definir os concorrentes é uma escolha, mas existem maneiras melhores de fazermos qualquer escolha.
 
 E agora me diga, quem são os seus concorrentes?
-
-
-
-
-
-
-
-
-
-
