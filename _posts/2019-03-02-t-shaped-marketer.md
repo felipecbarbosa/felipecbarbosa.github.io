@@ -114,7 +114,7 @@ Entre as habilidades de transformar visitantes em clientes leais fui muito mal (
 
 Mas também não me preocupo tanto porque, em minha opinião, fui melhor nas atividades que considero mais importantes de terem atenção para que as empresas tenham resultado. Não pensaria duas vezes em priorizar retenção ao invés de fazer algo viral.
 
-Acho que isso está refletido nos resultados (mas fiquei preocupado com o resultado da otimização mobile por ter ido bem no que diz respeito a criação e otimização de landing pages e em CRO).
+Acho que essa parte do que eu considero mais importante está refletido nos resultados (mas fiquei preocupado com o resultado da otimização mobile por ter ido bem no que diz respeito a criação e otimização de landing pages e em CRO).
 
 ## O que achei disso tudo?
 
@@ -124,13 +124,15 @@ Claro que quando recebi o resultado percebi que o foco deles era recomendar curs
 
 De qualquer forma foi um exercício legal de fazer para ver como estava se fosse medir o que sei por essa matriz que eles utilizam. 
 
-Para mim é um desafio mais de mercado do que pessoal, mas não no sentido de me posicionar e conseguir um novo emprego, mas para quebrar um pouco a ideia de que qualquer teste ou certificado faz alguém um profissional realmente especialista.
+Para mim é um desafio mais de mercado do que pessoal (apesar da parte de auto-conhecimento ao testar o que se sabe é legal), mas não no sentido de me posicionar e conseguir um novo emprego, mas para quebrar um pouco a ideia de que qualquer teste ou certificado faz alguém um profissional realmente especialista ou com qualificações que se justificariam por aquela prova de determinada empresa.
 
-Já tirei certificações da minha área de todas empresas referência em Markting Digital e fiz isso sem parar para estudar as aulas dos cursos que eles disponibilizam. Fiz isso porque não gosto muito quando vendem que determinado conhecimento (o que elas passam) são os que deveriam ser seguidos cegamente.
+Já tirei certificações da minha área de todas empresas referência em Marketing Digital e fiz isso sem parar para estudar as aulas dos cursos que eles disponibilizam. Fiz isso porque não gosto muito quando vendem que determinado conhecimento (o que elas passam) são os que deveriam ser seguidos cegamente.
 
 Mesmo que não fique explícito durante seus cursos, é bem claro de ver isso quando todas as empresas que seguem seus ensinamentos façam tudo igual. Exatamente igual, como um template, uma receita de bolo.
 
-Grande parte do meu conhecimento vem dos estudos que fiz (faculdade, livros, artigos, conversas) e do trabalho que desenvolvi. Nessa ordem. Procuro primeiro aprender muito e depois começar a executar do que ficar no trabalho braçal e depois não ter a visão crítica do que fiz ao relacionar isso com um conhecimento prévio.
+Grande parte do meu conhecimento vem dos estudos que fiz (faculdade, livros, artigos, conversas, exeperiêcias trocadas com profissionais de outras áreas) e do trabalho que desenvolvi. Nessa ordem. 
+
+Procuro primeiro aprender muito e depois começar a executar do que ficar no trabalho braçal e depois não ter a visão crítica do que fiz ao relacionar isso com um conhecimento prévio.
 
 Enfim, o que quero dizer é que fiz esse teste de maneira rápida sem nunca ter tido o Growth Tribe como a minha fonte principal e acho que me saí bem. Eles são ruins? Claro que não. Não digo isso.
 
@@ -140,4 +142,4 @@ Talvez eu adicionaria mais um item do profissional *t-shaped* de Marketing: a ha
 
 Para terminar sugiro que vocês façam o teste também. Uma forma de auto-conhecimento.
 
-Link para o teste: https://growthtribe.io/blog/t-shaped-marketer-2019/
+Link para o teste: [https://growthtribe.io/blog/t-shaped-marketer-2019/](https://growthtribe.io/blog/t-shaped-marketer-2019/)
