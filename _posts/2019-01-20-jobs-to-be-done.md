@@ -1,6 +1,6 @@
 ---
 layout: post	
-title: Paçocas e o Jobs To Be Done.	
+title: Paçocas e o Jobs To Be Done
 author: Felipe Barbosa
 permalink: /pacoca-jobs-to-be-done/
 categories: produto

@@ -1,6 +1,6 @@
 ---
 layout: post	
-title: Como a tecnologia pode ajudar a integrar e automatizar seu funil de Marketing e Vendas.	
+title: Como a tecnologia pode ajudar a integrar e automatizar seu funil de Marketing e Vendas	
 author: Felipe Barbosa
 permalink: /tecnologia-marketing-vendas/
 categories: marketing
