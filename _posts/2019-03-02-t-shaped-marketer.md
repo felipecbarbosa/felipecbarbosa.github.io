@@ -17,7 +17,7 @@ Cada uma das cores representando diferentes habilidades significam o seguinte:
 
 - Vermelho: é preciso ter um conhecimento intuitivo das habilidades
 - Amarelo: é preciso ter um conhecimento profundo e experiência com essas habilidades
-- Verde: esse item é dividio em lado esquerdo e direito. No lado esquerdo é preciso ter um conhecimento profundo, *mão na massa*, crítico e atualizado sobre os canais ali representados. No lado direito o desenvolvimento das habilidades ajudará a tornar visitantes em clientes leais
+- Verde: esse item é dividido em lado esquerdo e direito. No lado esquerdo é preciso ter um conhecimento profundo, *mão na massa*, crítico e atualizado sobre os canais ali representados. No lado direito o desenvolvimento das habilidades ajudará a tornar visitantes em clientes leais
 
 Essa é a definição do *t-shaped marketer* da Growth Tribe.
 
