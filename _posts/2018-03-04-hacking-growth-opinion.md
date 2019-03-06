@@ -20,7 +20,7 @@ Comecei a perceber também é que startups já mais consolidadas e empresas de t
 
 Todo esse contexto de movimento do mercado lá fora estava na minha cabeça quando vi que seria lançado o livro [Hacking Growth - How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout-ebook/dp/B01IZTCF6Y/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=).
 
-Eu já havia lido o livro do Sean Ellis e Morgan Brown chamado [Growth Engines - Case Studies of How Today’s Most Successful Startups Unlock Extraordinary Growth](Case Studies of How Today’s Most Successful Startups Unlock Extraordinary Growth) então pensava que poderia ser mais do mesmo o novo livro da dupla.
+Eu já havia lido o livro do Sean Ellis e Morgan Brown chamado [Growth Engines - Case Studies of How Today’s Most Successful Startups Unlock Extraordinary Growth](https://www.amazon.com.br/Startup-Growth-Engines-Successful-Extraordinary-ebook/dp/B00LA95B68/ref=tmm_kin_title_sr?_encoding=UTF8&qid=1551902189&sr=8-1) então pensava que poderia ser mais do mesmo o novo livro da dupla.
 
 Não comprei durante a pré-venda que oferecia várias ofertas especiais. Estava muito caro. Mas um dia vi que estava em uma boa promoção da Amazon e resolvi comprar.
 
