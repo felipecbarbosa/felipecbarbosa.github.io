@@ -96,7 +96,7 @@ Faz sentido ter ficado um pouco abaixo da média nos dois itens diretamente liga
 
 Já o item que eu fiz 1/5, marketplaces, nem me preocupo porque nunca estive em um contexto de *e-commerce*. Quem sabe um dia eu foco nisso, hoje acho que tem outros conhecimentos e habilidades que pretendo focar para o meu trabalho hoje com Marketing de Produto.
 
-## Nível 3 Verde (lado direito) - Dominar as habiidades permitirá transformar visitantes em clientes leais
+## Nível 3 Verde (lado direito) - Dominar as habilidades permitirá transformar visitantes em clientes leais
 
 - Retention - You scored 5/5 compared to the industry average of 2.8/5
 - Landing Page Creation & Optimisation - You scored 5/5 compared to the industry average of 3.2/5
