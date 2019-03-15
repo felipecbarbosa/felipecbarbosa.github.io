@@ -18,7 +18,7 @@ Apesar de muitas áreas complexas terem uma vantagem enorme com a utilização d
 
 Ou seja, que exigem um pensamento mais crítico, complexo e dependente do contexto que, por enquanto, somente as pessoas possuem. Quando tiramos do nosso julgamento qualquer aspecto de que a tecnologia pode não ser suficiente, ela vai mais nos prejudicar do que ajudar:
 
-> Seja nos fazendo ter um resultado ruim, pior do que ter feito algo sem ela ou por simplesmente a usar de forma errada e descartá=la completamente como se fosse inútil.
+> Seja nos fazendo ter um resultado ruim, pior do que ter feito algo sem ela ou por simplesmente a usar de forma errada e descartá-la completamente como se fosse inútil.
 
 ## O caso do VAR no futebol
 
@@ -28,7 +28,7 @@ Erros que muitas vezes significavam equipes que perderiam títulos injustamente 
 
 Eu amo futebol, acompanho desde muito pequeno e sempre me frustrou quando meu time do coração ou os times que eu jogava sofriam com algum erro.
 
-O uso do sensor na bola na Copa do Mundo de 2014 já foi um avanço para não ter mais a polêmica se a bola entrou no gol ou não (apesar dessa tecnologia não ter sido extedida aos campeonatos nacionais e internacionais de clubes ao menos está presente na Copa do Mundo) e o uso em todas as partidas do VAR já mostrou que, em muitos lances, não deixou que um erro da arbitragem prejudicasse uma das equipes.
+O uso do sensor na bola na Copa do Mundo de 2014 já foi um avanço para não ter mais a polêmica se a bola entrou no gol ou não (apesar dessa tecnologia não ter sido estendida aos campeonatos nacionais e internacionais de clubes ao menos está presente na Copa do Mundo) e o uso em todas as partidas do VAR já mostrou que, em muitos lances, não deixou que um erro da arbitragem prejudicasse uma das equipes.
 
 Mas porque eu digo "muitos lances" e não "todos os lances"?
 
@@ -96,7 +96,7 @@ Isso acontece porque por mais complexa que pode ser a solução utilizada para c
 
 Essas situações me lembram uma propaganda da Adobe falando da sua solução de *Analytics* muito boa:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/N1ltwg2nTK4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/N1ltwg2nTK4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 Claro que a propaganda mostra uma situação inusitada, mas é bem comum olharmos dados da maneira apresentada:
 
@@ -108,7 +108,7 @@ Tem uma passagem que acho muito interessante:
 
 > It would be nice if all of the data which sociologists require could be enumerated because then we could run them through IBM machines and draw charts as the economists do. However, not everything that can be counted counts, and not everything that counts can be counted.
 
-**Nem tudo que pode ser contado (medido) importa e nem tudo que importa pode ser contato (medido)**.
+**Nem tudo que pode ser contado (medido) importa e nem tudo que importa pode ser contado (medido)**.
 
 Pelo menos não pode ser medido da maneira que pensamos quando falamos em *data-driven* onde tudo vai ser 0 ou 1.
 
