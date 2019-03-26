@@ -15,7 +15,7 @@ Durante a apresentação contei uma história e fui ligando os pontos para mostr
 
 É bom reforçar que essa é a minha visão sobre o assunto.
 
-##Como o Jobs To Be Done chegou até a mim?
+## Como o Jobs To Be Done chegou até a mim?
 
 A história começa em 2014 quando eu entrei na RedeHost para assumir o [Marketing](/marketing/) do [Route](http://www.route.to/). A história sobre os [erros clássicos de startups](/startup-fail/) que cometemos eu já escrevi mas aqui quero focar no caminho natural que nos levou à teoria do Trabalho a Ser Feito.
 
@@ -41,7 +41,7 @@ Não tínhamos o ferramental para ser mais efetivo nas nossas conversas. O JTBD 
 
 Antes disso o projeto foi descontinuado, todo time foi para a [Umbler](https://www.umbler.com/br) e lá eu sei que o Daniel tem feito um trabalho muito legal em relação a aplicação dessa teoria.
 
-##Mas afinal, o que é Jobs To Be Done?
+## Mas afinal, o que é Jobs To Be Done?
 
 É a **ideia que as pessoas não compram** um produto ou serviço específico, **elas contratam um produto ou serviço** para realizar um *job* que **surge na vida delas** em um **determinado momento**.
 
@@ -63,7 +63,7 @@ Poderíamos ir **mais além**, as pessoas **querem pendurar um quadro na parede*
 
 O *job* nunca é algo que sai de dentro da empresa e sim descoberto, desvendado ao conversar e observar as pessoas no momento de compra e no momento de consumo.
 
-##Por que Jobs To Be Done é usado?
+## Por que Jobs To Be Done é usado?
 
 Surgiu como uma *teoria* que daria **previsibilidade e assertividade** na hora de lançar novos produtos. **Inovação** está presente ao se falar de JTBD.
 
@@ -75,17 +75,17 @@ Surgiu como uma *teoria* que daria **previsibilidade e assertividade** na hora d
 
 Ajuda na fase de *customer development* e dá um guia sobre o que explorar na hora de ir conversar com as pessoas.
 
-##As diferentes abordagens sobre Jobs To Be Done
+## As diferentes abordagens sobre Jobs To Be Done
 
 Agora que eu já passei pelo conceito e porque ele é usado quero falar um pouco sobre as duas diferentes abordagens sobre a *teoria*.
 
 O universo do Jobs To Be Done não é unido. Existem duas linhas de pensamento: uma que acredita no *jobs-as-progress* e outra *jobs-as-activities*.
 
-###Jobs-as-progress
+### Jobs-as-progress
 
 Um *job* pode ser **funcional**, **emocional** ou **social**. As pessoas escolhem algo para ter um **progresso** nesses contextos. As pessoas tomam uma atitude quando existe uma **discrepância** entre o seu estado **atual** e onde elas **querem chegar**.
 
-###Jobs-as-activities
+### Jobs-as-activities
 
 Um *job* é basicamente **funcional**, é a **atividade** que se quer fazer, e o lado emocional ou social ficam em **segundo plano**. Elas são apenas um fator dentro da atividade que se quer fazer.
 
@@ -113,25 +113,25 @@ Mas no meu caso me atrai menos todo esse contexto, não somente pelo contexto qu
 
 Agora que já falei sobre as diferenças vou seguir tratando de JTBD pelo lado do progresso que as pessoas querem ter em determinado momento.
 
-##As 4 forças do progresso
+## As 4 forças do progresso
 
 No *job-as-progress* existe a ideia de que 4 forças atuam em uma pessoa:
 
 >2 que estimulam a tomada de decisão (Push e Pull) e 2 contrárias a tomada de decisão (Anxiety e Habit).
 
-###Push
+### Push
 
 As pessoas não mudam quando estão felizes com determinada situação. Mudam quando algo as empurra para um estado de infelicidade. 
 
-###Pull
+### Pull
 
 Quando as pessoas são empurradas para um estado de infelicidade essa força as puxam para um caminho determinado (para uma vida melhor ou para uma solução específica).
 
-###Anxiety
+### Anxiety
 
 Quando não sabemos se um serviço ou produto vai resolver o job existe uma ansiedade. Geralmente quando vamos usar algo pela primeira vez. 
 
-###Habit
+### Habit
 
 Quando algo se torna um hábito é difícil mudar para uma outra solução, mesmo se não estamos totalmente satisfeitos.
 
@@ -141,39 +141,39 @@ Quando algo se torna um hábito é difícil mudar para uma outra solução, mesm
 
 Acima tem esse diagrama mostrando as forças que agem na geração e redução de demanda e as diferentes características de cada uma delas. Dentro de cada uma das 4 forças existem origens diferentes que levam a elas.
 
-###Internal Push
+### Internal Push
 
 Um exemplo é o caso de uma empresa chamada [Clarity](https://clarity.fm/) que conecta especialistas do mercado com quem precisa de conselhos. Perceberam que os empreendedores utilizavam o serviço a partir de um sentimento interno de que estavam estagnados.
 
-###External Push
+### External Push
 
 Uma empresa chamada [YourGrocer](https://www.yourgrocer.com.au/) que vai nos mercados locais, compra os produtos e entrega nas casas das pessoas percebeu que famílias com 1 filho ainda preferiam ir até seus mercados favoritos. 
 
 Quando essas famílias tinham um segundo filho já era muito trabalho e acabavam abrindo mão de ir nesses mesmos mercados.
 
-###Pull Idea of a Better Life
+### Pull Idea of a Better Life
 
 No mesmo caso anterior da Clarity eles perceberam que algumas vezes, mesmo com o sentimento interno de estagnação, pode escolher não tomar nenhuma ação para melhorar. É preciso mostrar que ao utilizar o Clarity essas pessoas vão conseguir ter um progresso. 
 
-###Pull Solution Preference
+### Pull Solution Preference
 
 O que leva a escolha de uma solução em detrimento a outra? O *job* pode ser resolvido de diferentes maneiras. No caso da YourGrocer a família poderia escolher deixar os filhos com parentes ou uma babá e ir nos mercados ao invés de usar o serviço deles. 
 
 Nesse caso a empresa precisa mostrar que a solução dela é a mais conveniente para resolver o *job*.
 
-###Anxiety in Choice
+### Anxiety in Choice
 
 Acontece antes da decisão sobre o que escolher. Se não estamos familiarizados com o produto podemos nos questionar se ele realmente vai nos ajudar, como as pessoas vão nos julgar pela escolha, etc.
 
-###Anxiety in Use
+### Anxiety in Use
 
 Um exemplo é a ansiedade de não saber se está preparado para utilizar o serviço escolhido para realizar o *job*. O time de Marketing pode pensar em investir em uma ferramenta mais robusta mas acha que ainda não tem tudo bem estruturado para tirar o melhor proveito dela.
 
-###Habit in Choice
+### Habit in Choice
 
 Algumas escolhas são recorrentes porque já são confortáveis para nós. Para forçar a mudança é preciso criar maneiras de quebrar a barreira do hábito. Um exemplo é o Google Docs converter arquivos Excel para que se possa trabalhar nele.
 
-###Habit in Use
+### Habit in Use
 
 Todos já devem ter passado por alguma situação onde começam a usar algo novo e em seguida voltam ao comportamento anterior. 
 
@@ -183,7 +183,7 @@ Passaram a enviar alertas sobre possíveis produtos que estariam acabando.
 
 Agora que já falamos sobre os conceitos sobre JTBD como começar a aplicar?
 
-##Como começar a aplicar o Jobs To Be Done
+## Como começar a aplicar o Jobs To Be Done
 
 Como disse antes, um *job* não é algo que a empresa formaliza internamente ele surge em conversas com outras pessoas.
 
@@ -203,7 +203,7 @@ Na minha opinião começar a estruturar a descoberta a partir do que tem nessa l
 
 Depois de desvendar o *job* como comunicar isso ao time que está trabalhando no desenvolvimento do produto ou serviço? Uma forma que é bem interessante é usar as *job stories*.
 
-##As Job Stories
+## As Job Stories
 
 Com as informações colhidas nas conversas e observações como descrever esse job de maneira que o time de produto consiga trabalhar para entregar a melhor solução?
 
@@ -224,7 +224,7 @@ Um exemplo poderia ser o seguinte:
 >Quando estou em casa no final de semana (Situação), eu quero fazer algo para meu lazer (Motivação) 
 para que eu esqueça as preocupações do meu trabalho (Resultado Esperado).
 
-##O que muda ao se utilizar Jobs To Be Done?
+## O que muda ao se utilizar Jobs To Be Done?
 
 Nesse modelo de Job Stories quem utiliza argumenta que Personas e User Stories fazem parte de um passado onde clientes e times de produto estavam separados.
 
@@ -248,7 +248,7 @@ Um exemplo poderia ser o de soluções para reuniões remotas corporativas compe
 
 Outro pode ser o de clubes de futebol que competem com outras opções de entretenimento.
 
-##Vale a pena começar a usar Jobs To Be Done?
+## Vale a pena começar a usar Jobs To Be Done?
 
 Eu acho que vale mas esse meu pensamento não é nem tanto pela *teoria* em si.
 
