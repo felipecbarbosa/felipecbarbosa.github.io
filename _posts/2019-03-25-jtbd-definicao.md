@@ -135,9 +135,7 @@ Quando não sabemos se um serviço ou produto vai resolver o job existe uma ansi
 
 Quando algo se torna um hábito é difícil mudar para uma outra solução, mesmo se não estamos totalmente satisfeitos.
 
-<center>
 ![4 Forças do Progresso do Jobs To Be Done](https://res.cloudinary.com/felipe-barbosa/image/upload/q_100/v1553633652/4-forcas-progresso-jtbd-completa_olbjfn.png)
-</center>
 
 Acima tem esse diagrama mostrando as forças que agem na geração e redução de demanda e as diferentes características de cada uma delas. Dentro de cada uma das 4 forças existem origens diferentes que levam a elas.
 
