@@ -37,7 +37,7 @@ Foi nesse contexto que fomos apresentados ao Jobs To Be Done. Meu amigo e ex-col
 
 Nós até então construímos um produto sem olhar de fato para fora da porta da nossa empresa. Quando conversávamos com usuário e pessoas interessadas não tínhamos um processo de descoberta estruturado. Olhando agora posso dizer que não sabíamos o que precisávamos descobrir.
 
-Não tínhamos o ferramental para ser mais efetivo nas nossas conversas. O JTBD cairia como uma luva para recomeçarmos e tentarmos dar mais vida ao Route. Lembro que mudamos alguns textos em uma tentativa superficial de começar a sair do âmbito de *features* para o de soluções, mas no Route nunca chegaos a aplicar o JTBD de fato.
+Não tínhamos o ferramental para ser mais efetivo nas nossas conversas. O JTBD cairia como uma luva para recomeçarmos e tentarmos dar mais vida ao Route. Lembro que mudamos alguns textos em uma tentativa superficial de começar a sair do âmbito de *features* para o de soluções, mas no Route nunca chegamos a aplicar o JTBD de fato.
 
 Antes disso o projeto foi descontinuado, todo time foi para a [Umbler](https://www.umbler.com/br) e lá eu sei que o Daniel tem feito um trabalho muito legal em relação a aplicação dessa teoria.
 
