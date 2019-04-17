@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entre em Contato - Deixe sua mensagem para mim!
+title: Entre em Contato!
 permalink: /contato/
 hide: true
 ---
