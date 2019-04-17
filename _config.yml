@@ -52,7 +52,7 @@ theme_settings:
   cv: "felipe_cv.pdf"
   twitter: "felipecb_"
   medium: "felipe-barbosa"
-  youtube:
+  ajuda: https://ajuda.felipebarbosa.me/
 
   # Scripts
   disqus_shortname: felipebarbosa
@@ -66,6 +66,7 @@ theme_settings:
   str_continue_reading: "Continue reading"
   str_download: "Faça o download do meu"
   str_ideas: "Deixe sua"
+  str_ajuda: "Precisa de"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
