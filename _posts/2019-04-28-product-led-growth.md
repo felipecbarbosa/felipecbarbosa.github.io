@@ -172,9 +172,9 @@ Então o que eu penso é o seguinte: o PLG tem mais chances de funcionar com mai
 
 Se você tem como foco vendas enterprise com um ticket-médio alto, é melhor que continue com uma ideia de contato bem personalizado porque seu cliente irá pedir isso.
 
-Talvez o PLG seja interessante ao se buscar novos clientes em algum mercado diferente ou se o seu próprio mercado está com uma dificuldade de crescimento e os custos estão ficando cada vez mais altos para se conseguir novos clientes ou reter os atuais.
+Talvez o PLG seja interessante, para essas empresas mais enterprise ou com produtos de ticket-médio mais alto, ao se buscar novos clientes em algum mercado diferente ou se o seu próprio mercado está com uma dificuldade de crescimento e os custos estão ficando cada vez mais altos para se conseguir novos clientes ou reter os atuais.
 
-Outro detalhe é que uma das melhores maneiras de se começar é ter ofertas *freemium*. Você quer que as pessoas usem seu produto por um tempo para conseguir ter toda essa visão de entrega de valor e propensão a pagar.
+Outro detalhe é que uma das melhores maneiras de se começar é ter ofertas *freemium* ou ao menos um período de testes suficiente para o usuário conseguir ver o valor que espera do produto. Você quer que as pessoas usem seu produto por um tempo para conseguir ter toda essa visão de entrega de valor e propensão a pagar.
 
 Muitos SaaS tem planos que variam de básicos e acessíveis até os mais altos. Muitos desses tem planos gratuitos ou períodos de testes otimizados para serem ideias para que as pessoas vejam o valor do produto.
 
