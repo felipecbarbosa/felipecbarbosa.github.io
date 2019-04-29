@@ -214,7 +214,7 @@ Esse movimento pode causar aquelas demissões em massa que no último ano vimos 
 
 Os times de Marketing, Vendas, Customer Success e Suporte passarão a ter um papel mais reativo em boa parte do tempo e proativo só em relação a determinados tipos de usuários.
 
-Isso muda quais suas preocupações no dia-a-dia. Certamente elas precisarão se envolver muito na construção do que é o Product Qualified Leads, do mapeamento dos momentos-chave e qual será o papepl delas durante a jornada dos usuários e clientes.
+Isso muda quais suas preocupações no dia-a-dia. Certamente elas precisarão se envolver muito na construção do que é o Product Qualified Leads, do mapeamento dos momentos-chave e qual será o papel delas durante a jornada dos usuários e clientes.
 
 Sobre estrutura de times e papéis de cada um deles, tem um episódio do [Seeking Wisdom do Drift com a ex-Vp de Customer Success & Sales da Digital Ocean](https://www.youtube.com/watch?v=D9FfzvYDNm0).
 
