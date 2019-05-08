@@ -5,7 +5,7 @@ author: Felipe Barbosa
 permalink: /jobs-to-be-done-definicao/
 categories: produto
 ---
-Sei que por aí existem diversos textos bem completos sobre a definição de **Jobs To Be Done** além de livros muito bons sobre o assunto. Então, por que escrevi escrever esse? Porque acredito que juntando uma experiência pessoal de trabalho, com o que já estudo sobre marketing e comportamento de consumo além do que já li e conversei sobre JTBD posso contribuir para essa conversa.
+Sei que por aí existem diversos textos bem completos sobre a definição de **Jobs To Be Done** além de livros muito bons sobre o assunto. Então, por que resolvi escrever esse? Porque acredito que juntando uma experiência pessoal de trabalho, com o que já estudo sobre marketing e comportamento de consumo além do que já li e conversei sobre JTBD posso contribuir para essa conversa.
 
 A inspiração desse artigo vem de uma conversa que tive aqui na [Plataformatec](https://plataformatec.com/) com os meus colegas onde trouxe uma visão geral sobre o assunto. 
 
