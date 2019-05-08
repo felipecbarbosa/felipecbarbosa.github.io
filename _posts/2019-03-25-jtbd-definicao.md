@@ -91,7 +91,7 @@ Um *job* é basicamente **funcional**, é a **atividade** que se quer fazer, e o
 
 Essas duas abordagens são conflitantes e cada linha tem alguém que defende com unhas e dentes qual a melhor. A linha do *jobs-as-progress* tem Alan Klement como o maior defensor e a de *jobs-as-activities* tem Tony Ulwick como expoente.
 
-No meu [outro texto](/pacoca-jobs-to-be-done/) falei sobre essa disputa mas aqui não quero entrar nesse assunto. Quero é dixar qual abordagem eu acho melhor e o motivo dessa minha opção.
+No meu [outro texto](/pacoca-jobs-to-be-done/) falei sobre essa disputa mas aqui não quero entrar nesse assunto. Quero é deixar qual abordagem eu acho melhor e o motivo dessa minha opção.
 
 Acredito mais quando se fala em *job-as-progress*.
 
@@ -109,7 +109,7 @@ Isso significa que existe uma razão forte para ele defender essa abordagem em d
 
 No livro sobre Jobs To Be Done ele lista as mais de 80 etapas que fazem parte da metodologia dele. Por ter algo mais descritivo de como usar existem pessoas que acham melhor.
 
-Mas no meu caso me atrai menos todo esse contexto, não somente pelo contexto que comentei acima sobre o que eu já estudei sobre comportamento de consumo mas também por saber que existe uma metodologia patenteada e uma consultoria que ganhar por ter um modelo dominante.
+Mas no meu caso me atrai menos todo esse contexto, não somente pelo contexto que comentei acima sobre o que eu já estudei sobre comportamento de consumo mas também por saber que existe uma metodologia patenteada e uma consultoria que ganha por ter um modelo dominante.
 
 Agora que já falei sobre as diferenças vou seguir tratando de JTBD pelo lado do progresso que as pessoas querem ter em determinado momento.
 
@@ -234,7 +234,7 @@ No caso das Personas, o argumento é de que a descrição de uma persona não é
 
 Os *jobs* podem ser os mesmos em grupos bem distintos de pessoas. Não é a Persona A com determinadas características que a faz tomar uma decisão de compra. É o *job* que ela quer resolver para ter progresso em determinado momento.
 
-A imagem abaixo retirada de um materia do Intercom mostra isso claramente.
+A imagem abaixo retirada de um material do Intercom mostra isso claramente.
 
 ![Pesonas e Jobs To Be Done](https://res.cloudinary.com/felipe-barbosa/image/upload/q_100/v1553638982/personas-jtbd_uid7oe.png)
 
@@ -252,7 +252,7 @@ Eu acho que vale mas esse meu pensamento não é nem tanto pela *teoria* em si.
 
 Vejo que vale a pena porque é uma atividade que vai colocar na frente do seu time a importância de conversar com os clientes e usuários. 
 
-Sei que isso às vezes pode parecer a coisa mais óbvia e tem uma infinidade de autores que falam sobre a etapa de validaçao no desenvolvimento de produtos e, ao mesmo tempo, sabemos também que muitos times de produto não colocam o tempo devido nessa atividade.
+Sei que isso às vezes pode parecer a coisa mais óbvia e tem uma infinidade de autores que falam sobre a etapa de validação no desenvolvimento de produtos e, ao mesmo tempo, sabemos também que muitos times de produto não colocam o tempo devido nessa atividade.
 
 Se você ver que JTBD não é para você, recomendo que busque então outras maneiras de explorar os motivos que realmente levam alguém a escolher o seu produto ou serviço.
 
