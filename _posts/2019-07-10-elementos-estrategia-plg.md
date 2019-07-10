@@ -198,7 +198,7 @@ Esse texto é uma opinião pessoal baseada em experiência pessoal na prática e
 
 Costumo ver muitos textos falando mais como outras empresas fizeram ao invés de propor uma dicussão anterior que é: você está pronto para utilizá-lo?
 
-Vejo que é bem comum tirar esse lado mais crítico quando estamos falando de algumas atividades como *Inbound Marketing*, *Account Based Marketing** e **PLG**. Tudo acaba parecendo a próxima coisa que vai virar o jogo.
+Vejo que é bem comum tirar esse lado mais crítico quando estamos falando de algumas atividades como *Inbound Marketing*, *Account Based Marketing* e **PLG**. Tudo acaba parecendo a próxima coisa que vai virar o jogo.
 
 Vale a pena pensar bem antes de entrar na onda do *hype*.
 
