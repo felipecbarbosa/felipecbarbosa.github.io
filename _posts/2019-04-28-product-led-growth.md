@@ -50,7 +50,7 @@ Nesse período de Route nosso time consumia muito desses conteúdos e era um gra
 
 ## Condições para se ter uma estratégia de PLG efetiva
 
-Já vimos que é intuitivo e até natural que empresas SaaS utilizem **Product Led Growth**. Mas será que são todas que se beneficiam com isso ou existem condições ideias para se apostar nessa estratégia?
+Já vimos que é intuitivo e até natural que empresas SaaS utilizem [Product Led Growth](/elementos-estrategia-product-led-growth/). Mas será que são todas que se beneficiam com isso ou existem condições ideias para se apostar nessa estratégia?
 
 Tenho um ponto de vista de que existem algumas condições e uma delas é a maturidade do mercado. 
 
