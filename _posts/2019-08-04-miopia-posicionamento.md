@@ -160,9 +160,8 @@ Mas também ficar somente em um estado idealizado vai ser difícil se tornar rel
 
 Em um livro chamado *Positioning for Professionals: How Professional Knowledge Firms Can Differentiate Their Way to Success* vi uma imagem bem simples que dá uma boa noção de como equilibrar isso:
 
-<center>    
 ![Como posicionar sua empresa?](https://res.cloudinary.com/felipe-barbosa/image/upload/q_100/v1564939422/posicionamento-artigo-linha_dhp8i0.png)
-</center>
+
 
 Entre o estado atual e o aspiracional, o **Posicionamento** vai ter boa parte o elemento de onde se quer chegar.
 
@@ -211,15 +210,11 @@ Esse [artigo do Userlist mostra na prática essas 10 etapas](https://userlist.io
 
 No livro (e no artigo da Userlist) você terá todos os detalhes mas tem um template que a [April traz em um artigo do Hackernoon](https://hackernoon.com/obviously-awesome-a-product-positioning-exercise-604e8ced841e) que é bem interessante:
 
-<center>
 ![Positioning Template](https://hackernoon.com/hn-images/1*Dk84FmRW-j3bAcfQ2DefrA.png)
-</center>
 
 Um outro modelo bem famoso é o do livro *Crossing the Chasm*, do Geoffrey Moore. O *Positioning Statement Template*:
 
-<center>
 ![Positioning Statement Template](https://predictprofit.files.wordpress.com/2015/03/post-5-series-2.png)
-</center>
 
 Apesar de serem modelos que podem parecer semelhantes, existe uma diferença sobre como preenchê-los.
 
