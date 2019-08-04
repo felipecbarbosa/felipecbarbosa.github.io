@@ -30,7 +30,7 @@ A ideia de Miopia em Marketing foi apresentada pelo Theodore Levitt lá na déca
 
 > As pessoas não querem uma broca de 4 polegadas. Elas querem um furo de 4 polegadas.
 
-Apesar da frase (não ser dele)[https://quoteinvestigator.com/2019/03/23/drill/], ela aparece em um capítulo de um de seus livros e tem tudo a ver com esse conceito criado por ele.
+Apesar da frase [não ser dele](https://quoteinvestigator.com/2019/03/23/drill/), ela aparece em um capítulo de um de seus livros e tem tudo a ver com esse conceito criado por ele.
 
 Miopia em Marketing é:
 
