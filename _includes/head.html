@@ -7,6 +7,11 @@
 	<!-- AMP Mercury Converter -->
 	<link rel="amphtml" href="https://mercury.postlight.com/amp?url={{ site.url }}{{ page.url }}">
 
+	<!-- Canonical URL Posts -->
+	{% if page.canonical %}
+	<link rel="canonical" href="{{ page.canonical }}">
+	{% endif %}
+
 	<!-- Manifest.Json PWA-->
 	<!-- link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl | prepend: site.url }}" -->
 	
