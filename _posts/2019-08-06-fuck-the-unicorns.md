@@ -106,4 +106,4 @@ Vamos mostrar ao mercado das startups e de tecnologia que nada é fácil, que es
 
 Vamos por os pés no chão. Não existe bala de prata.
 
-*Esse artigo escrevi em 2017 no meu blog antigo e quando mudei de plataforma (Ghost para o Github Pages) ele estava apenas em meu [Medium](https://medium.com/felipe-barbosa/fuck-the-unicorns-marketing-nas-startups-da-vida-real-a790db5de44b). Resolvi republicá-lo aqui.*
+*Esse artigo escrevi em 2016 no meu blog antigo e quando mudei de plataforma (Ghost para o Github Pages) ele estava apenas em meu [Medium](https://medium.com/felipe-barbosa/fuck-the-unicorns-marketing-nas-startups-da-vida-real-a790db5de44b). Resolvi republicá-lo aqui.*
