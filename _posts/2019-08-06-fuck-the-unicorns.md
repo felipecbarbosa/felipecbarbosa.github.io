@@ -4,7 +4,7 @@ title: Fuck The Unicorns! Marketing nas Startups da vida real
 author: Felipe Barbosa
 permalink: /fuck-the-unicorns/
 categories: startups
-canonical: https://medium.com/felipe-barbosa/fuck-the-unicorns-marketing-nas-startups-da-vida-real-a790db5de44b?source=your_stories_page---------------------------
+published: false
 ---
 Durante a faculdade de Administração eu lembro que quando líamos e conversávamos sobre casos de sucesso de gestão, os exemplos eram sempre a General Eletric, a Coca-Cola, Peter Drucker e Jack Welsh.
 
