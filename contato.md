@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entre em Contato!
+title: Contato
 permalink: /contato/
 ---
 
