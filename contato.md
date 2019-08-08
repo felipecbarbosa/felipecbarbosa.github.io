@@ -2,7 +2,6 @@
 layout: page
 title: Entre em Contato!
 permalink: /contato/
-hide: true
 ---
 
 Você pode falar comigo pelo chat, geralmente respondo rápido, mas caso você queira deixar alguma mensagem maior você pode entrar em contato comigo pelo formulário abaixo:
