@@ -7,7 +7,7 @@ categories: marketing
 canonical: http://productmarketingbrasil.com.br/como-posicionar-produtos-de-tecnologia/
 ---
 
-*Esse artigo eu publiquei originalmente no blog do [Product Marketing Brasil](http://productmarketingbrasil.com.br/). Ele é inspirado na parte sobre [Posicionamento](/miopia-em-marketing-e-posicionamento/) do livro Chrossing the Chasm.*
+*Esse artigo eu publiquei originalmente no blog do [Product Marketing Brasil](http://productmarketingbrasil.com.br/). Ele é inspirado na parte sobre [Posicionamento](/miopia-em-marketing-e-posicionamento/) do livro Crossing the Chasm.*
 
 A primeira vez que ouvi falar sobre Posicionamento foi durante a faculdade quando fui apresentado ao clássico "[Posicionamento – A batalha por sua mente” de Al Ries e Jack Trout](https://www.amazon.com.br/Posicionamento-Batalha-por-Sua-Mente/dp/8576800667/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2AAXTYDDD0MZT&keywords=posicionamento+a+batalha+por+sua+mente&qid=1554953351&s=gateway&sprefix=posicion%2Caps%2C247&sr=8-1)".
 
@@ -156,4 +156,4 @@ Posicionamento com certeza é difícil de medir mas um trabalho consistente vai 
 
 Comece a plantar na cabeça do seu público onde você quer esta, seja consistente, e veja que cada vez será mais difícil um concorrente chegar e tomar o seu lugar.
 
-*Esse artigo eu publiquei originalmente no blog do [Product Marketing Brasil](http://productmarketingbrasil.com.br/). Ele é inspirado na parte sobre [Posicionamento](/miopia-em-marketing-e-posicionamento/) do livro Chrossing the Chasm.*
+*Esse artigo eu publiquei originalmente no blog do [Product Marketing Brasil](http://productmarketingbrasil.com.br/). Ele é inspirado na parte sobre [Posicionamento](/miopia-em-marketing-e-posicionamento/) do livro Crossing the Chasm.*
