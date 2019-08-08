@@ -15,7 +15,7 @@ Nele os autores argumentam que diferentes marcas, com seus diferentes produtos, 
 
 Pensem como é poderoso esse conceito: em um mercado competitivo, com muitos produtos e marcas, onde todos buscam ser diferentes uns dos outros, trabalhar como as pessoas lembram os seus produtos e a sua marca pode ser fundamental para se tornar líder.
 
-Mas como criar um Posicionamento de produto relevante?
+Mas como criar um [Posicionamento de produto relevante](https://medium.com/@vitorferreira91/a-evolu%C3%A7%C3%A3o-do-mercado-e-em-como-fazer-marketing-em-geral-%C3%A9-indiscut%C3%ADvel-22fea020768)?
 
 No livro não tem nenhum modelo específico e sim histórias de empresas que conseguiram ter sucesso ao se posicionar no mercado.
 
