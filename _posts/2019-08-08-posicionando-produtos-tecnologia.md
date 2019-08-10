@@ -35,7 +35,8 @@ A ideia de como criar o Posicionamento é desenvolvida a partir das seguintes et
 2. Criando a competição
 3. Posicionando o produto
 4. Comunicando o Posicionamento
-5. Vamos falar de cada um deles agora.
+
+Vamos falar de cada um deles agora.
 
 ## Definindo o campo de batalha
 
@@ -109,10 +110,15 @@ Durante todo o processo descrito acima o Posicionamento vai se formando e agora 
 Para fazer isso basta pegar todo o conhecimento sobre o mercado e competidores e preencher o seguinte modelo:
 
 **Para** (público-alvo)
+
 **Que está insatisfeito com** (a alternativa de mercado)
+
 **O nosso produto é** (categoria de produto)
+
 **Que entrega** (razão pela qual o público-alvo irá decidir pagar)
+
 **Diferente de** (o produto alternativo)
+
 **Nós desenvolvemos** (funcionalidades chave do produto completo)
 
 As empresas precisam preencher cada um dos itens como indicado.
