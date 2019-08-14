@@ -163,8 +163,3 @@ Posicionamento com certeza é difícil de medir mas um trabalho consistente vai 
 Comece a plantar na cabeça do seu público onde você quer esta, seja consistente, e veja que cada vez será mais difícil um concorrente chegar e tomar o seu lugar.
 
 *Esse artigo eu publiquei originalmente no blog do [Product Marketing Brasil](http://productmarketingbrasil.com.br/). Ele é inspirado na parte sobre [Posicionamento](/miopia-em-marketing-e-posicionamento/) do livro Crossing the Chasm.*
-<<<<<<< HEAD
-
-Gostou do artigo e quer receber um aviso quando eu publicar novos textos? [Cadastre-se aqui](#newsletter-cadastro).
-=======
->>>>>>> 91547a7a01ac0dd7b74e15fa09b28cc06fe6f355
