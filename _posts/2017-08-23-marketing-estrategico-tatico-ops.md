@@ -14,7 +14,7 @@ O que me levou a escrever esse texto de 2014 foi uma palestra onde um cara do Go
 
 Ela poderia ter sido feita em 2010, 2005, 2000. Enfim, marcas e conexão emocional era pra ser mais do que batido em 2014 (e ainda tem gente HOJE falando sobre isso).
 
-Esse é só um exemplo. Já teve gente dizendo que o certo não é b2b ou b2c. O certo é h2h2 (human to human) porque todos são pessoas.
+Esse é só um exemplo. Já teve gente dizendo que o certo não é b2b ou b2c. O certo é h2h (human to human) porque todos são pessoas.
 
 Depois vem o papo de [Growth Hacking](https://medium.com/felipe-barbosa/growth-hacking-%C3%A9-Marketing-6bfb677c154d) e como o Marketing está obsoleto (gostaria de ouvir essas pessoas definindo o que é Marketing em primeiro lugar).
 
@@ -36,7 +36,7 @@ Impressionante é que durante o tempo que eu acompanhei não teve ninguém dizen
 
 Quantas empresas que até hoje tem marca reconhecida mas que não existem mais ou são apenas uma sombra do que eram antes?
 
-Na minha formação, professores e teóricos do Marketing (sim, naqueles livros "ultrapassados" para alguns), sempre ficou claro que tudo era questão de estratégia. De equilíbrio. De planejamento.
+Na minha formação, professores e teóricos do Marketing (sim, naqueles livros "ultrapassados" para alguns) sempre deixaram claro que tudo era questão de estratégia. De equilíbrio. De planejamento.
 
 Comecei a ver que existe uma confusão sobre a atividade de Marketing porque as pessoas pensam no assunto muito mais na parte tática e operacional do que na parte estratégica.
 
@@ -77,6 +77,3 @@ A atividade de Marketing é um equilíbrio de muitas ações e ideias sempre lig
 Esse papo de reciclar ideias pra vender palestra, disseminar conceitos para vender livros ou consultorias e ficar querendo dizer que a ação X é melhor que a Y é perda de tempo.
 
 E não tem nada a ver com Marketing.
-
-
-
