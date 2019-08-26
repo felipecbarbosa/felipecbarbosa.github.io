@@ -79,12 +79,6 @@ theme_settings:
 paginate: 5
 paginate_path: "page:num"
 
-# Redirects
-collections:
-  redirects:
-    output: true
-    permalink: /:path/
-
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge
