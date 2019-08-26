@@ -1,1 +1,1 @@
-/pirate-metricas/ https://www.felipebarbosa.me/pirate-metrics/
+/pirate-metricas/* https://www.felipebarbosa.me/pirate-metrics/:splat 301
