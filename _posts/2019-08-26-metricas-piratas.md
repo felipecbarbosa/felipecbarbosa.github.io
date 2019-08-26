@@ -2,7 +2,7 @@
 layout: post	
 title: AARRR - Medindo seu funil de Marketing e Vendas com as Pirate Metrics
 author: Felipe Barbosa
-permalink: /pirate-metricas/
+permalink: /pirate-metrics/
 categories: produto
 canonical: https://medium.com/felipe-barbosa/aarrr-medindo-seu-funil-de-marketing-e-vendas-com-as-pirate-metrics-f2adedb8c882
 ---
