@@ -4,7 +4,7 @@ title: Ferramentas
 permalink: /ferramentas/
 ---
 
-TL;DR - [Lista de 150+ ferramentas](#ferramentas)
+TL;DR - [Lista de 200+ ferramentas](#ferramentas)
 
 ## Que ferramentas usar?
 
@@ -46,7 +46,7 @@ Extensões oferecidas pela [Ghostery](https://www.ghostery.com/) e [Datanyze](ht
 
 Quer saber o que aquela empresa que você admira está usando no seu leque de ferramentas? Essas extensões te ajudam a saber.
 
-## 150+ ferramentas para você testar e usar
+## 200+ ferramentas para você testar e usar
 
 Além das fontes que citei acima você pode usar essa tabela que criei e será constantemente atualizada para buscar ferramentas.
 
@@ -56,4 +56,4 @@ Algumas eu já usei e não uso mais. Outras eu ainda uso e muitas outras apenas 
 
 Espero que você goste!
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrWI3Yz5suM1vAJS?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe id="ferramentas" class="airtable-embed" src="https://airtable.com/embed/shrWI3Yz5suM1vAJS?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
