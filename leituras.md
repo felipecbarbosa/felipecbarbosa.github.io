@@ -13,7 +13,7 @@ Acredito que dessa forma sempre tenho opções e novos conhecimentos que ainda e
 Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ### Livros 2019
-```22 livros - 4876 páginas - 17 páginas/dia em média até o momento```
+```22 livros - 5162 páginas - 18 páginas/dia em média até o momento```
 1. O Mundo Assombrado pelos Demônios: A Ciência Vista Como Uma Vela No Escuro (512 páginas)
 2. Como fazer amigos e influenciar pessoas: O guia clássico e definitivo para relacionar-se com as pessoas (212 páginas)
 3. Become a Technical Marketer: A Guide to Working Faster, Accelerating Growth, Automating Marketing Tasks, and More (115 páginas)
@@ -36,6 +36,7 @@ Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas o
 20. Hooked: How to Build Habit-Forming Products (255 páginas)
 21. User Story Mapping: Discover the Whole Story, Build the Right Product (276 páginas)
 22. Microcopy: Discover How Tiny Bits of Text Make Tasty Apps and Websites (103 páginas)
+23. Gestão de Produtos: Como Aumentar as Chances de Sucesso do seu Software (286 páginas)
 
 ### Livros 2018
 ```21 livros - 6114 páginas - 16 páginas/dia em média no ano```
