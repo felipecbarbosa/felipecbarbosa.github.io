@@ -13,7 +13,7 @@ Acredito que dessa forma sempre tenho opções e novos conhecimentos que ainda e
 Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ### Livros 2019
-```24 livros - 5418 páginas - 18 páginas/dia em média até o momento```
+```26 livros - 5665 páginas - 18 páginas/dia em média até o momento```
 1. O Mundo Assombrado pelos Demônios: A Ciência Vista Como Uma Vela No Escuro (512 páginas)
 2. Como fazer amigos e influenciar pessoas: O guia clássico e definitivo para relacionar-se com as pessoas (212 páginas)
 3. Become a Technical Marketer: A Guide to Working Faster, Accelerating Growth, Automating Marketing Tasks, and More (115 páginas)
@@ -23,21 +23,23 @@ Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas o
 7. This Won't Scale: 41 plays from the Drift marketing team to help your business cut through the noise, grow faster than the competition & thrill your customers ([Review This Won't Scale](/this-wont-scale/)) (110 páginas)
 8. Talking to Humans: Success starts with understanding your customers (87 páginas)
 9. Scientific Advertising - The Original Text from 1923: Wise Principles for Marketing, Advertising and Strategy (English Edition) (76 páginas)
-10. The Little Book of Stupidity - How we lie to ourselves and don't believe others (93 páginas)
-11. Big Tech - A ascensão dos dados e a morte da política (189 páginas)
+10. The Little Book of Stupidity: How we lie to ourselves and don't believe others (93 páginas)
+11. Big Tech: A ascensão dos dados e a morte da política (189 páginas)
 12. [Releitura] Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias (320 páginas)
 13. When Coffee and Kale Compete (219 páginas)
-14. Hit Makers - Como Nascem as Tendências (309 páginas)
+14. Hit Makers: Como Nascem as Tendências (309 páginas)
 15. Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It (202 páginas)
 16. Product-Led Growth: How to Build a Product That Sells Itself (181 páginas)
 17. The Product Marketing Manager: Responsibilities and Best Practices in a Technology Company (121 páginas)
 18. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo (154 páginas)
-19. O Estilo Startup - Como as empresas modernas usam o empreendedorismo para se transformar e crescer (367 páginas)
+19. O Estilo Startup: Como as empresas modernas usam o empreendedorismo para se transformar e crescer (367 páginas)
 20. Hooked: How to Build Habit-Forming Products (255 páginas)
 21. User Story Mapping: Discover the Whole Story, Build the Right Product (276 páginas)
 22. Microcopy: Discover How Tiny Bits of Text Make Tasty Apps and Websites (103 páginas)
 23. Gestão de Produtos: Como Aumentar as Chances de Sucesso do seu Software (286 páginas)
 24. The Unknowers: How Strategic Ignorance Rules the World (256 páginas)
+25. Falácias Lógicas: As 59 Falácias Lógicas Mais Poderosas (122 páginas)
+26. 38 Estratégias para Vencer Qualquer Debate (125 páginas)
 
 ### Livros 2018
 ```21 livros - 6114 páginas - 16 páginas/dia em média no ano```
