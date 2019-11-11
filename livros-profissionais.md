@@ -13,7 +13,7 @@ Mas eu estava curioso para saber quantos livros desse universo dos negócios eu 
 
 Mas alguns ainda lembro e estão contemplados nessa lista:
 
-> 151 livros
+> 158 livros
 
 Você irá encontrar desde livros bem acadêmicos até livros de negócios mais *mainstream* e que fizeram algum barulho nos últimos 5 anos mais ou menos.
 
@@ -44,19 +44,19 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 7. Fundamentos de Marketing Esportivo ([Estante Virtual](https://www.estantevirtual.com.br/livros/brenda-g-pitts-david-k-stotlar/fundamentos-de-marketing-esportivo/270610403))
 8. A Cauda Longa ([Amazon](https://amzn.to/2NZDI0p))
 9. This Won't Scale ([Amazon](https://amzn.to/2Q7Qvk7))
-10. Confissões de Um Publicitário
-11. Encantamento: A Arte De Modificar Corações, Mentes E Ações
-12. Marketing Esportivo
-13. A Bolha das Marcas
-14. Marketing em Busca do Óbvio
-15. Estamos Cegos
-16. Fazer Acontecer
-17. Marketing de Guerrilha
-18. Team Sports Marketing
-19. Bang! Uma Explosão de Marketing e Publicidade
-20. O Que É Branding?
-21. The Brand Gap
-22. Admirável Marketing Novo
+10. Confissões de Um Publicitário ([Estante Virtual](https://www.estantevirtual.com.br/sebofarias/david-ogilvy-traducao-luiz-augusto-cama-confissoes-de-um-publicitario-6-edicao-david-ogilvy-1949163306))
+11. Encantamento: A Arte De Modificar Corações, Mentes E Ações ([Amazon](https://amzn.to/2O0hM5k))
+12. Marketing Esportivo: A Reinvenção do Esporte na Busca de Torcedores ([Amazon](https://amzn.to/34SJBTX))
+13. A Bolha das Marcas ([Amazon](https://amzn.to/2QeYBaN))
+14. Marketing em Busca do Óbvio ([Amazon](https://amzn.to/2ruuEcc))
+15. Estamos Cegos ([Amazon](https://amzn.to/2O4QOJA))
+16. Fazer Acontecer.com.br ([Amazon](https://amzn.to/2X5KrtZ))
+17. Marketing de Guerrilha ([Amazon](https://amzn.to/2Kc33TM))
+18. Team Sports Marketing ([Amazon](https://amzn.to/36RKqy6))
+19. Bang! Uma Explosão de Marketing e Publicidade ([Amazon](https://amzn.to/2NDBdlj))
+20. O Que É O Branding? (Não Disponível)
+21. The Brand Gap: O Abismo da Marca. Como Construir a Ponte Entre a Estratégia e o Design ([Amazon](https://amzn.to/2Q9EPgS))
+22. Admirável Marketing Novo ([Amazon](https://amzn.to/34PlHZn))
 23. Buyology
 24. Hábitos de Consumo
 25. Comportamento do Consumidor: a Biologia, Anatomia e Fisiologia do Consumo
@@ -198,3 +198,10 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 149. Outliers
 150. O Que Se Passa na Cabeça dos Cachorros
 151. O Poder do Hábito
+152. How Not to be Wrong: The Power of Mathematical Thinking
+153. O Filtro Invisível: O Que a Internet Está Escondendo de Você
+154. Weapons of Math Destruction
+155. Você Não É Tão Esperto Quanto Pensa
+156. The Unknowers: How Strategic Ignorance Rules The World
+157. Little Book of Stupidity: How We Lie to Ourselves and Don't Believe Others
+158. Algorithms to Live By: The Computer Science of Human Decisions
