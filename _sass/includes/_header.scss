@@ -54,12 +54,13 @@
   .clearfix {
     clear: both;
   }
-a.button-header {
+a.button.button-header {
   color: #ffffff;
   text-decoration: none;
   background-color: #0099ff;
+  border: 0px;
 }
-a.button-header:hover {
+a.button.button-header:hover {
   color: #0099ff;
   text-decoration: none;
   background-color: #ffffff;
