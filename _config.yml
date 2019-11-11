@@ -17,16 +17,7 @@ theme_settings:
   # Header and footer text
   header_text: >
     <p style="color: #0099ff;">Quer receber dicas de livros, de artigos e posts novos do blog?</p>
-    <div id="mc_embed_signup_header">
-    <form action="//felipebarbosa.us11.list-manage.com/subscribe/post?u=d761afe0b6c97e9f4579c61bf&amp;id=4844c62c9d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form-header" class="validate" target="_blank" novalidate>
-        <div id="mc_embed_signup_scroll">
-        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAILH" placeholder="Seu melhor email" required>
-        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d761afe0b6c97e9f4579c61bf_4844c62c9d" tabindex="-1" value=""></div>
-        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-        </div>
-    </form>
-    </div>
+    <a class="button" href="/livros-para-profissionais/">Veja a lista de 151 livros</a>
         
   header_text_feature_image:
   footer_text: >
