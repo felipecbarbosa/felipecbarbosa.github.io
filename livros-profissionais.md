@@ -15,7 +15,12 @@ Mas alguns ainda lembro e estão contemplados nessa lista. Você irá encontrar 
 
 Todos livros eu li por completo mesmo que em alguns casos tenham tido foco diferente. Obviamente os livros acadêmicos eu não li do início ao fim. Foram sendo consumidos diferentes capítulos ao longos dos anos até completar todo o livro.
 
-Separei os livros em 4 grandes categorias: Marketing, Produto, Startups e Negócios em Geral.
+Separei os livros em 4 grandes categorias: 
+
+- [Marketing](#marketing)
+- [Produto](#produto) 
+- [Startups](#startups)
+- [Negócios em Geral](#negocios)
 
 Alguns são fáceis de classificar e outros mais difíceis. Fiquei me perguntando: "Isso é Marketing ou Produto?". "Isso é Startups ou Marketing?". "Isso entre em Produto ou Negócios em Geral?".
 
@@ -23,7 +28,7 @@ A natureza dessas próprias atividades abrangem algo maior do que uma simples cl
 
 Cada livro tem um link para a Amazon com um código de compartilhamento. Caso você se interesse e compre por esse livro eu ganharei um percentual pela indicação. Acho necessário deixar isso claro.
 
-## Marketing
+<h2 id="marketing">Marketing</h2>
 
 1. Posicionamento: A Batalha Por Sua Mente
 2. Marketing de Guerra 
@@ -74,7 +79,7 @@ Cada livro tem um link para a Amazon com um código de compartilhamento. Caso vo
 47. Marketing na Era Digital
 48. A Revolução das Mídias Sociais
 
-## Produto
+<h2 id="produto">Produto</h2>
 
 49. Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
 50. Don't Make Me Think!
@@ -98,7 +103,7 @@ Cada livro tem um link para a Amazon com um código de compartilhamento. Caso vo
 68. The Handy Guide for Product People
 69. The Customer Interview Toolbox
 
-## Startups
+<h2 id="startups">Startups</h2>
 
 70. O Lado Difícil das Situações Difíceis
 71. A Startup de 100 Dólares
@@ -119,7 +124,7 @@ Cada livro tem um link para a Amazon com um código de compartilhamento. Caso vo
 86. Intercom on Onboarding
 87. Hypergrowth
 
-## Negócios em Geral
+<h2 id="negocios">Negócios em Geral</h2>
 
 88. Competing Against Luck
 89. Estratégia, Uma Visão Executiva
