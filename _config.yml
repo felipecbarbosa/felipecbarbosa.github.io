@@ -16,8 +16,8 @@ theme_settings:
   
   # Header and footer text
   header_text: >
-    <p style="color: #0099ff;">O que é melhor: prática ou teoria? Acho que as duas são muito importantes e por isso livros fazem parte da minha formação. Acesse a lista de livros profissionais que eu já li ao longo da vida.</p>
-    <a class="button button-header" href="/livros-para-profissionais/">Veja a lista de 151 livros</a>
+    <p style="color: #0099ff;">Teoria e prática são muito importantes e por isso livros fazem parte da minha formação. Acesse a lista de livros profissionais que eu já li ao longo da vida.</p>
+    <a class="button" style="color: #fffff; background-color: #0099ff;" href="/livros-para-profissionais/">Veja a lista de 151 livros</a>
         
   header_text_feature_image:
   footer_text: >
