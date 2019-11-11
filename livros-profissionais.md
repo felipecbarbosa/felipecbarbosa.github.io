@@ -31,19 +31,19 @@ Alguns são fáceis de classificar e outros mais difíceis. Fiquei me perguntand
 
 A natureza dessas próprias atividades abrangem algo maior do que uma simples classificação. O que eu fiz então foi definir qual dos grupos pensando o público que os autores gostariam de atingir ao escreverem e posicionarem no mercado seu livro.
 
-Cada livro tem um link para a Amazon com um código de compartilhamento. Caso você se interesse e compre por esse livro eu ganharei um percentual pela indicação. Acho necessário deixar isso claro.
+Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon tem um código de compartilhamento específico. Caso você se interesse e compre por esse livro eu ganharei um percentual pela indicação. Acho necessário deixar isso claro.
 
 <h2 id="marketing">Marketing</h2>
 
-1. Posicionamento: A Batalha Por Sua Mente
-2. Marketing de Guerra 
-3. Tudo que sei sobre Marketing aprendi com o Google
-4. Marketing Direto e Database
-5. Citizen Marketers: Clientes Armados e Organizados. Ameaça ou Oportunidade?
-6. Inbound Marketing: Seja Encontrado Usando o Google, a Mídia Social e os Blogs
-7. Fundamentos de Marketing Esportivo
-8. A Cauda Longa
-9. This Won't Scale
+1. Posicionamento: A Batalha Por Sua Mente ([Amazon](https://amzn.to/34UEz9B))
+2. Marketing de Guerra ([Amazon](https://amzn.to/2NB3ER4))
+3. Tudo que sei sobre Marketing aprendi com o Google ([Saraiva](https://www.saraiva.com.br/nos-bastidores-do-google-tudo-o-que-sei-sobre-marketing-aprendi-com-o-google-3652708/p))
+4. Marketing Direto e Database ([Estante Virtual](https://www.estantevirtual.com.br/livros/alexis-cavicchini/marketing-direto-e-database/3225610724?q=marketing+direto+e+database))
+5. Citizen Marketers: Clientes Armados e Organizados. Ameaça ou Oportunidade? ([Amazon](https://amzn.to/32AEPsD))
+6. Inbound Marketing: Seja Encontrado Usando o Google, a Mídia Social e os Blogs ([Amazon](https://amzn.to/33CRdd9))
+7. Fundamentos de Marketing Esportivo ([Estante Virtual](https://www.estantevirtual.com.br/livros/brenda-g-pitts-david-k-stotlar/fundamentos-de-marketing-esportivo/270610403))
+8. A Cauda Longa ([Amazon](https://amzn.to/2NZDI0p))
+9. This Won't Scale ([Amazon](https://amzn.to/2Q7Qvk7))
 10. Confissões de Um Publicitário
 11. Encantamento: A Arte De Modificar Corações, Mentes E Ações
 12. Marketing Esportivo
