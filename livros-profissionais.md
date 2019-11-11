@@ -11,9 +11,9 @@ Nessa lista tem livros de negócios, ficção, bibliografias e diversos assuntos
 
 Mas eu estava curioso para saber quantos livros desse universo dos negócios eu já li desde que comecei a estudar o assunto na Escola de Administração da UFRGS. Da época da faculdade não consigo me lembrar de todos os títulos, alguns livros eu já me desfiz muito tempo atrás. 
 
-Mas alguns ainda lembro e estão contemplados nessa lista.
+Mas alguns ainda lembro e estão contemplados nessa lista:
 
-Até o momento são ```151 livros```
+> 151 livros
 
 Você irá encontrar desde livros bem acadêmicos até livros de negócios mais *mainstream* e que fizeram algum barulho nos últimos 5 anos mais ou menos.
 
