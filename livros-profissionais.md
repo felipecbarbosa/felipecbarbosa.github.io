@@ -142,28 +142,28 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 96. Liderança de Alto Nível: Como Criar e Liderar Organizações de Alto Desempenho ([Amazon](https://amzn.to/2KgbCgd))
 97. O Herói e o Fora da Lei: Como Construir Marcas Extraordinárias Usando o Poder dos Arquétipos ([Amazon](https://amzn.to/32Fy3Sv))
 98. Copycats: Melhor Que o Original ([Saraiva](https://www.saraiva.com.br/copycats-melhor-que-o-original-3530846/p))
-99. Design Thinking: Uma Metodologia Poderosa para Decretar o Fim das Velhas Ideias
-100. A Estratégia do Oceano Azul
-101. Empresas Feitas Para Vencer
-102. Predictable Revenue
-103. Brief: Make a Bigger Impact by Saying Less
-104. On Being a Data Skeptic
-105. Jobs To Be Done: Theory to Practice
-106. Small Data: Como Poucas Pistas Indicam Grandes Tendências
-107. Como Fazer Amigos e Influenciar Pessoas
-108. Crossing the Chasm
-109. Hit Makers: Como Nascem as Tendências
-110. When Coffee and Kale Compete
-111. Intercom on Customer Engagement
-112. Intercom on Jobs To Be Done
-113. Intercom on Customer Support
-114. Os Primeiros 90 Dias: Estratégia de Sucesso para Novos Líderes
-115. Administração Financeira de Longo Prazo
-116. Contabilidade de Custos
-117. A Bíblia da Inovação
-118. Invasão de Campo
-119. A Bola Não Entra Por Acaso
-120. Business Model Generation
+99. Design Thinking: Uma Metodologia Poderosa para Decretar o Fim das Velhas Ideias ([Amazon](https://amzn.to/36Yo2TP))
+100. A Estratégia do Oceano Azul: Como criar novos mercados e tornar a concorrência irrelevante ([Amazon](https://amzn.to/2O38BkI))
+101. Empresas Feitas Para Vencer: Por Que Algumas Empresas Alcançam a Excelência... E Outras Não ([Amazon](https://amzn.to/36XbYSP))
+102. Predictable Revenue: Turn Your Business Into A Sales Machine With The $100 Million Best Practices Of Salesforce.com ([Amazon](https://amzn.to/36S5hkZ))
+103. Brief: Make a Bigger Impact by Saying Less ([Amazon](https://amzn.to/2QfjYsj))
+104. On Being a Data Skeptic ([Amazon](https://amzn.to/2Q7x0YW))
+105. Jobs To Be Done: Theory to Practice ([Amazon](https://amzn.to/2KgLsKj))
+106. Small Data: Como Poucas Pistas Indicam Grandes Tendências ([Amazon](https://amzn.to/36ZAy5m))
+107. Como Fazer Amigos e Influenciar Pessoas ([Amazon](https://amzn.to/36WeHMd))
+108. Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers ([Amazon](https://amzn.to/2rCHllq))
+109. Hit Makers: Como Nascem as Tendências ([Amazon](https://amzn.to/2pWlFAo))
+110. When Coffee and Kale Compete: Become Great At Making Products People Will Buy ([Amazon](https://amzn.to/2CDrcOM))
+111. Intercom on Customer Engagement ([Intercom Books](https://www.intercom.com/pt-BR/books/customer-engagement))
+112. Intercom on Jobs To Be Done ([Intercom Books](https://www.intercom.com/pt-BR/books/jobs-to-be-done))
+113. Intercom on Customer Support ([Intercom Books](https://www.intercom.com/pt-BR/books/customer-support))
+114. Os Primeiros 90 Dias: Estratégia de Sucesso para Novos Líderes ([Amazon](https://amzn.to/371iNmb))
+115. Principios De Administracao Financeira ([Amazon](https://amzn.to/34VwVvv))
+116. Contabilidade de Custos ([Amazon](https://amzn.to/2O9Zrme))
+117. A Bíblia da Inovação: Princípios Fundamentais Para Levar a Cultura de Inovação Contínua às Organizações ([Amazon](https://amzn.to/33KAcxy))
+118. Invasão de campo: Adidas, Puma e os Bastidores do Esporte Moderno ([Amazon](https://amzn.to/32H3v2J))
+119. A Bola Não Entra Por Acaso: Estratégias Inovadoras de Gestão Inovadoras Inspiradas no Mundo do Futebol  ([Amazon](https://amzn.to/2Q7JMqp))
+120. Business Model Generation: Inovação Em Modelos De Negócios ([Amazon](https://amzn.to/36R22tU))
 
 <h2 id="comportamento-analise">Comportamento e Análise</h2>
 
