@@ -163,7 +163,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 117. A Bíblia da Inovação: Princípios Fundamentais Para Levar a Cultura de Inovação Contínua às Organizações ([Amazon](https://amzn.to/33KAcxy))
 118. Invasão de campo: Adidas, Puma e os Bastidores do Esporte Moderno ([Amazon](https://amzn.to/32H3v2J))
 119. A Bola Não Entra Por Acaso: Estratégias Inovadoras de Gestão Inovadoras Inspiradas no Mundo do Futebol  ([Amazon](https://amzn.to/2Q7JMqp))
-120. Business Model Generation: Inovação Em Modelos De Negócios ([Amazon](https://amzn.to/36R22tU))
+120. Business Model Generation: Inovação Em Modelos De Negócios ([Amazon](https://amzn.to/36R22tU){:target="_blank"})
 
 <h2 id="comportamento-analise">Comportamento e Análise</h2>
 
