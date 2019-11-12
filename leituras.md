@@ -2,7 +2,7 @@
 layout: page
 title: Leituras Recentes
 redirect_from:
-    - /leituras-recomendadas
+    - /leituras-recomendadas/
 permalink: /leituras-recentes/
 ---
 
