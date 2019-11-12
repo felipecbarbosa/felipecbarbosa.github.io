@@ -23,6 +23,12 @@ Todos livros eu li por completo mesmo que em alguns casos tenham tido foco difer
 
 Obviamente os livros acadêmicos eu não li do início ao fim. Foram sendo consumidos diferentes capítulos ao longos dos anos até completar todo o livro.
 
+Uma mistura de assuntos que com toda certeza foram construindo quem eu sou hoje profissionalmente em quase 15 anos de interesse nessas áreas.
+
+Nem todos eu vou lembrar 100%, mas tenho certeza que todos de alguma forma contribuíram para o entendimento de alguma coisa que precisei utilizar profissionalmente sem que eu necessariamente consiga apontar a influência.
+
+Essa é uma lista em construção porque sempre vai ter algo novo para aprender através dos livros.
+
 Separei os livros em 4 grandes categorias: 
 
 - [Marketing](#marketing)
