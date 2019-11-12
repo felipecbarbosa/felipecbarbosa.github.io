@@ -41,18 +41,6 @@ $('form[name="mc-embedded-subscribe-form-post"] input[type="submit"]').click(fun
     
     $('form[name="mc-embedded-subscribe-form-post"]').submit();
 });
-
-$('form[name="mc-embedded-subscribe-form-header"] input[type="submit"]').click(function(e){
-  e.preventDefault();
-
-	analytics.identify($('#mce-EMAILH').val(), {
-		email: $('#mce-EMAILH').val()
-	});
-    
-	analytics.track('subscribed-to-newsletter-header');
-    
-    $('form[name="mc-embedded-subscribe-form-header"]').submit();
-});    
 </script>
 
 <script>
@@ -148,7 +136,7 @@ addthis_share = {
 
 	<nav class="site-nav">
 		<ul>
-			<li><a href="http://productmarketingbrasil.com.br/author/felipebarbosa/" target="_blank">Product Marketing Brasil</a></li>
+			<li><a href="https://productmarketingbrasil.com.br/author/felipebarbosa/" target="_blank">Product Marketing Brasil</a></li>
 			<li><a href="https://www.produto.tech/" target="_blank">Produto [ponto] Tech</a></li>
 			<li><a href="https://medium.com/jtbd" target="_blank">JTBD.Plus</a></li>
 			<li><a href="/contato/">Contato</a></li>
