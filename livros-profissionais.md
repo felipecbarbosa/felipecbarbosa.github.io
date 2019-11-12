@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Livros de Negócios
+title: Livros Técnicos e de Gestão para Profissionais
 permalink: /livros-para-profissionais/
 hide: true
 ---
 
-Na página de [leituras recomendadas](/leituras-recentes/) você pode ver a lista de livros que li a partir de 2016 quando eu comecei a controlar cada leitura.
+Na página de [leituras recentes](/leituras-recentes/) você pode ver a lista de livros que li a partir de 2016 quando eu comecei a controlar cada leitura.
 
 Nessa lista tem livros de negócios, ficção, bibliografias e diversos assuntos.
 
-Mas eu estava curioso para saber quantos livros desse universo dos negócios eu já li desde que comecei a estudar o assunto na Escola de Administração da UFRGS. Da época da faculdade não consigo me lembrar de todos os títulos, alguns livros eu já me desfiz muito tempo atrás. 
+Mas eu estava curioso para saber quantos livros técnicos e desse universo de gestão e negócios eu já li desde que comecei a estudar o assunto na Escola de Administração da UFRGS. 
+
+Da época da faculdade não consigo me lembrar de todos os títulos, alguns livros eu já me desfiz muito tempo atrás. 
 
 Mas alguns ainda lembro e estão contemplados nessa lista:
 
@@ -17,7 +19,9 @@ Mas alguns ainda lembro e estão contemplados nessa lista:
 
 Você irá encontrar desde livros bem acadêmicos até livros de negócios mais *mainstream* e que fizeram algum barulho nos últimos 5 anos mais ou menos.
 
-Todos livros eu li por completo mesmo que em alguns casos tenham tido foco diferente. Obviamente os livros acadêmicos eu não li do início ao fim. Foram sendo consumidos diferentes capítulos ao longos dos anos até completar todo o livro.
+Todos livros eu li por completo mesmo que em alguns casos tenham tido foco diferente. 
+
+Obviamente os livros acadêmicos eu não li do início ao fim. Foram sendo consumidos diferentes capítulos ao longos dos anos até completar todo o livro.
 
 Separei os livros em 4 grandes categorias: 
 
