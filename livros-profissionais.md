@@ -5,7 +5,7 @@ permalink: /livros-para-profissionais/
 hide: true
 ---
 
-Na página de [leituras recomendadas](/leituras-recomendadas/) você pode ver a lista de livros que li a partir de 2016 quando eu comecei a controlar cada leitura.
+Na página de [leituras recomendadas](/leituras-recentes/) você pode ver a lista de livros que li a partir de 2016 quando eu comecei a controlar cada leitura.
 
 Nessa lista tem livros de negócios, ficção, bibliografias e diversos assuntos.
 

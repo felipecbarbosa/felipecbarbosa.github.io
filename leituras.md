@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Leituras Recomendadas
-permalink: /leituras-recomendadas/
+title: Leituras Recentes
+permalink: /leituras-recentes/
 ---
 
 ## O que tenho lido?
