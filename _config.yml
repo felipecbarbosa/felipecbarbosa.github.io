@@ -16,7 +16,7 @@ theme_settings:
   
   # Header and footer text
   header_text: >
-    <p style="color: #ffffff;">Teoria e prática são muito importantes e por isso livros fazem parte da minha formação. Acesse a lista de livros profissionais que eu já li ao longo da vida.</p>
+    <p style="color: #ffffff;">Teoria e prática são muito importantes e por isso livros fazem parte da minha formação. Acesse a lista de livros técnicos e de gestão e negócios que eu já li ao longo da vida.</p>
     <a class="button" style="color: #ffffff; background-color: #0099ff;" href="/livros-para-profissionais/">Veja a lista de 158 livros</a>
         
   header_text_feature_image:
