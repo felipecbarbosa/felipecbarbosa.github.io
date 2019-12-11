@@ -98,6 +98,6 @@ Primeiro funcionário da agência. Construí o plano de negócios estratégico p
 
 ## Quer conversar comigo?
 
-Caso você queira conversar pode me (chamar no chat)[#hs-chat-open], entrar em contato via página de [Contato](/contato/){:target="_blank"} ou mandar um email para felipe[at]felipebarbosa.me.
+Caso você queira conversar pode me [chamar no chat](#hs-chat-open), entrar em contato via página de [Contato](/contato/){:target="_blank"} ou mandar um email para felipe[at]felipebarbosa.me.
 
 Você pode me adicionar ou seguir nas redes sociais. Os links estão no canto direito superior.
