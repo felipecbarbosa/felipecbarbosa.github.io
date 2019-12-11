@@ -6,136 +6,98 @@ permalink: /sobre/
 
 ## Felipe Cardoso Barbosa
 
-Eu trabalho com produtos e negócios digitais há quase 10 anos.
+Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e nos últimos 6 anos em empresas de tecnologia desde Startups até uma tradicional empresa representando um dos maiores players da indústria de EdTech.
 
-Sou formado em Administração de Empresas pela Universidade Federal do Rio Grande do Sul (UFRGS) e sou pós-graduado em [Marketing](/marketing/) Digital pela Escola Superior de Propaganda e Marketing (ESPM-Sul).
+No momento sou Product Marketer na Plataformatec, uma consultoria de desenvolvimento de software e práticas ágeis.
 
-Em minha experiência profissional eu estive envolvido em times de Marketing e de [Produto](/produto/) de empresas de tecnologia no mercado [B2B](/b2b/). Algumas atividades as quais já fui e sou responsável:
+Tenho sólida experiência e conhecimento em Marketing e um entendimento profundo no desenvolvimento de produtos digitais tendo trabalhado com times de [Produto](/produto/) e Tecnologia tendo participado de atividades como: Customer e Product Development, Product Discovery, [Marketing de Produto](/marketing-de-produto/), Product Demos and Sales Calls, Suporte, Customer Lifecycle Marketing e Estratégia de Produto.
 
-- Desenvolvimento de produto e *Customer Development*
-- [Marketing de Produto](/marketing-de-produto/)
-- Demonstração de produto e *calls* de vendas
-- Suporte e Sucesso do Cliente
-- Relatórios de *Analytics*
-- Métricas SaaS
-- Inbound Marketing
-- Outbound Marketing
-- *Customer Lifecycle Marketing*
-- Estratégias e operação de Automação de Marketing
-- Campanhas de Email Marketing
-- *Search Engine Optmization (SEO)*, *Social Media Marketing (SMM)* e *Search Engine Marketing (SEM)*
-- Planejamento e criação de conteúdo
-- Gerenciamento de redes sociais
+Tenho interesse especial em Marketing Estratégico, Marketing de Produto, Gerenciamento de Produto, Jobs to be Done, Product Led Growth e Tecnologia.
 
-Na criação das estratégias, na operação e nas táticas utilizadas em minhas atividades acabei me familiarizando e me especializando em algumas ferramentas:
-
-- Analytics (Google Analytics, Mixpanel, Heap, Hotjar, Excel)
-- Tag Management (Segment, Google Tag Manager)
-- Marketing Automation (Eloqua, RD Station, Autopilot, Drip, Mailchimp)
-- Live Chat/Customer Support (Intercom, Drift)
-- Lead Generation (Leadpages, Sumo)
-- CRM (Salesforce, Pipedrive)
-- Sales Automation (Woodpecker, Reply)
-- Developer (Zapier, Git)
+Ferramentas que tenha familiaridade: Analytics (Google Analytics, Mixpanel, Heap, Hotjar, Excel); Tag Management (Segment, Google Tag Manager); Marketing Automation (Eloqua, RD Station, Autopilot, Drip, Mailchimp); Live Chat/Customer Support (Intercom, Drift); Lead Generation (Leadpages, SumoMe); CRM (Salesforce, Pipedrive); Sales Automation (Woodpecker, Reply); Developer (Zapier, Git, Netlify, Jekyll).
 
 ## Experiência Profissional
 
-Desde 2003 eu crio conteúdo para a web. Comecei com alguns blogs pessoais e em 2009 comecei a escrever sobre Marketing Esportivo. Nessa época fui responsável pelo Marketing Digital de uma equipe de Futebol de Salão que disputou a Série Prata do estadual no Rio Grande do Sul. 
-
-Em 2010 lancei um novo blog onde escrevia sobre Marketing e Publicidade. Além de escrever em meu próprio canal colaborei com outros blogs como **Amo Marketing** e **Publicitários Social Club**, onde fiquei como colunista por 3 anos e fui segundo lugar no prêmio Top Blog em 2013.
-
-Também fui professor de inglês no Quatrum e CCAA durante a faculdade. A seguir irei descrever as experiências que considero mais relevantes.
-
-### Analista de Marketing de Produto @ Plataformatec (setembro 2018 - atualmente)
+### Analista de Marketing de Produto @ Plataformatec (setembro 2018 - até o momento)
 
 Trabalho na *squad* multidisciplinar focada no mercado brasileiro e sou responsável pelo [Marketing de Produto](/marketing-de-produto/) dentro do time.
 
-Meu foco é nas seguintes atividades:
+Sou responsável por levar ao mercado novos produtos e conectá-los às necessidades dos clientes, desenvolver análises competitivas, posicionamento de produto, comunicação com o mercado e planos de lançamento. 
 
-- Posicionamento e Proposição de Valor
-- Sales Enablement
-- Análise de Métricas
+No dia a dia me comunico e colaboro constantemente com os times de vendas e de desenvolvimento de novos serviços.
 
 > Ferramentas que uso: RD Station, Pipedrive, Drift, Google Analytics.
 
+### Membro Fundador @ Product Marketing Alliance (março 2019 - até o momento)
+
+A ([Product Marketing Alliance](https://productmarketingalliance.com/){:target="_blank"}) é uma organização fundada em Março de 2019 e evoluiu rápido de uma comunidade do Slack e uma série de meet-ups para uma organização dedicada a promover e elevar o papel de Marketing de Produto.
+
+Com o relatório State of Product Marketing e outras pesquisas estamos definindo e debatendo a função de Marketing de Produto e estabelecer padrões para a profissão.
+
+A missão da Product Marketing Alliance é elevar o papel de Marketing de Produto, identificar melhores práticas para resultados de sucesso, deixar clara as operações para a função de Marketing de Produto e desenvolver critérios para o papel de Marketing de Produto dentro de organizações de sucesso.
+
+### Editor @ Product Marketing Brasil (janeiro 2019 - até o momento)
+
+O principal objetivo da ([Product Marketing Brasil](https://productmarketingbrasil.com.br/){:target="_blank"}) é construir conexões com profissionais de Product Marketing e impulsionar produtos para o sucesso através de novas ideias e iniciativas que otimizem as estratégias Go-To-Market e aumentem a sinergia entre as atividades de Produto, Marketing e Vendas.
+
+### Co-Fundador @ JTBD+ (abril 2019 - até o momento)
+
+Junto a outros profissionais nós oficialmente criamos a ([JTBD+](http://jtbd.plus/){:target="_blank"}), primeira comunidade sobre Jobs To Be Done no Brasil. O primeiro projeto foi uma publicação no Medium com diversos artigos. Já temos um Podcast e realizamos Meetups e palestras em eventos pelo país. Nossa iniciativa pretende levar a teoria de Jobs To Be Done por todo o país.
+
 ### Analista de Marketing Digital @ Grupo A Educação (maio 2017 - setembro 2018)
 
-Trabalho na área responsável pelo Marketing da Blackboard e Rosetta Stone os quais são representados no Brasil pelo Grupo A Educação.
+Trabalhei no time de Marketing do Grupo A da Unidade de Negócio que atendia Blackboard e Rosetta Stone.
 
-Meu foco é na estratégia e ações de Marketing Digital:
+Responsável pelas atividades de Marketing Digital executando campanhas de Lead Nurturing e Email Marketing através do Eloqua. 
 
-- Inbound Marketing
-- Marketing Automation
-- Lead Generation
-- Lead Qualification
-- Outbound Marketing (SEM, SMM, cold emails)
-- SEO
-- Analytics
+Trabalhava próximo ao time Comercial auxiliando nas campanhas de prospecção. Acompanhava a performance do funil de Marketing e Vendas no Salesforce criando relatórios de Oportunidades e Deals.
 
-Para que as ações de marketing sejam mais efetivas trabalho próximo ao time Comercial, de Implementação, Suporte e Sucesso do Cliente.
+Trabalhei junto a nossa agência de mídia online para a criação e otimização das campanhas de Adwords e junto a uma agência de desenvolvimento web na criação dos sites institucionais brasileiros da Blackboard e Rosetta Stone.
 
-> Ferramentas que uso: Eloqua, RD Station, Salesforce, Google Analytics, Google Tag Manager, Google AdWords, Mixpanel, Hotjar, Heap Analytics, Autopilot e Leadpages. 
+Criei as integrações entre as ferramentas de Marketing e Vendas (Eloqua, Salesforce, Reev) para melhorar a produtividade dos times e criar uma base de dados limpa e consistente de Marketing e Vendas.
 
-### Product Marketing Manager @ Umbler (novembro 2016 - maio 2017)
+> Ferramentas que uso: Eloqua, RD Station, Salesforce, Google Analytics, Google Tag Manager, Google AdWords, Mixpanel, Hotjar, Heap Analytics, Autopilot e Leadpages.
 
-Como *Product Marketing Manager* na Umbler minha principal responsabilidade foi pensar e trabalhar para otimizar a jornada do cliente que criava uma conta em nosso produto: todas as interações em nosso app e pontos de contato com a empresa.
+### RedeHost (janeiro 2014 - maio 2017)
 
-Trabalhei próximo ao time de Produto, Marketing, Sucesso do Cliente, Suporte e [Vendas](/vendas-enterprise/) para poder criar a melhor experiência aos nossos usuários e clientes.
+Fazendo parte do time da RedeHost trabalhei em dois produtos com marcas diferentes criados, incubados e lançados por uma iniciativa interna da empresa.
 
-Fui responsável por:
+#### Product Marketing Manager @ Umbler (novembro 2016 - maio 2017)
 
-- Como as pessoas usavam a plataforma da Umbler e o que elas faziam dentro do app
-- Onde a jornada delas começava e quais *cohorts* de usuários convertiam mais
-- Mapear o que era necessário para um usuário ter sucesso e criar as melhor comunicação possível para guiá-lo ao longo do caminho (mensagens de *onboarding*, fluxos de ativação e engajamento, prevenir o *churn* e re-engajar as pessoas que deixaram de usar a Umbler)
-- Entender quais os *jobs* dos usuários através da metodologia **Jobs-to-be-done** e desenvolver com os diferentes times a solução certa para esses *jobs*
+Como Gerente de Marketing de Produto fui responsável pela jornada do usuário na plataforma e o alinhamento da comunicação entre os diferentes times da empresa.
+
+Conversei com os gestores de Marketing, Produto, Infraestrutura, Vendas e Customer Success para entender como cada área interagia e enxergava os usuários.
+
+Fiz a otimização da régua de comunicação tendo como um dos resultados diminuir quase que totalmente a reclamação de clientes por sites desativados ao redefinir a sequência de alertas para avisar que era necessário colocar créditos na plataforma.
+
+Ajudei o time de Sucesso do Cliente e Produto organizando os chamados e pedidos de funcionalidades dentro do Intercom e no ProductBoard dando visibilidade sobre o que deveria ser priorizado no roadmap de produto.
+
+Fiz parte da comunidade de Beta Testers que criamos para engajar desenvolvedores NodeJS no processo de desenvolvimento de uma funcionalidade focada nesse público.
 
 > Ferramentas que usei: Intercom, Route, Google Analytics, ProductBoard e Trello
 
-### Chief Marketing Officer @ Route (janeiro 2014 - novembro 2016)
+#### Chief Marketing Officer @ Route (janeiro 2014 - novembro 2016)
 
-Entrei no Route para ser o responsável pelo Marketing da startup que estava na fase final do desenvolvimento da sua plataforma de Automação de Marketing.
+Entrei no Route para ser responsável pelos esforços de Marketing do Produto enquanto ainda estava em desenvolvimento.
 
-As minhas primeiras iniciativas foram criação de conteúdo para o blog e site, além da criação dos emails para as automações.
+Durante o primeiro ano lancei o site do Route, realizei entrevistas com pessoas que estavam interessadas em nosso Produto e escrevi artigos e books sobre Automação de Marketing, Nutrição de Leads, Lead Scoring e Marketing de Conteúdo.
 
-Com o lançamento da ferramenta aos primeiros beta-testers acabei sendo responsável por outras atividades além do marketing. No meu período no Route fui responsável por:
+Em seguida do lançamento do nosso Beta meu foco mudou e eu passei a ter responsabilidades de Marketing e Gerenciamento de Produto. Trabalhei para melhorar o fluxo de cadastro e Onboarding de usuários melhorando as taxas de conversão entre cadastro e ativação.
 
-- Growth Marketing
-- Marketing de Conteúdo
-- Inbound Marketing
-- SaaS Metrics
-- Analytics
-- Automação de Marketing
-- Demonstração de produto e *calls* de vendas
-- Desenvolvimento de Produto
-- *Customer Development*
-- Suporte
-- Sucesso do Cliente
-- Ações de RP
+Era responsável também pelas Métricas de Produto e Relatórios. Realizei conversas de Discovery de Produto com Prospects e Usuários, Demos de Produto e conversas de Vendas. Também era responsável pelo Suporte.
+
+Participei de decisões tais como quais funcionalidades deveriam ser priorizadas e quais problemas de Usuários deveriam resolver. Também me envolvi em iniciativas de remover funcionalidades que não estavam sendo utilizadas e não agregavam valor aos usuários e deixavam o Produto com uma complexidade maior do que deveria.
+
+Foram 3 anos de muito trabalho e aprendizados mas como o Route não estavam crescendo na velocidade esperada por nosso CEO o Produto foi descontinuado e todos fomos trabalhar em outro Produto interno da RedeHost, a Umbler.
 
 > Ferramentas que usei: Route, HelpScout, Profitwell, Drift, Sumo, Hotjar, Mixpanel, Google Analytics e Google Tag Manager
 
-### Planner e Gerente de Projetos @ Digital Imobi (junho 2012 - junho 2013)
+### Analista de Negócios @ Digital Imobi (junho 2012 - junho 2013)
 
-Fui responsável pelo planejamento estratégico para a criação da agência e depois atuei como *Planner* quando conquistamos os primeiros clientes.
-
-Com as demandas da agência também atuei como gerente de projetos, sendo responsável pelos trabalhos relativos ao desenvolvimento de sites dos clientes.
-
-Na Digital Imobi fui responsável por:
-
-- Ações de Marketing Digital para clientes (Mídias Sociais, Email Marketing, Analytics, SEO e AdWords)
-- Planejamento e gerenciamento de projetos de desenvolvimento de sites para clientes (wireframe, sitemap, levantamento de requisitos e briefing para os desenvolvedores)
+Primeiro funcionário da agência. Construí o plano de negócios estratégico para lançamento da empresa realizando Análise de mercado e Concorrentes, Análise SWOT e desenvolvendo o portfólio de serviços. Coordenei e executei projetos de Mídias Sociais, Analytics, Search Engine Optimization (SEO), Search Engine Marketing (SEM) e desenvolvimento de site de nossos clientes.
 
 ## Quer conversar comigo?
 
-Caso você queira conversar pode me chamar no chat no canto direito inferior do site ou mandar um email para felipe[at]felipebarbosa.me.
+Caso você queira conversar pode me (chamar no chat)[#hs-chat-open], entrar em contato via página de ([Contato](/contato/){:target="_blank"}) ou mandar um email para felipe[at]felipebarbosa.me.
 
 Você pode me adicionar ou seguir nas redes sociais. Os links estão no canto direito superior.
-
-Para facilitar, deixo aqui o acesso rápido via mobile ao meu LinkedIn. Obrigado!
-
-<br>
-<div style="text-align:center;">
-<img alt="Perfil Felipe Cardoso Barbosa no LinkedIn" src="https://res.cloudinary.com/felipe-barbosa/image/upload/c_scale,q_auto,w_350/v1528943644/codigo-linkedin_ijuqw4.png" />
-<br>
-<em>Código para acesso ao perfil no LinkedIn</em> 
-</div> 
