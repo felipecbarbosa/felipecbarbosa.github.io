@@ -30,7 +30,7 @@ No dia a dia me comunico e colaboro constantemente com os times de vendas e de d
 
 ### Membro Fundador @ Product Marketing Alliance (março 2019 - até o momento)
 
-A ([Product Marketing Alliance](https://productmarketingalliance.com/){:target="_blank"}) é uma organização fundada em Março de 2019 e evoluiu rápido de uma comunidade do Slack e uma série de meet-ups para uma organização dedicada a promover e elevar o papel de Marketing de Produto.
+A [Product Marketing Alliance](https://productmarketingalliance.com/){:target="_blank"} é uma organização fundada em Março de 2019 e evoluiu rápido de uma comunidade do Slack e uma série de meet-ups para uma organização dedicada a promover e elevar o papel de Marketing de Produto.
 
 Com o relatório State of Product Marketing e outras pesquisas estamos definindo e debatendo a função de Marketing de Produto e estabelecer padrões para a profissão.
 
@@ -38,11 +38,11 @@ A missão da Product Marketing Alliance é elevar o papel de Marketing de Produt
 
 ### Editor @ Product Marketing Brasil (janeiro 2019 - até o momento)
 
-O principal objetivo da ([Product Marketing Brasil](https://productmarketingbrasil.com.br/){:target="_blank"}) é construir conexões com profissionais de Product Marketing e impulsionar produtos para o sucesso através de novas ideias e iniciativas que otimizem as estratégias Go-To-Market e aumentem a sinergia entre as atividades de Produto, Marketing e Vendas.
+O principal objetivo da [Product Marketing Brasil](https://productmarketingbrasil.com.br/){:target="_blank"} é construir conexões com profissionais de Product Marketing e impulsionar produtos para o sucesso através de novas ideias e iniciativas que otimizem as estratégias Go-To-Market e aumentem a sinergia entre as atividades de Produto, Marketing e Vendas.
 
 ### Co-Fundador @ JTBD+ (abril 2019 - até o momento)
 
-Junto a outros profissionais nós oficialmente criamos a ([JTBD+](http://jtbd.plus/){:target="_blank"}), primeira comunidade sobre Jobs To Be Done no Brasil. O primeiro projeto foi uma publicação no Medium com diversos artigos. Já temos um Podcast e realizamos Meetups e palestras em eventos pelo país. Nossa iniciativa pretende levar a teoria de Jobs To Be Done por todo o país.
+Junto a outros profissionais nós oficialmente criamos a [JTBD+](http://jtbd.plus/){:target="_blank"}, primeira comunidade sobre Jobs To Be Done no Brasil. O primeiro projeto foi uma publicação no Medium com diversos artigos. Já temos um Podcast e realizamos Meetups e palestras em eventos pelo país. Nossa iniciativa pretende levar a teoria de Jobs To Be Done por todo o país.
 
 ### Analista de Marketing Digital @ Grupo A Educação (maio 2017 - setembro 2018)
 
@@ -98,6 +98,6 @@ Primeiro funcionário da agência. Construí o plano de negócios estratégico p
 
 ## Quer conversar comigo?
 
-Caso você queira conversar pode me (chamar no chat)[#hs-chat-open], entrar em contato via página de ([Contato](/contato/){:target="_blank"}) ou mandar um email para felipe[at]felipebarbosa.me.
+Caso você queira conversar pode me (chamar no chat)[#hs-chat-open], entrar em contato via página de [Contato](/contato/){:target="_blank"} ou mandar um email para felipe[at]felipebarbosa.me.
 
 Você pode me adicionar ou seguir nas redes sociais. Os links estão no canto direito superior.
