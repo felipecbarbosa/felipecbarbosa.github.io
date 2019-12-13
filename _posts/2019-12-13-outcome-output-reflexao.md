@@ -62,7 +62,7 @@ Esse formato funciona em times que conseguem realmente aprender enquanto entrega
 
 E não só aprender mas também entender que, por mais que o processo seja o melhor do mundo, existem incertezas e aleatoriedades que influenciam se um produto vai ter sucesso ou não.
 
-Mas chegamos em um ponto onde essa parte da velocidade e das melhores práticas de desenvolvimento de software e produto e a otimização das entregas (*Output*) já é uma *commodity*. 
+Mas chegamos em um ponto onde essa parte da velocidade e das melhores práticas de desenvolvimento de software e produto e a otimização das entregas, *Output*, já é uma *commodity*. 
 
 Pode ser que nem todos façam bem, mas acho que muito mais times tem feito isso bem do que quando começou esse movimento ágil e *lean*.
 
