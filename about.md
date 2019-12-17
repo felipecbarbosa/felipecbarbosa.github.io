@@ -44,7 +44,7 @@ O principal objetivo da [Product Marketing Brasil](https://productmarketingbrasi
 
 Junto a outros profissionais nós oficialmente criamos a [JTBD+](http://jtbd.plus/){:target="_blank"}, primeira comunidade sobre Jobs To Be Done no Brasil. O primeiro projeto foi uma publicação no Medium com diversos artigos. Já temos um Podcast e realizamos Meetups e palestras em eventos pelo país. Nossa iniciativa pretende levar a teoria de Jobs To Be Done por todo o país.
 
-### Analista de Marketing Digital @ Grupo A Educação (maio 2017 - setembro 2018)
+### Analista de Marketing @ Grupo A Educação (maio 2017 - setembro 2018)
 
 Trabalhei no time de Marketing do Grupo A da Unidade de Negócio que atendia Blackboard e Rosetta Stone.
 
