@@ -120,6 +120,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 19. Intercom on Product Management ([Intercom Books](https://www.intercom.com/pt-BR/books/product-management){:target="_blank"})
 20. The Handy Guide for Product People ([ProdPad Books](https://www.prodpad.com/resources/handy-guide/){:target="_blank"})
 21. The Customer Interview Toolbox ([ProductPlan Books](https://www.productplan.com/lp/customer-interview-tool-box/){:target="_blank"})
+22. Value Proposition Design: Como Construir Propostas de Valor Inovadoras ([Amazon](https://amzn.to/2sNKnEn){:target="_blank"})
 
 <h2 id="startups">Startups</h2>
 

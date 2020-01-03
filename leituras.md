@@ -15,7 +15,7 @@ Acredito que dessa forma sempre tenho opções e novos conhecimentos que ainda e
 Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ### Livros 2019
-```29 livros - 6225 páginas - 19 páginas/dia em média até o momento```
+> 31 livros - 7073 páginas - 19 páginas/dia em média até o momento
 1. O Mundo Assombrado pelos Demônios: A Ciência Vista Como Uma Vela No Escuro (512 páginas)
 2. Como fazer amigos e influenciar pessoas: O guia clássico e definitivo para relacionar-se com as pessoas (212 páginas)
 3. Become a Technical Marketer: A Guide to Working Faster, Accelerating Growth, Automating Marketing Tasks, and More (115 páginas)
@@ -45,9 +45,11 @@ Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas o
 27. Pinóquio no País dos Paradoxos: Uma Viagem Pelos Grandes Problemas da Lógica (136 páginas)
 28. Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink (424 páginas)
 29. O Ódio à Democracia (116 páginas)
+30. A Pirâmide Invertida: A História da Tática no Futebol (560 páginas)
+31. Value Proposition Design: Como Construir Propostas de Valor Inovadoras (288 páginas)
 
 ### Livros 2018
-```21 livros - 6114 páginas - 16 páginas/dia em média no ano```
+> 21 livros - 6114 páginas - 16 páginas/dia em média no ano
 1. Sejamos todos Feministas (64 páginas)
 2. Intercom on Marketing (140 páginas)
 3. Jobs to be Done: Theory to Practice (202 páginas)
@@ -71,7 +73,7 @@ Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas o
 21. Product Management in Practice: A Real-World Guide to the Key Connective Role of the 21st Century (188 páginas)
 
 ### Livros 2017
-```20 livros - 4799 páginas - 13 páginas/dia em média no ano```
+> 20 livros - 4799 páginas - 13 páginas/dia em média no ano
 1. Antifrágil (664 páginas)
 2. Intercom on Onboarding (116 páginas)
 3. Scrum e Métodos Ágeis: Um Guia Prático (142 páginas)
@@ -94,7 +96,7 @@ Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas o
 20. Mulheres Incríveis (128 páginas)
 
 ### Livros 2016 
-```22 livros - 5613 páginas - 15 páginas/dia em média no ano```
+> 22 livros - 5613 páginas - 15 páginas/dia em média no ano
 1. Flashboys (240 páginas)
 2. O lado difícil das situações difíceis (312 páginas) 
 3. O que se passa na cabeça dos cachorros (400 páginas)
