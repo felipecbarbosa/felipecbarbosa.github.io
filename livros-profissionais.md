@@ -15,7 +15,7 @@ Da época da faculdade não consigo me lembrar de todos os títulos, alguns livr
 
 Mas alguns ainda lembro e estão contemplados nessa lista:
 
-> 158 livros
+> 159 livros
 
 Você irá encontrar desde livros bem acadêmicos até livros de negócios mais *mainstream* e que fizeram algum barulho nos últimos 5 anos mais ou menos.
 
