@@ -36,7 +36,7 @@ Claro que isso não quer dizer que todas as **Startups** vendem para PMEs, exist
 
 Quando falamos de empresas que querem atender o público Enterprise de ticket médio alto, a hora da verdade se dá durante o processo de **Vendas**. O time de Marketing vai ter 2 papéis: gerar demanda e dar suporte ao time comercial.
 
-É muito improvável que o time de **Marketing** irá gerar o lead e convertê-lo sem o trabalho do time de prá-vendas, dos engenheiros de soluções e dos executivos de contas. 
+É muito improvável que o time de **Marketing** irá gerar o lead e convertê-lo sem o trabalho do time de pré-vendas, dos engenheiros de soluções e dos executivos de contas. 
 
 O ciclo de vendas é complexo, geralmente o relacionamento já existente entre as pessoas envolvidas conta muito. Não é algo tão transacional quanto alguém entrar no funil e em pouco tempo colocar seu cartão de crédito e se tornar cliente.
 
