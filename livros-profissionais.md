@@ -15,7 +15,7 @@ Da época da faculdade não consigo me lembrar de todos os títulos, alguns livr
 
 Mas alguns ainda lembro e estão contemplados nessa lista:
 
-> 159 livros
+> 161 livros
 
 Você irá encontrar desde livros bem acadêmicos até livros de negócios mais *mainstream* e que fizeram algum barulho nos últimos 5 anos mais ou menos.
 
@@ -121,6 +121,8 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 20. The Handy Guide for Product People ([ProdPad Books](https://www.prodpad.com/resources/handy-guide/){:target="_blank"})
 21. The Customer Interview Toolbox ([ProductPlan Books](https://www.productplan.com/lp/customer-interview-tool-box/){:target="_blank"})
 22. Value Proposition Design: Como Construir Propostas de Valor Inovadoras ([Amazon](https://amzn.to/2sNKnEn){:target="_blank"})
+23. Essential Kanban Condensed ([Amazon](https://amzn.to/2RVqlQI){:target="_blank"})
+24. Product Management ([Amazon](https://amzn.to/37yv0ic){:target="_blank"})
 
 <h2 id="startups">Startups</h2>
 
