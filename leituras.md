@@ -15,13 +15,14 @@ Acredito que dessa forma sempre tenho opções e novos conhecimentos que ainda e
 Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ### Livros 2020
-> 2 livros
+> 3 livros - 734 páginas - 15 páginas/dia em média até o momento
 
 1. Product Management (460 páginas)
 2. Essential Kanban Condensed (102 páginas)
+3. Em Busca de Boas Práticas em UX Writing (172 páginas)
 
 ### Livros 2019
-> 31 livros - 7073 páginas - 19 páginas/dia em média até o momento
+> 31 livros - 7073 páginas - 19 páginas/dia em média no ano
 
 1. O Mundo Assombrado pelos Demônios: A Ciência Vista Como Uma Vela No Escuro (512 páginas)
 2. Como fazer amigos e influenciar pessoas: O guia clássico e definitivo para relacionar-se com as pessoas (212 páginas)

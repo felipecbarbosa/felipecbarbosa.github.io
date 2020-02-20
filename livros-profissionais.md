@@ -15,7 +15,7 @@ Da época da faculdade não consigo me lembrar de todos os títulos, alguns livr
 
 Mas alguns ainda lembro e estão contemplados nessa lista:
 
-> 161 livros
+> 162 livros
 
 Você irá encontrar desde livros bem acadêmicos até livros de negócios mais *mainstream* e que fizeram algum barulho nos últimos 5 anos mais ou menos.
 
@@ -123,6 +123,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 22. Value Proposition Design: Como Construir Propostas de Valor Inovadoras ([Amazon](https://amzn.to/2sNKnEn){:target="_blank"})
 23. Essential Kanban Condensed ([Amazon](https://amzn.to/2RVqlQI){:target="_blank"})
 24. Product Management ([Amazon](https://amzn.to/37yv0ic){:target="_blank"})
+25. Em Busca de Boas Práticas em UX Writing ([Amazon](https://amzn.to/2Vbl0bk){:target="_blank"})
 
 <h2 id="startups">Startups</h2>
 
