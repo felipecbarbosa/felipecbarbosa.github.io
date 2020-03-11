@@ -90,7 +90,7 @@ Tem que se ter maneiras automatizadas e escaláveis de comunicação para *onboa
 
 É preciso estabelecer o que significa clientes ativos, *aha! moments* e *wow moments* e como se vai medir isso. 
 
-De qual maneira serão pegos feedbacks de clientes e sugestões de melhorias. Formas que menos pessoas possîveis precisem estar presentes para isso.
+De qual maneira serão pegos feedbacks de clientes e sugestões de melhorias. Formas que menos pessoas possíveis precisem estar presentes para isso.
 
 Como os times serão medidos, quais métricas devem ser analisadas de perto e o que é preciso para que elas estejam sempre corretas e sem distorções. Como a empresa irá compartilhar abertamente entre os times informações relevantes sobre uso do produto.
 
