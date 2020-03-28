@@ -124,7 +124,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 23. Essential Kanban Condensed ([Amazon](https://amzn.to/2RVqlQI){:target="_blank"})
 24. Product Management ([Amazon](https://amzn.to/37yv0ic){:target="_blank"})
 25. Em Busca de Boas Práticas em UX Writing ([Amazon](https://amzn.to/2Vbl0bk){:target="_blank"})
-26. Shape Up: Stop Running in Circles and Ship Work that Matters
+26. Shape Up: Stop Running in Circles and Ship Work that Matters ([Basecamp Books](https://basecamp.com/shapeup){:target="_blank"})
 
 <h2 id="startups">Startups</h2>
 
@@ -180,7 +180,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 29. A Bola Não Entra Por Acaso: Estratégias Inovadoras de Gestão Inovadoras Inspiradas no Mundo do Futebol  ([Amazon](https://amzn.to/2Q7JMqp){:target="_blank"})
 30. Business Model Generation: Inovação Em Modelos De Negócios ([Amazon](https://amzn.to/36R22tU){:target="_blank"})
 31. The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win ([Amazon](https://amzn.to/2v8EqDa){:target="_blank"})
-32. Economia do Acesso
+32. Economia do Acesso ([Amazon](https://amzn.to/2vVK9fT){:target="_blank"})
 
 <h2 id="comportamento-analise">Comportamento e Análise</h2>
 
