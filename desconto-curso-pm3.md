@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Cupom de desconto de 10% para o curso de Product Management da PM3
+title: 10% de desconto para o curso de Product Management da PM3
 permalink: /desconto-curso-pm3/
 hide: true
 ---
 
 TL;DR Se você quer ir direto para as opções de desconto <a href="#desconto" onclick="analytics.track('clicked-desconto')">clique aqui</a>.
 
-<h1>Estude para se tornar um verdadeiro Product Manager na PM3</h1>
+<h2>Estude para se tornar um verdadeiro Product Manager na PM3</h2>
 
 O [curso de Product Management da PM3](https://www.cursospm3.com.br/){:target="_blank"} é o primeiro a ser oferecido online e em Português aqui no Brasil. São 40 horas de conteúdos, divididos em 6 módulos com aulas dadas por 17 instrutores diferentes. Como é online o acesso pode ser feito 24 horas por dia, 7 dias por semana.
 
@@ -22,7 +22,7 @@ Os 6 módulos oferecidos são:
 5. Execução do Dia a Dia
 6. Cultura de Produto
 
-<h2 id="desconto">Faça o curso com 10% de desconto</h1>
+<h2 id="desconto">Faça o curso com 10% de desconto</h2>
 
 Eu sou aluno da PM3 e posso dizer que é um excelente curso para quem quer se tornar um Gerente de Produto ou já trabalha com isso e quer se desenvolver mais como profissional. Fui convidado para ser um dos primeiros participantes do programa de indicação deles.
 
