@@ -8,7 +8,7 @@ permalink: /sobre/
 
 Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e nos últimos 6 anos em empresas de tecnologia desde Startups até uma tradicional empresa representando um dos maiores players da indústria de EdTech.
 
-No momento sou Product Marketer na Plataformatec, uma consultoria de desenvolvimento de software e práticas ágeis.
+No momento sou Especialista em Marketing de Produto na Vindi e também embaixador da Product Marketing Alliance aqui no Brasil.
 
 Tenho sólida experiência e conhecimento em Marketing e um entendimento profundo no desenvolvimento de produtos digitais tendo trabalhado com times de [Produto](/produto/) e Tecnologia tendo participado de atividades como: Customer e Product Development, Product Discovery, [Marketing de Produto](/marketing-de-produto/), Product Demos and Sales Calls, Suporte, Customer Lifecycle Marketing e Estratégia de Produto.
 
@@ -18,17 +18,27 @@ Ferramentas que tenha familiaridade: Analytics (Google Analytics, Mixpanel, Heap
 
 ## Experiência Profissional
 
-### Analista de Marketing de Produto @ Plataformatec (setembro 2018 - até o momento)
+### Especialista em Marketing de Produto @ Vindi (janeiro 2020 - até o momento)
 
-Trabalho na *squad* multidisciplinar focada no mercado brasileiro e sou responsável pelo [Marketing de Produto](/marketing-de-produto/) dentro do time.
+Sou responsável pelo Marketing de Produto da plataforma da Vindi para o mercado Enterprise.
 
-Sou responsável por levar ao mercado novos produtos e conectá-los às necessidades dos clientes, desenvolver análises competitivas, posicionamento de produto, comunicação com o mercado e planos de lançamento. 
+No dia a dia tenho interação constante com os times de Produto e Tecnologia, Vendas, Dados e Sucesso do Cliente.
 
-No dia a dia me comunico e colaboro constantemente com os times de vendas e de desenvolvimento de novos serviços.
+Responsável pelo lançamento de novas funcionalidades, pesquisa de mercado, definição de personas e perfil de cliente ideal, *sales enablement*, proposta de valor e posicionamento da plataforma para o mercado de grandes contas.
+
+Além disso estou envolvido em projetos que impactam todos os segmentos de clientes como o de onboarding, mapeamento da jornada do nosso cliente com a Vindi, tagueamento da plataforma para análise de comportamento dos usuários, pesquisas com usuários e uma nova proposta de planos e preços para a plataforma.
+
+### Analista de Marketing de Produto @ Plataformatec (setembro 2018 - janeiro 2020)
+
+Trabalhei na *squad* multidisciplinar focada no mercado brasileiro e fui responsável pelo [Marketing de Produto](/marketing-de-produto/) dentro do time.
+
+Fui responsável por levar ao mercado novos produtos e conectá-los às necessidades dos clientes, desenvolver análises competitivas, posicionamento de produto, comunicação com o mercado e planos de lançamento. 
+
+No dia a dia me comunicava e colaborava constantemente com os times de vendas e de desenvolvimento de novos serviços.
 
 > Ferramentas que uso: RD Station, Pipedrive, Drift, Google Analytics.
 
-### Membro Fundador @ Product Marketing Alliance (março 2019 - até o momento)
+### Membro Fundador e Embaixador no Brasil @ Product Marketing Alliance (março 2019 - até o momento)
 
 A [Product Marketing Alliance](https://productmarketingalliance.com/){:target="_blank"} é uma organização fundada em Março de 2019 e evoluiu rápido de uma comunidade do Slack e uma série de meet-ups para uma organização dedicada a promover e elevar o papel de Marketing de Produto.
 
