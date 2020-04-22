@@ -32,7 +32,7 @@ Eu sou aluno da PM3 e posso dizer que é um excelente curso para quem quer se to
 
 Esse cupom é para quem quer parcelar o curso em 6x de R$374,85 e ter 6 meses de acesso.
 
-<a class="button" style="color: #ffffff; background-color: #0099ff;" href="https://www.cursospm3.com.br/a/24975/BY7VEvg8" onclick="analytics.track('clicked-desconto-seis-meses')" target="_blank">Cupom de 10% de Desconto para 6 meses de acesso.</a>
+<a class="button" style="color: #ffffff; background-color: #0099ff;" href="https://www.cursospm3.com.br/a/24975/BY7VEvg8" onclick="analytics.track('clicked-desconto-seis-meses')" target="_blank">Cupom de 10% de Desconto para 06 meses de acesso.</a>
 
 <h3>Desconto de 10% para 12 meses de acesso</h3>
 
