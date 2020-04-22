@@ -46,7 +46,24 @@ Com o relatório State of Product Marketing e outras pesquisas estamos definindo
 
 A missão da Product Marketing Alliance é elevar o papel de Marketing de Produto, identificar melhores práticas para resultados de sucesso, deixar clara as operações para a função de Marketing de Produto e desenvolver critérios para o papel de Marketing de Produto dentro de organizações de sucesso.
 
-### Editor @ Product Marketing Brasil (janeiro 2019 - até o momento)
+### Organizador @ Produto [ponto] Tech (abril 2019 - até o momento)
+
+Produto [ponto] Tech é um lugar para os amantes de Produto no Brazil encontrarem uma curadoria de recursos sobre criar produtos de tecnologia.
+
+A ideia é ser um repositório de conteúdos onde todas as pessoas interessadas em produtos de tecnologia podem ir se precisam de inspiração nas diferentes áreas do desenvolvimento de Produto:
+
+- Gestão de Produto;
+- Gestão de Marketing de Produto;
+- UX e Pesquisa;
+- Jobs To Be Done e Customer Development.
+
+Minha intenção é deixar aberto para todas as pessoas da comunidade sugerirem conteúdos. Caso você queira ajudar basta enviar as sugestões por esse link: https://airtable.com/shrAL4DtYGx3uHRLA
+
+É um projeto ainda em desenvolvimento. Você pode entrar em contato via felipe@produto.tech
+
+Tecnologias usadas para criar e gerenciar o site: Github, Git, Netlify.
+
+### Editor @ Product Marketing Brasil (janeiro 2019 - abril 2020)
 
 O principal objetivo da [Product Marketing Brasil](https://productmarketingbrasil.com.br/){:target="_blank"} é construir conexões com profissionais de Product Marketing e impulsionar produtos para o sucesso através de novas ideias e iniciativas que otimizem as estratégias Go-To-Market e aumentem a sinergia entre as atividades de Produto, Marketing e Vendas.
 
