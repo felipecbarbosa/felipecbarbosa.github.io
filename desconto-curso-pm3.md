@@ -5,7 +5,7 @@ permalink: /desconto-curso-pm3/
 hide: true
 ---
 
-TL;DR Se você quer ir direto para as opções de desconto <a href="#desconto" onclick="analytics.track('clicked-desconto')">clique aqui</a>.
+Se você quer ir direto para as opções de desconto <a href="#desconto" onclick="analytics.track('clicked-desconto')">clique aqui</a>.
 
 <h2>Estude para se tornar um verdadeiro Product Manager na PM3</h2>
 
@@ -28,7 +28,7 @@ Eu sou aluno da PM3 e posso dizer que é um excelente curso para quem quer se to
 
 É pelo programa que eu estou compartilhando esses dois cupons de 10% de desconto. São links que possuem um código específico que me identifica como a pessoa que fez a indicação. Deixo isso bem transparente.
 
-<h3>Desconto de 10% para 6 meses de acesso</h3>
+<h3>Desconto de 10% para 06 meses de acesso</h3>
 
 Esse cupom é para quem quer parcelar o curso em 6x de R$374,85 e ter 6 meses de acesso.
 
@@ -42,4 +42,4 @@ Esse cupom é para quem quer parcelar o curso em 12x de R$224,91 e ter 12 meses 
 
 <h2>Quer saber mais sobre minha experiência com o curso?</h2>
 
-Caso você queira conversar mais sobre o curso antes de comprar, você pode [clicar aqui para me chamar no chat](#hs-chat-open), deixar um [contato](/contato){:target="_blank"} ou então ir falar comigo no [LinkedIn](https://www.linkedin.com/in/felipecardosobarbosa/).
+Caso você queira conversar mais sobre o curso antes de comprar, você pode [clicar aqui para me chamar no chat](#hs-chat-open), deixar um [contato](/contato){:target="_blank"} ou então ir falar comigo no [LinkedIn](https://www.linkedin.com/in/felipecardosobarbosa/){:target="_blank"}.
