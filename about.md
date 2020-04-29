@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Sobre
+title: Conhecendo melhor quem é o Felipe Cardoso Barbosa
 permalink: /sobre/
+menu: Sobre
 ---
 
 ## Felipe Cardoso Barbosa

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Ferramentas
+title: Ferramentas para times e empresas de Tecnologia
 permalink: /ferramentas/
+menu: Ferramentas
 ---
 
 TL;DR - [Lista de 200+ ferramentas](#ferramentas)

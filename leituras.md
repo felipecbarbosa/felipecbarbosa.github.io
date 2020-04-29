@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Leituras Recentes
+title: Quais os livros que tenho lido recentemente?
 redirect_from:
     - /leituras-recomendadas/
 permalink: /leituras-recentes/
+menu: Leituras Recentes
 ---
 
 ## O que tenho lido?

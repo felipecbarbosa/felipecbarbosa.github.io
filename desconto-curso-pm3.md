@@ -2,6 +2,7 @@
 layout: page
 title: 10% de desconto para o curso de Product Management da PM3
 permalink: /desconto-curso-pm3/
+menu: Desconto PM3
 hide: true
 ---
 
