@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Conhecendo melhor quem é o Felipe Cardoso Barbosa
+title: Quem é o Felipe Cardoso Barbosa?
 permalink: /sobre/
 menu: Sobre
 ---
-
-## Felipe Cardoso Barbosa
 
 Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e nos últimos 6 anos em empresas de tecnologia desde Startups até uma tradicional empresa representando um dos maiores players da indústria de EdTech.
 
