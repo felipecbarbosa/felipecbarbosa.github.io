@@ -67,7 +67,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 20. O Que É O Branding?
 21. The Brand Gap: O Abismo da Marca. Como Construir a Ponte Entre a Estratégia e o Design ([Amazon](https://amzn.to/2Q9EPgS){:target="_blank"})
 22. Admirável Marketing Novo ([Amazon](https://amzn.to/34PlHZn){:target="_blank"})
-23. Buyology: Buyology: Truth and Lies About Why We Buy ([Amazon](https://amzn.to/2CD9VFq){:target="_blank"})
+23. Buyology: Truth and Lies About Why We Buy ([Amazon](https://amzn.to/2CD9VFq){:target="_blank"})
 24. Hábitos de Consumo: O Comportamento do Consumidor que a Maioria dos Profissionais de Marketing Ignora ([Amazon](https://amzn.to/2CyrYN0){:target="_blank"})
 25. Comportamento do Consumidor: a Biologia, Anatomia e Fisiologia do Consumo ([Amazon](https://amzn.to/2CAufr3){:target="_blank"})
 26. Marketing 3.0: As Forças que Estão Definindo o Novo Marketing Centrado no Ser Humano ([Amazon](https://amzn.to/2NDWiw8){:target="_blank"})
