@@ -14,7 +14,7 @@ Acredito que dessa forma sempre tenho opções e novos conhecimentos que ainda e
 Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ## Livros 2020
-> 9 livros - 2284 páginas - 16 páginas/dia em média até o momento
+> 10 livros - 2592 páginas - 18 páginas/dia em média até o momento
 
 1. Product Management (460 páginas)
 2. Essential Kanban Condensed (102 páginas)
@@ -25,6 +25,7 @@ Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas o
 7. The Entrepreneur's Guide to Customer Development: A "Cheat Sheet" to The Four Steps to the Epiphany (103 páginas)
 8. The Jobs To Be Done Playbook: Align Your Markets, Organization, and Strategy Around Customer Needs (323 páginas)
 9. Gestão Moderna de Produtos Digitais: O Produto Digital como um meio de entregar valor para o usuário e para o negócio (410 páginas)
+10. Métricas Ágeis: Obtenha melhores resultados em sua equipe (308 páginas)
 
 ## Livros 2019
 > 31 livros - 7073 páginas - 19 páginas/dia em média no ano
