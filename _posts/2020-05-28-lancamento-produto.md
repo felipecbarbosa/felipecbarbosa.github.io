@@ -144,7 +144,7 @@ Eu diria que sim. Mesmo resoluções de bugs e melhorias internas vão impactar 
 
 Então saber quem são as pessoas interessadas e que terão valor do que foi feito é importante.
 
-### Como serã medido o sucesso?
+### Como será medido o sucesso?
 
 Você precisa ter visibilidade se o lançamento teve um impacto positivo e a maneira de fazer isso é ter métricas que podem responder se isso aconteceu.
 
