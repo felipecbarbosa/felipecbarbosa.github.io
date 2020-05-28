@@ -92,12 +92,12 @@ Aqui o importante é dar uma visão geral sobre o que está sendo entregue pelo 
 
 O que pode ter:
 
-. Nome da funcionalidade ou produto
-. Como a funcionalidade ou produto funciona
-. **Qual o objetivo de negócio da funcioalidade ou produto**
-. Quem é o PM responsável
-. Qual a previsão de lançamento
-. Para qual tipo de cliente é interessante
+- Nome da funcionalidade ou produto
+- Como a funcionalidade ou produto funciona
+- **Qual o objetivo de negócio da funcioalidade ou produto**
+- Quem é o PM responsável
+- Qual a previsão de lançamento
+- Para qual tipo de cliente é interessante
 
 Esses itens ajudam a dar uma clareza sobre o que, pra quem e o responsável pelo desenvolvimento.
 
@@ -150,13 +150,13 @@ Você precisa ter visibilidade se o lançamento teve um impacto positivo e a man
 
 Aqui realmente não tem muita explicação porque o que será medido irá variar de acordo com o que está sendo lançado e o objetivo do que foi desenvolvido, mas alguns exemplos do que poderia ser medido:
 
-. *Sign ups*
-. *Downloads*
-. Menções na imprensa
-. Receita
-. Número de clientes usando
-. Tickets criados
-. Incidentes de bug
+- *Sign ups*
+- *Downloads*
+- Menções na imprensa
+- Receita
+- Número de clientes usando
+- Tickets criados
+- Incidentes de bug
 
 Acima coloquei alguns exemplos mas você com certeza saberá o que medir de acordo com o seu contexto.
 
