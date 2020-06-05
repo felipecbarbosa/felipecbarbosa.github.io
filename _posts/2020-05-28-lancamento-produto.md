@@ -94,7 +94,7 @@ O que pode ter:
 
 - Nome da funcionalidade ou produto
 - Como a funcionalidade ou produto funciona
-- **Qual o objetivo de negócio da funcioalidade ou produto**
+- **Qual o objetivo de negócio da funcionalidade ou produto**
 - Quem é o PM responsável
 - Qual a previsão de lançamento
 - Para qual tipo de cliente é interessante
