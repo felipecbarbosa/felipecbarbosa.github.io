@@ -75,7 +75,7 @@ Existem algumas ferramentas que eu acho interessantes e empresas deveriam consid
 
 Como eu falei anteriormente, ferramentas dentro desse grupo podem também oferecer funcionalidades de geração de leads mas eu gostaria de falar agora sobre a comunicação em si.
 
-Software de chat para sites existem faz um bom tempo, mas antes eles eram bem "quadrados".  Agora eles são legais novamente. Empresas como [Intercom]([https://www.intercom.com/](https://www.intercom.com/)) e [Drift]([http://drift.com/](http://drift.com/)) (e mais recentemente a HubSpot) estão transformando esse mercado com produtos poderosos.
+Software de chat para sites existem faz um bom tempo, mas antes eles eram bem "quadrados".  Agora eles são legais novamente. Empresas como [Intercom](https://www.intercom.com/) e [Drift](https://www.drift.com/) (e mais recentemente a HubSpot) estão transformando esse mercado com produtos poderosos.
 
 Times de Marketing e Vendas podem usar o chat para começar uma conversa antes de alguém converter. Eles permitem começar uma conversa a partir de regras que você cria (ex.: uma pessoa ficou mais de 30 segundos na página de planos de seu produto) e, de maneira proativa, começar um bate-papo com alguém que pode estar interessado na sua oferta.
 
@@ -85,11 +85,11 @@ Você também pode criar bots que irão interagir com seus visitantes a partir d
 
 Uma vez que a conversa começa você precisa de uma plataforma mais robusta para por em ação suas ações de Nutrição de Leads. É nesse momento que escolher a ferramenta de automação certa é essencial. No mercado existem muitas opções que vão das mais simples (Mailchimp) até as mais complexas (Marketo).
 
-Entre esses extremos existem outras opções como [RD Station]([https://www.rdstation.com/](https://www.rdstation.com/)), [HubSpot]([https://www.hubspot.com/](https://www.hubspot.com/)), [Drip]([https://www.drip.com/](https://www.drip.com/)) e a minha mais nova ferramenta favorita, [Autopilot]([http://autopilothq.com/](http://autopilothq.com/)). Se você procura uma ferramenta *all-in-one*, com muitas funcionalidades que cobrem diferentes etapas do funil,você estará melhor escolhendo o RD Station ou a HubSpot. Agora,se você quer uma ferramenta muito flexível, fácil de implementar e começar a usar, com muitas integrações e uma maneira visual de criar suas automações, o Autopilot é a escolha certa.
+Entre esses extremos existem outras opções como [RD Station](https://www.rdstation.com/), [HubSpot](https://www.hubspot.com/), [Drip](https://www.drip.com/) e a minha mais nova ferramenta favorita, [Autopilot](https://autopilothq.com/). Se você procura uma ferramenta *all-in-one*, com muitas funcionalidades que cobrem diferentes etapas do funil,você estará melhor escolhendo o RD Station ou a HubSpot. Agora,se você quer uma ferramenta muito flexível, fácil de implementar e começar a usar, com muitas integrações e uma maneira visual de criar suas automações, o Autopilot é a escolha certa.
 
 O segredo é pegar todo o conhecimento que seu time de Marketing e Vendas tem sobre o que é um lead qualificado para a sua empresa, o que significa um MQL eum SQL,quais comportamentos e informação você espera do seu Perfil de Cliente Ideal e traduzir tudo isso nas regras e gatilhos de suas campanhas de nutrição e engajamento.
 
-Enquanto a Automação de Marketing tem como dono o time de Marketing, a Automação de Vendas tem como dono o time de Vendas. Existem algumas ferramentas como [Woodpecker]([https://woodpecker.co/](https://woodpecker.co/)), [Mailshake]([https://mailshake.com/](https://mailshake.com/)) e [Reply]([https://reply.io/](https://reply.io/)) que permitem que seu time de Vendas tenha autonomia para por em prática as campanhas de Outbound.
+Enquanto a Automação de Marketing tem como dono o time de Marketing, a Automação de Vendas tem como dono o time de Vendas. Existem algumas ferramentas como [Woodpecker](https://woodpecker.co/), [Mailshake](https://mailshake.com/) e [Reply](https://reply.io/) que permitem que seu time de Vendas tenha autonomia para por em prática as campanhas de Outbound.
 
 Todas as pessoas prospectadas pela equipe comercial podem ser adicionadas a uma cadência de *cold emails* e automaticamente serem adicionadas a um CRM assim que indicarem interesse, a famosa levantada de mão. O que essas ferramentas permitem é que os emails sejam automatizados por elas mas, na prática, eles saem diretamente da caixa de emails de cada vendedor (ou pré-vendedor).
 
@@ -103,7 +103,7 @@ Com as dicas que dei até agora você já pode gerar leads, qualificá-los e nut
 
 CRM é tanto um segmento específico de softwares para empresas quanto o nome de uma tradicional estratégia de Marketing. Você precisa estar próximo dos seus clientes e prospects. Você precisa entendê-los. Você precisa de um local para manter as informações coletadas sobre essas pessoas.
 
-Todas as ferramentas que listei acima tem integrações com CRMs, especialmente com o [Salesforce]([https://www.salesforce.com/br/?ir=1](https://www.salesforce.com/br/?ir=1)) e [Pipedrive]([https://www.pipedrive.com/pt/welcomeback](https://www.pipedrive.com/pt/welcomeback)). Em minha opinião esses são os dois melhores produtos no mercado. Já trabalhei com ambos e o que oferecem é valioso demais para que times de Vendas possam ter controle sobre suas contas e clientes.
+Todas as ferramentas que listei acima tem integrações com CRMs, especialmente com o [Salesforce](https://www.salesforce.com/br/?ir=1) e [Pipedrive](https://www.pipedrive.com/pt/welcomeback). Em minha opinião esses são os dois melhores produtos no mercado. Já trabalhei com ambos e o que oferecem é valioso demais para que times de Vendas possam ter controle sobre suas contas e clientes.
 
 O que é bom a respeito dessas ferramentas é que elas se integram muito bem com as ferramentas de Marketing então você acaba fechando todo o ciclo na jornada: você pode enviar dados gerados pelas ferramentas de Marketing para o seu CRM e usar dados do CRM para criar melhores estratégias de automação e de Marketing.
 
@@ -115,7 +115,7 @@ Dessa forma é fácil gerar e analisar relatórios para saber onde investir seu 
 
 Eu mencionei no início como é importante checar quais integrações as ferramentas que vocês estão considerando possuem. Mas além das integrações nativas, acredito que incluir na jogada produtos que permitem integrar facilmente diferentes produtos, é uma etapa importante.
 
-O [Zapier]([https://zapier.com](https://zapier.com/)) e [Segment]([https://segment.com/](https://segment.com/)) são duas ferramentas poderosas que permitem distribuir dados e informações entre diferentes produtos e mantê-las padronizadas. Assim que você começar a usar diferentes produtos verá que é fácil ter um tipo específico de dado em uma e outro completamente diferente em outra.
+O [Zapier](https://zapier.com/) e [Segment](https://segment.com/) são duas ferramentas poderosas que permitem distribuir dados e informações entre diferentes produtos e mantê-las padronizadas. Assim que você começar a usar diferentes produtos verá que é fácil ter um tipo específico de dado em uma e outro completamente diferente em outra.
 
 Algumas vezes o dado é o mesmo mas a maneira que as ferramentas o interpretam pode mudar. Empresas como Zapier e Segmento podem ajudá-lo a manter tudo sob a mesma perspectiva.
 
