@@ -15,7 +15,7 @@ Da época da faculdade não consigo me lembrar de todos os títulos, alguns livr
 
 Mas alguns ainda lembro e estão contemplados nessa lista:
 
-> 169 livros
+> 170 livros
 
 Você irá encontrar desde livros bem acadêmicos até livros de negócios mais *mainstream* e que fizeram algum barulho nos últimos 5 anos mais ou menos.
 
@@ -127,6 +127,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 26. Shape Up: Stop Running in Circles and Ship Work that Matters ([Basecamp Books](https://basecamp.com/shapeup){:target="_blank"})
 27. Gestão Moderna de Produtos Digitais: O Produto Digital como um meio de entregar valor para o usuário e para o negócio ([Amazon](https://amzn.to/2TqfT5c){:target="_blank"})
 28. Métricas Ágeis: Obtenha melhores resultados em sua equipe ([Amazon](https://amzn.to/2XqWW3R){:target="_blank"})
+29. Sprint a Sprint: Erros e acertos na transformação cultural de um time ágil ([Amazon](https://amzn.to/38aUmUk){:target="_blank"})
 
 <h2 id="startups">Startups</h2>
 
