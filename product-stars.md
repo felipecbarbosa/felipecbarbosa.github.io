@@ -27,7 +27,8 @@ Espero que você tenha gostado do que apresentei sobre lançamento de novidades 
 
 Qualquer dúvida, sugestão ou crítica sobre a apresentação você pode entrar em contato comigo por:
 
-Email: felipe[at]felipebarbosa.me
+Email: felipe [at] felipebarbosa.me
+
 LinkedIn: [https://www.linkedin.com/in/felipecardosobarbosa/](https://www.linkedin.com/in/felipecardosobarbosa/){:target="_blank"}
 
 Você também pode [clicar aqui para me chamar no chat](#hs-chat-open)!
