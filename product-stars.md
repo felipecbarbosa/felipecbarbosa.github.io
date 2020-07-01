@@ -9,6 +9,8 @@ Olá, tudo bem?
 
 Espero que você tenha gostado do que apresentei sobre lançamento de novidades nos produtos que criamos dentro das nossas empresas. Aqui compartilho os materiais que me inspiraram a criar o modelo que estamos usando na Vindi.
 
+[Apresentação Product Stars](https://drive.google.com/file/d/1nCIQzlGWPuy41r52r1PKhO1-O8GPuVCN/view?usp=sharing){:target="_blank"}
+
 [A importância de ter um processo de lançamentos de novidades do produto](/lancamento-de-novidades-produto/){:target="_blank"}
 
 [Template criado pela Intercom no Coda.io](https://coda.io/d/Product-Launch-Template-by-Intercom_dIwre7fzCti/Announcement-Tactics-Worksheet_sunpc#Announcement-Activities-Full-List_tuyhP){:target="_blank"}
