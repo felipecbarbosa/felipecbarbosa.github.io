@@ -9,7 +9,7 @@ canonical: https://medium.com/jtbd/usando-jobs-to-be-done-em-product-led-growth-
 
 Esse artigo eu publiquei no dia 12 de dezembro de 2019 no Medium da [JTBD+](https://www.jtbd.plus/){:target="_blank"}. Nele eu falo sobre como a teoria do Jobs To Be Done e Product Led Growth combinam perfeitamente.
 
-Abaixo está a reprodução completa do artigo.
+**Abaixo está a reprodução completa do artigo. Vamos lá?**
 
 Tanto [Jobs To Be Done](/jobs-to-be-done-definicao/){:target="_blank"} e [Product Led Growth](/elementos-estrategia-product-led-growth){:target="_blank"} parecem ser termos que estão na ponta da língua do pessoal que trabalha com produtos.
 
