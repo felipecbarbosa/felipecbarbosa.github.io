@@ -13,7 +13,7 @@ Abaixo está a reprodução completa do artigo.
 
 Tanto [Jobs To Be Done](/jobs-to-be-done-definicao/){:target="_blank"} e [Product Led Growth](/elementos-estrategia-product-led-growth){:target="_blank"} parecem ser termos que estão na ponta da língua do pessoal que trabalha com produtos.
 
-Jobs To Be Done (JTBD) a teoria que oferece um caminho e ferramentas para entender o que os seus clientes estão realmente comprando e Product Led Growth (PLG) uma estratégia onde o próprio produto é o motor de crescimento do negócio.
+Jobs To Be Done (JTBD) a teoria que oferece um caminho e ferramentas para entender o que os seus clientes estão realmente comprando e [Product Led Growth (PLG) uma estratégia onde o próprio produto é o motor de crescimento do negócio](/product-led-growth-estrategia-operacoes-tatica/){:target="_blank"}.
 
 São conceitos bem diferentes mas que combinam perfeitamente um com o outro.
 
