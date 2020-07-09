@@ -2,7 +2,6 @@
 layout: page
 title: Livros Técnicos e de Gestão para Profissionais
 permalink: /livros-para-profissionais/
-hide: true
 ---
 
 Na página de [leituras recentes](/leituras-recentes/) você pode ver a lista de livros que li a partir de 2016 quando eu comecei a controlar cada leitura.

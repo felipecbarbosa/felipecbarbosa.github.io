@@ -2,7 +2,6 @@
 layout: page
 title: Artigos sobre Startups
 permalink: /startups/
-hide: true
 ---
 Aqui você encontrará todos os meus artigos sobre Startups.
 

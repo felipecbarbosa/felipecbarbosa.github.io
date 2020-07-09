@@ -2,7 +2,6 @@
 layout: page
 title: Artigos sobre B2B
 permalink: /b2b/
-hide: true
 ---
 Aqui você encontrará todos os meus artigos sobre B2B.
 

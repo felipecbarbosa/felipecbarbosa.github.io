@@ -2,7 +2,6 @@
 layout: page
 title: Artigos sobre Data
 permalink: /data/
-hide: true
 ---
 Aqui você encontrará todos os meus artigos sobre Análise de Dados e Analytics.
 

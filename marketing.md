@@ -2,7 +2,6 @@
 layout: page
 title: Artigos sobre Marketing
 permalink: /marketing/
-hide: true
 ---
 Aqui você encontrará todos os meus artigos sobre Marketing.
 
