@@ -2,7 +2,6 @@
 layout: page
 title: Product Stars - Materiais
 permalink: /product-stars-materiais/
-hide: true
 ---
 
 Olá, tudo bem?
