@@ -186,7 +186,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 31. The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win ([Amazon](https://amzn.to/2v8EqDa){:target="_blank"})
 32. Economia do Acesso ([Amazon](https://amzn.to/2vVK9fT){:target="_blank"})
 33. The Jobs To Be Done Playbook: Align Your Markets, Organization, and Strategy Around Customer Needs ([Amazon](https://amzn.to/2WJhghs){:target="_blank"})
-34. Data Science for Startups
+34. Data Science for Startups ([Amazon](https://amzn.to/3eSXfLy){:target="_blank"})
 
 <h2 id="comportamento-analise">Comportamento e Análise</h2>
 
