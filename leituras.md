@@ -13,7 +13,7 @@ Acredito que dessa forma sempre tenho opções e novos conhecimentos que ainda e
 
 Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
-## Livros 2020
+## Livros 2020 {#livros-2020}
 > 13 livros - 3112 páginas - 16 páginas/dia em média até o momento
 
 1. Product Management (460 páginas)
@@ -30,7 +30,7 @@ Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas o
 12. Product Launch: How to go to market (190 páginas)
 13. Data Science for Startups (147 páginas)
 
-## Livros 2019
+## Livros 2019 {#livros-2019}
 > 31 livros - 7073 páginas - 19 páginas/dia em média no ano
 
 1. O Mundo Assombrado pelos Demônios: A Ciência Vista Como Uma Vela No Escuro (512 páginas)
@@ -65,7 +65,7 @@ Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas o
 30. A Pirâmide Invertida: A História da Tática no Futebol (560 páginas)
 31. Value Proposition Design: Como Construir Propostas de Valor Inovadoras (288 páginas)
 
-## Livros 2018
+## Livros 2018 {#livros-2018}
 > 21 livros - 6114 páginas - 16 páginas/dia em média no ano
 
 1. Sejamos todos Feministas (64 páginas)
@@ -90,7 +90,7 @@ Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas o
 20. Muito Além da Sorte: Processos Inovadores para Entender o que os Clientes Querem (279 páginas)
 21. Product Management in Practice: A Real-World Guide to the Key Connective Role of the 21st Century (188 páginas)
 
-## Livros 2017
+## Livros 2017 {#livros-2017}
 > 20 livros - 4799 páginas - 13 páginas/dia em média no ano
 
 1. Antifrágil (664 páginas)
@@ -114,7 +114,7 @@ Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas o
 19. From Cradle to Stage: Stories from the Mothers Who Rocked and Raised Rock Stars (240 páginas)
 20. Mulheres Incríveis (128 páginas)
 
-## Livros 2016 
+## Livros 2016 {#livros-2016}
 > 22 livros - 5613 páginas - 15 páginas/dia em média no ano
 
 1. Flashboys (240 páginas)
