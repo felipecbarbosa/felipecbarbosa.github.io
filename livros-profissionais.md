@@ -14,7 +14,7 @@ Da época da faculdade não consigo me lembrar de todos os títulos, alguns livr
 
 Mas alguns ainda lembro e estão contemplados nessa lista:
 
-> 172 livros
+> 173 livros
 
 Você irá encontrar desde livros bem acadêmicos até livros de negócios mais *mainstream* e que fizeram algum barulho nos últimos 5 anos mais ou menos.
 
@@ -150,6 +150,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 17. Intercom on Onboarding ([Intercom Books](https://www.intercom.com/books/onboarding){:target="_blank"})
 18. HYPERGROWTH: How the Customer-Driven Model Is Revolutionizing the Way Businesses Build Products, Teams, & Brands ([Amazon](https://amzn.to/2CCTx7Y){:target="_blank"})
 19. The Entrepreneur's Guide to Customer Development: A "Cheat Sheet" to The Four Steps to the Epiphany ([Amazon](https://amzn.to/2Vx4AIT){:target="_blank"})
+20. Ry's Git Tutorial
 
 <h2 id="negocios">Negócios em Geral</h2>
 
