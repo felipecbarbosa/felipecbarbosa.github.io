@@ -39,11 +39,11 @@ theme_settings:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
-  ideas: https://portal.prodpad.com/b80a11cc-6d54-11e7-9642-22000a2145da
+  ideas: # https://portal.prodpad.com/b80a11cc-6d54-11e7-9642-22000a2145da
   cv: 
   twitter: "felipecb_"
   medium: "felipe-barbosa"
-  ajuda: https://ajuda.felipebarbosa.me/
+  ajuda: # https://ajuda.felipebarbosa.me/
 
   # Scripts
   disqus_shortname: felipebarbosa
