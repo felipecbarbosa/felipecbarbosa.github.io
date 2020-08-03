@@ -1,11 +1,3 @@
-{% if site.theme_settings.rss %}
-<li>
-	<a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" title="{{ site.theme_settings.str_rss_follow }}">
-		<i class="fa fa-fw fa-rss"></i>
-	</a>
-</li>
-{% endif %}
-
 {% if site.theme_settings.email_address %}
 <li>
 	<a href="mailto:{{ site.theme_settings.email_address }}" title="{{ site.theme_settings.str_email }}">
@@ -154,6 +146,14 @@
 <li>
 	<a href="{{ site.theme_settings.ideas }}" onclick="analytics.track('clicked-ideas-menu')" title="{{ site.theme_settings.str_ideas }} ideia ou feedback" target="_blank">
 		<i class="fas fa-fw fa-lightbulb"></i>
+	</a>
+</li>
+{% endif %}
+
+{% if site.theme_settings.rss %}
+<li>
+	<a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" onclick="analytics.track('clicked-rss-menu')" title="{{ site.theme_settings.str_rss_follow }}" target="_blank">
+		<i class="fa fa-fw fa-rss"></i>
 	</a>
 </li>
 {% endif %}
