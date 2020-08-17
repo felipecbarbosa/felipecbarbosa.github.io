@@ -14,7 +14,7 @@ Da época da faculdade não consigo me lembrar de todos os títulos, alguns livr
 
 Mas alguns ainda lembro e estão contemplados nessa lista:
 
-> 173 livros
+> 174 livros
 
 Você irá encontrar desde livros bem acadêmicos até livros de negócios mais *mainstream* e que fizeram algum barulho nos últimos 5 anos mais ou menos.
 
@@ -96,6 +96,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 50. Acredite, Estou Mentindo: Confissoes de um Manipulador das Mídias ([Amazon](https://amzn.to/2X57LrJ){:target="_blank"})
 51. Slideology: A Arte e a Ciência Para Criar Apresentações que Impressionam ([Amazon](https://amzn.to/350jqed){:target="_blank"})
 52. Product Launch: How to Go to Market ([Amazon](https://amzn.to/3h2jXlR){:target="_blank"})
+53. Product Marketing Debunked: The essential go-to-marketing guide
 
 <h2 id="produto">Produto</h2>
 
