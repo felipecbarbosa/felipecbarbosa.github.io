@@ -96,7 +96,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 50. Acredite, Estou Mentindo: Confissoes de um Manipulador das Mídias ([Amazon](https://amzn.to/2X57LrJ){:target="_blank"})
 51. Slideology: A Arte e a Ciência Para Criar Apresentações que Impressionam ([Amazon](https://amzn.to/350jqed){:target="_blank"})
 52. Product Launch: How to Go to Market ([Amazon](https://amzn.to/3h2jXlR){:target="_blank"})
-53. Product Marketing Debunked: The essential go-to-marketing guide
+53. Product Marketing Debunked: The essential go-to-marketing guide ([Amazon](https://amzn.to/3113Lfp){:target="_blank"})
 
 <h2 id="produto">Produto</h2>
 
@@ -151,7 +151,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 17. Intercom on Onboarding ([Intercom Books](https://www.intercom.com/books/onboarding){:target="_blank"})
 18. HYPERGROWTH: How the Customer-Driven Model Is Revolutionizing the Way Businesses Build Products, Teams, & Brands ([Amazon](https://amzn.to/2CCTx7Y){:target="_blank"})
 19. The Entrepreneur's Guide to Customer Development: A "Cheat Sheet" to The Four Steps to the Epiphany ([Amazon](https://amzn.to/2Vx4AIT){:target="_blank"})
-20. Ry's Git Tutorial
+20. Ry's Git Tutorial ([Amazon](https://amzn.to/2PZocTx){:target="_blank"})
 
 <h2 id="negocios">Negócios em Geral</h2>
 
