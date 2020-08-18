@@ -7,7 +7,7 @@ menu: Sobre
 
 Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e nos últimos 6 anos em empresas de tecnologia desde Startups até uma tradicional empresa representando um dos maiores players da indústria de EdTech.
 
-No momento sou Especialista em Marketing de Produto na Vindi e também embaixador da Product Marketing Alliance aqui no Brasil.
+No momento sou Product Marketing Manager na Cortex Intelligence e também embaixador e membro-fundador da Product Marketing Alliance aqui no Brasil.
 
 Tenho sólida experiência e conhecimento em Marketing e um entendimento profundo no desenvolvimento de produtos digitais tendo trabalhado com times de [Produto](/produto/) e Tecnologia tendo participado de atividades como: Customer e Product Development, Product Discovery, [Marketing de Produto](/marketing-de-produto/), Product Demos and Sales Calls, Suporte, Customer Lifecycle Marketing e Estratégia de Produto.
 
@@ -17,9 +17,11 @@ Ferramentas que tenha familiaridade: Analytics (Google Analytics, Mixpanel, Heap
 
 ## Experiência Profissional
 
-### Especialista em Marketing de Produto @ Vindi (janeiro 2020 - até o momento)
+### Gerente de Marketing de Produto (Product Marketing Manager) @ Cortex Intelligence (agosto 2020 - até o momento)
 
-Sou responsável pelo Marketing de Produto da plataforma da Vindi para o mercado Enterprise.
+### Especialista em Marketing de Produto @ Vindi (janeiro 2020 - agosto 2020)
+
+Fui responsável pelo Marketing de Produto para o mercado Enterprise e depois com uma mudança de estrutura que propus ao time migrei para ser par do Product Manager na Squad de Produto focada na plataforma SaaS da Vindi.
 
 No dia a dia tenho interação constante com os times de Produto e Tecnologia, Vendas, Dados e Sucesso do Cliente.
 

@@ -34,6 +34,8 @@ Os 6 módulos oferecidos são:
 
 Fui aluno da PM3, [terminei o curso e recebi meu certificado agora em 2020](https://www.credential.net/28c214a6-835d-4819-998e-6681bb173e21#gs.awvu0i){:target="_blank"}, e posso dizer que é um excelente curso para quem quer se tornar um Gerente de Produto ou já trabalha com isso e quer se desenvolver mais como profissional.
 
+Caso você queira saber mais sobre minha experiência com o curso você pode ler essa [review que escrevi do curso de Product Management da PM3](/curso-pm3-review/){:target="_blank"}.
+
 <h2>Curso de Product Discovery</h2>
 
 O [curso de Product Discovery da PM3](https://www.cursospm3.com.br/curso-de-product-discovery){:target="_blank"} é novo e está sendo gravado, portanto ainda está na pré-venda.
