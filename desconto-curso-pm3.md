@@ -19,7 +19,7 @@ A [PM3 oferece dois cursos](https://www.cursospm3.com.br/){:target="_blank"} par
 
 <h2>Curso de Product Management</h2>
 
-O [curso de Product Management da PM3](https://www.cursospm3.com.br/curso-product-manager){:target="_blank"} é o primeiro a ser oferecido online e em Português aqui no Brasil. São 40 horas de conteúdos, divididos em 6 módulos com aulas dadas por 17 instrutores diferentes. Como é online o acesso pode ser feito 24 horas por dia, 7 dias por semana.
+O [curso de Product Management da PM3](https://www.cursospm3.com.br/curso-product-manager/?utm_source=felipe-barbosa-blog){:target="_blank"} é o primeiro a ser oferecido online e em Português aqui no Brasil. São 40 horas de conteúdos, divididos em 6 módulos com aulas dadas por 17 instrutores diferentes. Como é online o acesso pode ser feito 24 horas por dia, 7 dias por semana.
 
 Os instrutores são de empresas como Nubank, Creditas, Tembici-Itaú, Google e OLX. Além de outras empresas de tecnologia de destaque no Brasil.
 
@@ -38,7 +38,7 @@ Caso você queira saber mais sobre minha experiência com o curso você pode ler
 
 <h2>Curso de Product Discovery</h2>
 
-O [curso de Product Discovery da PM3](https://www.cursospm3.com.br/curso-de-product-discovery){:target="_blank"} é novo e está sendo gravado, portanto ainda está na pré-venda.
+O [curso de Product Discovery da PM3](https://www.cursospm3.com.br/curso-de-product-discovery/?utm_source=felipe-barbosa-blog){:target="_blank"} é novo e está sendo gravado, portanto ainda está na pré-venda.
 
 Os módulos estudados serão:
 
