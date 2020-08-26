@@ -18,7 +18,7 @@ Espero que você tenha gostado do que apresentei sobre lançamento de novidades 
 
 [How to evolve product launches as you grow](https://www.intercom.com/blog/how-to-evolve-product-launches-as-you-grow/){:target="_blank"}
 
-[After product launches: how to complete the feedback loop](https://www.intercom.com/blog/how-to-evolve-product-launches-as-you-grow/){:target="_blank"}
+[After product launches: how to complete the feedback loop](https://www.intercom.com/blog/product-launch-what-next/){:target="_blank"}
 
 [Product Launch Tiers - PMA](https://docs.google.com/spreadsheets/d/1QrfHSe-_fwgL6mfa4PS8Q9Q4pNj_OM-td2HBIkzTAnU/edit?usp=sharing){:target="_blank"}
 
