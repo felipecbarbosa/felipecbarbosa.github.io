@@ -1,3 +1,9 @@
+#Sobre mim
+
+Meu nome é Felipe e sou Product Marketing Manager na Cortex e também embaixador da Product Marketing Alliance no Brasil na cidade de São Paulo.
+
+Meu linkedin é https://www.linkedin.com/in/felipecardosobarbosa/ e você pode entrar em contato comigo por email felipe[at]felipebarbosa.me ou me chamar [diretamente via chat](https://www.felipebarbosa.me/sobre/#hs-chat-open).
+
 # Sobre esse site
 
 Eu sempre gostei de ter blogs, desde 2003 eu escrevo em alguma plataforma. Já escrevi no Blogger, BlogSpot, Tumblr, Medium, Ghost e em 2017 resolvi que iria procurar uma outra plataforma para publicar meu blog.
