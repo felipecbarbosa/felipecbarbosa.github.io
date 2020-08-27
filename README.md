@@ -6,9 +6,9 @@ Precisava de algo que fosse flexível, custo baixo (ou gratuito) e que desse par
 
 Gostei bastante da ideia porque era uma opção de hospedagem que seria gratuita e flexível na customização. Resolvi usar também para aprender mais sobre a plataforma Github (e Git) e sites estáticos.
 
-Para esse site eu uso um tema gratuito chamado [Type Theme](https://rohanchandra.github.io/project/type/){:target="_blank"} que customizei. Esse tema é baseado em [Jekyll](http://jekyllrb.com){:target="_blank"}.
+Para esse site eu uso um tema gratuito chamado [Type Theme](https://rohanchandra.github.io/project/type/) que customizei. Esse tema é baseado em [Jekyll](http://jekyllrb.com).
 
 Você pode ver um demo do tema original aqui: [Demo](https://rohanchandra.github.io/type-theme/).
 
-## License
+# License
 The MIT License (MIT)
