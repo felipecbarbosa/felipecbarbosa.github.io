@@ -5,7 +5,7 @@ permalink: /sobre/
 menu: Sobre
 ---
 
-Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e nos últimos 6 anos em empresas de tecnologia desde Startups até uma tradicional empresa representando um dos maiores players da indústria de EdTech.
+Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e **Produto** em empresas de tecnologia desde Startups até uma tradicional empresa representando um dos maiores players da indústria de EdTech.
 
 No momento sou Product Marketing Manager na Cortex Intelligence e também embaixador e membro-fundador da Product Marketing Alliance aqui no Brasil.
 
