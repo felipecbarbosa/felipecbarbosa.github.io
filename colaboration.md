@@ -109,4 +109,4 @@ O webinar durou 1h e você pode ver a gravação acessando o vídeo [Posicioname
 ---
 ---
 
-Essas são algumas das minhas colaborações. Gosto muito de expor minhas ideias no mercado e se você gostaria de me convidar ou me indicar para trocar uma ideia com a comunidade basta entrar em contato comigo pelo [chat](#hs-open-chat) ou enviar um email para felipe[at]felipebarbosa.me.
+Essas são algumas das minhas colaborações. Gosto muito de expor minhas ideias no mercado e se você gostaria de me convidar ou me indicar para trocar uma ideia com a comunidade basta entrar em contato comigo pelo [chat](#hs-chat-open) ou enviar um email para felipe[at]felipebarbosa.me.
