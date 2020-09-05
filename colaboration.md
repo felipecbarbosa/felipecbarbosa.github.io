@@ -11,7 +11,7 @@ Aqui nessa página você pode encontrar alguns dos materiais e conteúdos criado
 
 ## Eventos
 
-[Product Stars](https://www.productstars.com.br/){:target="_blank"}
+### [Product Stars](https://www.productstars.com.br/){:target="_blank"}
 
 Nos dias 30 de junho e 1 de julho de 2020 ocorreu o Product Stars com a programação totalmente online. Foram 2 dias onde se falou sobre o universo da [Gestão de Produtos](/desconto-curso-pm3/#desconto){:target="_blank"}.
 
@@ -19,7 +19,7 @@ O primeiro dia foi dividido em dois blocos, um de **Product Strategy** e outro d
 
 Você pode ver os slides da minha palestra e outros links que compartilhei com os participantes visitando os [materiais que produzi para o Product Stars](/product-stars-materiais/){:target="_blank"}.
 
-[Product Arena](https://productarena.io/){:target="_blank"}
+### [Product Arena](https://productarena.io/){:target="_blank"}
 
 No dia 9 de março, uma semana antes da quarentena começar em São Paulo, aconteceu na Livraria Cultura a edição de [número 33 do Product Arena](https://www.eventbrite.com/e/33o-product-arena-product-marketing-livraria-cultura-sp-tickets-92587412443#){:target="_blank"} no qual o assunto foi [Product Marketing](/marketing-de-produto/){:target="_blank"}.
 
