@@ -73,7 +73,7 @@ No início de 2018, 6 meses depois de ter saído da [Umbler](https://www.umbler.
 
 É interessante revisitar esse artigo porque pouca gente da minha rede sabe que eu sou Especialista em Marketing Digital e que trabalhava com Inbound Marketing, Automação de Marketing e Growth Hacking lá por volta de 2013.
 
-Esse foi o texto que escrevi fazendo uma [Retrospectiva 2017: O que você pode esperar de marketing digital em 2018](https://blog.umbler.com/br/retrospectiva-2017-o-que-voce-pode-esperar-de-2018/){target="_blank"}.
+Esse foi o texto que escrevi fazendo uma [Retrospectiva 2017: O que você pode esperar de marketing digital em 2018](https://blog.umbler.com/br/retrospectiva-2017-o-que-voce-pode-esperar-de-2018/){:target="_blank"}.
 
 ### [Blog da Antavo](https://antavo.com/){:target="_blank"}
 
