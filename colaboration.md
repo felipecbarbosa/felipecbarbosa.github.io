@@ -57,6 +57,16 @@ Esses são os episódios que participei:
 
 ## Artigos
 
+Ao longo da minha vida profissional eu escrevi para muitos blogs diferentes e muitos deles nem existem mais. 
+
+Dentre os conteúdos e publicações de terceiros que eu já tive o prazer de colaborar, com certeza a escrita de artigos é a que tem mais exemplos.
+
+Os textos mais recentes que escrevi para a [Product Marketing Brasil](https://medium.com/product-marketing-brasil){:target="_blank"} e pra [JTBD+](https://medium.com/jtbd){:target="_blank"} eu já migrei para esse meu blog.
+
+Os textos abaixo são colaborações em publicações que fiz pontualmente sem ser colunista ou ter participado ativamente na construção da iniciativa.
+
+Também são participações que aconteceram mais recente no tempo.
+
 ### [Blog da Umbler](https://blog.umbler.com/br/){:target="_blank"}
 
 No início de 2018, 6 meses depois de ter saído da [Umbler](https://www.umbler.com/br){:target="_blank"}, fui convidado para escrever um texto contando o que eu imaginava que seria o rumo do Marketing Digital em 2018.
@@ -65,7 +75,7 @@ No início de 2018, 6 meses depois de ter saído da [Umbler](https://www.umbler.
 
 Esse foi o texto que escrevi fazendo uma [Retrospectiva 2017: O que você pode esperar de marketing digital em 2018](https://blog.umbler.com/br/retrospectiva-2017-o-que-voce-pode-esperar-de-2018/){target="_blank"}.
 
-### [Blog da Antavo](){:target="_blank"}
+### [Blog da Antavo](https://antavo.com/){:target="_blank"}
 
 Quando eu estava no Route, isso lá em 2016 eu fui convidado para participar de uma publicação no blog da Antavo que falaria sobre o futuro da Automação de Marketing focando em *customer loyalty*.
 
@@ -76,3 +86,27 @@ Esse não é um artigo escrito por mim mas tem um parágrafo onde eu dou minha o
 Você pode ler aqui o texto [41 Experts Weigh in on the Future of Marketing Automation for Customer Loyalty](https://antavo.com/blog/41-experts-weigh-in-on-the-future-of-marketing-automation-for-customer-loyalty/){:target="_blank"}
 
 ## Webinars
+
+### [Vale Talks](https://www.youtube.com/channel/UCT6PWx50Jbs55jzK--zFq8w){:target="_blank"}
+
+Um ex-colega de trabalho da Plataformatec me indicou pro pessoal que organiza o Vale Talks e me chamaram para falar sobre Marketing e Produto. 
+
+Como alinhar essas duas áreas para o sucesso da empresa e dos produtos sendo desenvolvidos e lançados.
+
+Em uma conversa de um pouco mais de 1h eu pude falar um pouco sobre o que penso a respeito desse assunto, contar como o profissional de Marketing de Produto é figura essencial para esse alinhamento e tocar em outros temas que eu gosto bastante.
+
+Para ver o vídeo com a gravação basta acessar o [Ep. 12 do Vale Talks gravado comigo](https://www.youtube.com/watch?v=Yj55UUT0Mqw){:target="_blank"}.
+
+### [Vindi](https://www.youtube.com/channel/UCiQ52YlrXz7V5H45JF403WA){:target="_blank"}
+
+Enquanto eu estava na [Vindi](){:target="_blank"}, uma empresa que tem uma plataforma que ajuda empresas que recebem de forma recorrente receberem e gerenciarem seus pagamentos, fui convidado para gravar um webinar.
+
+Aceitei o desafio e escolhi um tema que eu gosto muito que é falar sobre o conceito de [Posicionamento](/miopia-em-marketing-e-posicionamento/){:target="_blank"}.
+
+O webinar durou 1h e você pode ver a gravação acessando o vídeo [Posicionamento de marca: como se destacar da concorrência e fortalecer sua empresa](https://www.youtube.com/watch?v=365GJhVNYsA){:target="_blank"}
+
+---
+---
+---
+
+Essas são algumas das minhas colaborações. Gosto muito de expor minhas ideias no mercado e se você gostaria de me convidar ou me indicar para trocar uma ideia com a comunidade basta entrar em contato comigo pelo [chat](#hs-open-chat) ou enviar um email para felipe[at]felipebarbosa.me.
