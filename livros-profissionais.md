@@ -14,7 +14,7 @@ Da época da faculdade não consigo me lembrar de todos os títulos, alguns livr
 
 Mas alguns ainda lembro e estão contemplados nessa lista:
 
-> 174 livros
+> 175 livros
 
 Você irá encontrar desde livros bem acadêmicos até livros de negócios mais *mainstream* e que fizeram algum barulho nos últimos 5 anos mais ou menos.
 
@@ -189,6 +189,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 32. Economia do Acesso ([Amazon](https://amzn.to/2vVK9fT){:target="_blank"})
 33. The Jobs To Be Done Playbook: Align Your Markets, Organization, and Strategy Around Customer Needs ([Amazon](https://amzn.to/2WJhghs){:target="_blank"})
 34. Data Science for Startups ([Amazon](https://amzn.to/3eSXfLy){:target="_blank"})
+35. The Art of Business Value
 
 <h2 id="comportamento-analise">Comportamento e Análise</h2>
 
