@@ -72,6 +72,12 @@ Esse cupom é para quem quer parcelar o curso em 12x e ter 12 meses de acesso.
 
 <a class="button" style="color: #ffffff; background-color: #0099ff;" href="https://www.cursospm3.com.br/a/24974/BY7VEvg8" onclick="analytics.track('clicked-desconto-doze-meses')" target="_blank">Cupom de 10% de Desconto para 12 meses de acesso.</a>
 
+**Desconto de 10% (à vista) para 06 meses de acesso**
+
+Esse cupom é para quem quer pagar à vista e ter 6 meses de acesso.
+
+<a class="button" style="color: #ffffff; background-color: #0099ff;" href="https://www.cursospm3.com.br/a/33924/BY7VEvg8" onclick="analytics.track('clicked-desconto-a-vista')" target="_blank">Cupom de 10% de Desconto (à vista) para 06 meses de acesso.</a>
+
 <h3 id="desconto-discovery">Cupons de desconto para o curso de Product Discovery</h3>
 
 **Desconto de 10% à vista**
