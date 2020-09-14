@@ -3,7 +3,7 @@ layout: post
 title: Cada quarter uma maratona em vendas enterprise
 author: Felipe Barbosa
 permalink: /vendas-enterprise/
-categories: b2b
+categories: business
 ---
 
 Um tempo atrás eu escrevi o artigo [Predictable Revenue para profissionais de marketing](https://medium.com/felipe-barbosa/predictable-revenue-para-profissionais-de-marketing-787a8d216bfc), mas finalmente entendi em que a Receita Previsível impacta.

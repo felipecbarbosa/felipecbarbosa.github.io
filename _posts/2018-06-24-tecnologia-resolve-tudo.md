@@ -3,7 +3,7 @@ layout: post
 title: A tecnologia resolve todos os problemas?
 author: Felipe Barbosa
 permalink: /tecnologia-resolve-todos-problemas/
-categories: data
+categories: business
 ---
 
 O uso do VAR (árbitro de vídeo) em determinados jogos nos últimos tempos e de forma massiva durante a Copa do Mundo da Rússia em 2018, e algumas vezes ainda deixando polêmicas no ar, me fez refletir se a tecnologia sempre irá resolver todos os problemas.

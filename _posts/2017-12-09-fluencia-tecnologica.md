@@ -3,7 +3,7 @@ layout: post
 title: Fluência Tecnológica - Você fala esse novo idioma?
 author: Felipe Barbosa
 permalink: /fluencia-tecnologica/
-categories: startup
+categories: business
 --- 
 
 Transformação Digital é a *buzzword* do momento. Mas qualquer transformação vai depender de quanto as pessoas estão preparadas para mudar.

@@ -3,7 +3,7 @@ layout: post
 title: Como eu falhei em um teste e isso ainda me incomoda
 author: Felipe Barbosa
 permalink: /como-falhei-teste/
-categories: data
+categories: business
 ---
 
 No mundo do empreendedorismo e startups se fala muito sobre falhar. É um tema que tem uma certa mística.

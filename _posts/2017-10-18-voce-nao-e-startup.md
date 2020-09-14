@@ -3,7 +3,7 @@ layout: post
 title: Você não é uma startup
 author: Felipe Barbosa
 permalink: /voce-nao-startup/
-categories: startup
+categories: business
 --- 
 
 Aceitar que você não é uma startup não é nenhum problema. Pode ser até algo bom.
