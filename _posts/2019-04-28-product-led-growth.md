@@ -73,7 +73,7 @@ Queríamos criar uma experiência onde por si só a pessoa começasse a ver o va
 
 Mas como conseguiríamos entregar o valor sem nem ao menos as pessoas tinham muito ideia do que estávamos fazendo?
 
-Cometemos erros em diversas frentes e já falei sobre os [problemas no desenvolvimento do nosso negócio e de nosso produto](/startup-fail/), mas queríamos deixar as pessoas por conta estando elas no escuro.
+Cometemos erros em diversas frentes e já falei sobre os [problemas no desenvolvimento do nosso negócio e de nosso produto](/route-startup-fail/), mas queríamos deixar as pessoas por conta estando elas no escuro.
 
 Isso não funciona.
 

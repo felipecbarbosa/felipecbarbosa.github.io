@@ -21,7 +21,7 @@ Não há como criar um produto com uma visão de PLG sem entender porque as pess
 
 ## Uma breve introdução ao Product Led Growth
 
-Como já escrevi sobre esse assunto especificamente vou pegar a mesma definição que trouxe no artigo [Desmistificando o Product Led Growth](desmistificando-product-led-growth/){:target="_blank"}:
+Como já escrevi sobre esse assunto especificamente vou pegar a mesma definição que trouxe no artigo [Desmistificando o Product Led Growth](/desmistificando-product-led-growth/){:target="_blank"}:
 
 > A ideia do PLG é bem direta, nada mais é do que criar uma experiência de uso do produto que leve ao crescimento.
 >
