@@ -105,6 +105,14 @@ Aceitei o desafio e escolhi um tema que eu gosto muito que é falar sobre o conc
 
 O webinar durou 1h e você pode ver a gravação acessando o vídeo [Posicionamento de marca: como se destacar da concorrência e fortalecer sua empresa](https://www.youtube.com/watch?v=365GJhVNYsA){:target="_blank"}
 
+### [O Produteiro](https://www.instagram.com/tv/CFa3a4HAdYU/?igshid=xx8l509t6nzt){:target="_blank"}
+
+O Produteiro é uma série de lives no Instagram do Marcelo Scherer, PO da Kinghost. 
+
+Nessa conversa de 1h falei sobre minha trajetória profissional, como entrei na área de Marketing de Produto e onde essa competência entra nas empresas, como é o dia a dia e interação com Product Managers e algumas coisas a mais como uma questão polêmica: em empresas PLG, a resposabilidade é do PM ou do PMM?
+
+Conheço o Marcelo faz muito tempo, tivemos oportunidade de trabalharmos juntos em 2 empresas diferentes e fiquei muito feliz em poder trocar essa ideia com ele.
+
 ---
 ---
 ---
