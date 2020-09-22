@@ -17,7 +17,7 @@ Durante a apresentação contei uma história e fui ligando os pontos para mostr
 
 ## Como o Jobs To Be Done chegou até a mim?
 
-A história começa em 2014 quando eu entrei na RedeHost para assumir o [Marketing](/marketing/) do [Route](http://www.route.to/). A história sobre os [erros clássicos de startups](/startup-fail/) que cometemos eu já escrevi mas aqui quero focar no caminho natural que nos levou à teoria do Trabalho a Ser Feito.
+A história começa em 2014 quando eu entrei na RedeHost para assumir o [Marketing](/marketing/) do [Route](http://www.route.to/). A história sobre os [erros clássicos de startups](/route-startup-fail/) que cometemos eu já escrevi mas aqui quero focar no caminho natural que nos levou à teoria do Trabalho a Ser Feito.
 
 Quando eu entrei no Route, em janeiro de 2014, o nosso produto já estava sendo desenvolvido desde a metade de 2013. Estávamos perto de começar a ter um SaaS rodando. Mas o que era o Route?
 
