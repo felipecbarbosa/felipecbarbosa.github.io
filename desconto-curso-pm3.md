@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 10% de desconto para os cursos de Product Management e Product Discovery da PM3
+title: Desconto para os cursos de Product Management e Product Discovery da PM3
 permalink: /desconto-curso-pm3/
 menu: Desconto PM3
 ---
