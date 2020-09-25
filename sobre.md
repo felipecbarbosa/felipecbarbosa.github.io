@@ -9,6 +9,8 @@ Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e **Produto**
 
 No momento sou Product Marketing Manager na Cortex Intelligence e também embaixador e membro-fundador da Product Marketing Alliance aqui no Brasil.
 
+Tive a honra e a felicidade de ser citado na lista de [50 profissionais de produto brasileiros](/files/50-profissionais-produto.pdf){:target="_blank"} a serem seguidos elaborada pela [Journey](https://somosjourney.com/){:target="_blank"}.
+
 Tenho sólida experiência e conhecimento em Marketing e um entendimento profundo no desenvolvimento de produtos digitais tendo trabalhado com times de [Produto](/produto/) e Tecnologia tendo participado de atividades como: Customer e Product Development, Product Discovery, [Marketing de Produto](/marketing-de-produto/), Product Demos and Sales Calls, Suporte, Customer Lifecycle Marketing e Estratégia de Produto.
 
 Tenho interesse especial em Marketing Estratégico, Marketing de Produto, Gerenciamento de Produto, Jobs to be Done, Product Led Growth e Tecnologia.
