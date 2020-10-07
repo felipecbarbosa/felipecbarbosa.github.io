@@ -4,7 +4,7 @@ title: "Encontre aqui vagas de Marketing de Produto em empresas Brasileiras"
 hide: true
 ---
 
-<section class="page-cards">
+<div class="page-cards">
     <div class="container">
     <div class="card w-100 mt-5 mb-5">
         <div class="card-body">
@@ -20,4 +20,4 @@ hide: true
         </div>
         </div>
     </div>
-</section>
+</div>
