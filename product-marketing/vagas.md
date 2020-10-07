@@ -20,6 +20,4 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
 
 ## Vagas {#vagas-product-marketing}
 
----
-
----
+<hr style="border: 2px solid #0099ff; margin: 1em 0;">
