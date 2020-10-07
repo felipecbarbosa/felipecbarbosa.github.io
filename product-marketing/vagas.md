@@ -20,8 +20,6 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
 
 ## Vagas {#vagas-product-marketing}
 
-<hr style="border: 2px solid #0099ff; margin: 1em 0;">
-
 <ul>
     <li style="list-style: none;">
     <h3 style="margin: 0;"><a href="https://www.linkedin.com/jobs/view/1951121647" target="_blank">HUB Product Marketing Manager</a></h3>
