@@ -28,7 +28,7 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
     </li>
 </ul>
 
-<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+---
 
 <ul>
     <li style="list-style: none;">
@@ -38,7 +38,7 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
     </li>
 </ul>
 
-<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+---
 
 <ul>
     <li style="list-style: none;">
@@ -48,7 +48,7 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
     </li>
 </ul>
 
-<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+---
 
 <ul>
     <li style="list-style: none;">
@@ -58,7 +58,7 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
     </li>
 </ul>
 
-<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+---
 
 <ul>
     <li style="list-style: none;">
@@ -68,7 +68,7 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
     </li>
 </ul>
 
-<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+---
 
 <ul>
     <li style="list-style: none;">
@@ -78,7 +78,7 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
     </li>
 </ul>
 
-<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+---
 
 <ul>
     <li style="list-style: none;">
@@ -88,7 +88,7 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
     </li>
 </ul>
 
-<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+---
 
 <ul>
     <li style="list-style: none;">
@@ -98,7 +98,7 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
     </li>
 </ul>
 
-<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+---
 
 <ul>
     <li style="list-style: none;">
@@ -108,7 +108,7 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
     </li>
 </ul>
 
-<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+---
 
 <ul>
     <li style="list-style: none;">
