@@ -29,3 +29,91 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
 </ul>
 
 <hr style="border: 2px solid #0099ff; margin: 1em 0;">
+
+<ul>
+    <li style="list-style: none;">
+    <p style="margin: 0; font-size: 1.5em"><a href="https://www.linkedin.com/jobs/view/2148309699" target="_blank">Product Go-To-Market Manager</a></p>
+    <p style="margin: 0; font-size: 0.85em;">Adyen - São Paulo, São Paulo, Brasil</p>
+    <p style="margin: 0; font-size: 0.85em;">Publicado em 07/10/2020</p>
+    </li>
+</ul>
+
+<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+
+<ul>
+    <li style="list-style: none;">
+    <p style="margin: 0; font-size: 1.5em"><a href="https://www.linkedin.com/jobs/view/2152068796" target="_blank">Product Marketing Manager</a></p>
+    <p style="margin: 0; font-size: 0.85em;">Inloco - São Paulo, São Paulo, Brasil</p>
+    <p style="margin: 0; font-size: 0.85em;">Publicado em 07/10/2020</p>
+    </li>
+</ul>
+
+<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+
+<ul>
+    <li style="list-style: none;">
+    <p style="margin: 0; font-size: 1.5em"><a href="https://www.linkedin.com/jobs/view/2150007328" target="_blank">Product Marketing Manager - Talent Pool</a></p>
+    <p style="margin: 0; font-size: 0.85em;">Gupy - São Paulo, São Paulo, Brasil</p>
+    <p style="margin: 0; font-size: 0.85em;">Publicado em 07/10/2020</p>
+    </li>
+</ul>
+
+<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+
+<ul>
+    <li style="list-style: none;">
+    <p style="margin: 0; font-size: 1.5em"><a href="https://www.linkedin.com/jobs/view/2006545377" target="_blank">Product Marketing Specialist</a></p>
+    <p style="margin: 0; font-size: 0.85em;">Agrotools - São Paulo, São Paulo, Brasil</p>
+    <p style="margin: 0; font-size: 0.85em;">Publicado em 07/10/2020</p>
+    </li>
+</ul>
+
+<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+
+<ul>
+    <li style="list-style: none;">
+    <p style="margin: 0; font-size: 1.5em"><a href="https://www.linkedin.com/jobs/view/1991102577" target="_blank">Subsidiary PMM</a></p>
+    <p style="margin: 0; font-size: 0.85em;">Microsoft - São Paulo, São Paulo, Brasil</p>
+    <p style="margin: 0; font-size: 0.85em;">Publicado em 07/10/2020</p>
+    </li>
+</ul>
+
+<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+
+<ul>
+    <li style="list-style: none;">
+    <p style="margin: 0; font-size: 1.5em"><a href="https://www.linkedin.com/jobs/view/2166022432" target="_blank">Analista de Marketing de Produtos</a></p>
+    <p style="margin: 0; font-size: 0.85em;">Promax Bardahl BR - São Paulo, São Paulo, Brasil</p>
+    <p style="margin: 0; font-size: 0.85em;">Publicado em 07/10/2020</p>
+    </li>
+</ul>
+
+<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+
+<ul>
+    <li style="list-style: none;">
+    <p style="margin: 0; font-size: 1.5em"><a href="https://www.linkedin.com/jobs/view/2003554755" target="_blank">Head of Product Marketing Management</a></p>
+    <p style="margin: 0; font-size: 0.85em;">Wildlife Studios - São Paulo, São Paulo, Brasil</p>
+    <p style="margin: 0; font-size: 0.85em;">Publicado em 07/10/2020</p>
+    </li>
+</ul>
+
+<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+
+<ul>
+    <li style="list-style: none;">
+    <p style="margin: 0; font-size: 1.5em"><a href="https://www.linkedin.com/jobs/view/2152032005" target="_blank">Professional Marketing Manager</a></p>
+    <p style="margin: 0; font-size: 0.85em;">Align Technology - São Paulo, São Paulo, Brasil</p>
+    <p style="margin: 0; font-size: 0.85em;">Publicado em 07/10/2020</p>
+    </li>
+</ul>
+
+<hr style="border: 2px solid #0099ff; margin: 1em 0;">
+
+<ul>
+    <li style="list-style: none;">
+    <p style="margin: 0; font-size: 1.5em"><a href="https://www.linkedin.com/jobs/view/2152032005" target="_blank">Product Marketing Specialist - Power Conversion System (PCS)</a></p>
+    <p style="margin: 0; font-size: 0.85em;">ABB Group - São Paulo, São Paulo, Brasil</p>
+    <p style="margin: 0; font-size: 0.85em;">Publicado em 07/10/2020</p>
+    </li>
+</ul>
