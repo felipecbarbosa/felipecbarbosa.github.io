@@ -47,6 +47,7 @@ theme_settings:
 
   # Scripts
   disqus_shortname: felipebarbosa
+  search: true # Enable the search feature
     
   # Localization strings
   str_follow_on: "Follow on"
