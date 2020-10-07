@@ -22,9 +22,9 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
 
 <ul>
     <li style="list-style: none;">
-    <h3 style="margin: 0;"><a href="https://www.linkedin.com/jobs/view/1951121647" target="_blank">HUB Product Marketing Manager</a></h3>
-    <p style="margin: 0;">Hitachi ABB - Guarulhos, São Paulo, Brasil</p>
-    <p style="margin: 0;">Publicado em 07/10/2020</p>
+    <p style="margin: 0; font-size: 1.5em"><a href="https://www.linkedin.com/jobs/view/1951121647" target="_blank">HUB Product Marketing Manager</a></p>
+    <p style="margin: 0; font-size: 0.85em;">Hitachi ABB - Guarulhos, São Paulo, Brasil</p>
+    <p style="margin: 0; font-size: 0.85em;">Publicado em 07/10/2020</p>
     </li>
 </ul>
 
