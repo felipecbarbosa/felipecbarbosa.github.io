@@ -15,7 +15,7 @@ hide: true
             <div class="col-md-8">
             <h3 class="card-title"><a href="https://www.productboard.com/blog/the-five-stages-of-product-strategy" class="link-title" target="_blank">The five stages of product strategy</a></h3>
             <p class="card-text">Productboard</p>
-            <a href="https://www.productboard.com/blog/the-five-stages-of-product-strategy" class="btn btn-primary" target="_blank">Ler o artigo</a>
+            <a href="https://www.productboard.com/blog/the-five-stages-of-product-strategy" class="button" target="_blank">Ler o artigo</a>
             </div>
         </div>
         </div>
