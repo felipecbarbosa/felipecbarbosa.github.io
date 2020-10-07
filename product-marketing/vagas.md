@@ -22,21 +22,11 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
 
 <hr style="border: 2px solid #0099ff; margin: 1em 0;">
 
-- Empresa: [Hitachi ABB](https://www.hitachiabb-powergrids.com/){:target="_blank"}
-- LinkedIn da Empresa: [Hitachi ABB Power Grids](https://www.linkedin.com/company/hitachipg/life/06666fbe-8668-4197-84fd-3d74e2277155/){:target="_blank"}
-- Data de Publicação na Lista de Vagas: 07/10/2020
-- Data de Publicação da Vaga pela Empresa: 2 semanas atrás
-- Cargo: HUB Product Marketing Manager
-- Local: Guarulhos, São Paulo, Brasil
-- Informações sobre a vaga: [LinkedIn](https://www.linkedin.com/jobs/view/1951121647){:target="_blank"}
-
-<hr style="border: 2px solid #0099ff; margin: 1em 0;">
-
 <ul>
     <li style="list-style: none;">
-    <h3><a href="https://www.linkedin.com/jobs/view/1951121647" target="_blank">HUB Product Marketing Manager</a></h3>
-    <p>Hitachi ABB - Guarulhos, São Paulo, Brasil</p>
-    <p>Publicado em 07/10/2020</p>
+    <h3 style="margin: 0;"><a href="https://www.linkedin.com/jobs/view/1951121647" target="_blank">HUB Product Marketing Manager</a></h3>
+    <p style="margin: 0;">Hitachi ABB - Guarulhos, São Paulo, Brasil</p>
+    <p style="margin: 0;">Publicado em 07/10/2020</p>
     </li>
 </ul>
 
