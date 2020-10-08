@@ -117,3 +117,17 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
     <p style="margin: 0; font-size: 0.85em;">Publicado em 07/10/2020</p>
     </li>
 </ul>
+
+{% if site.data.job %}
+<ul>
+    {% for job in site.data.job %}
+    <li style="list-style: none;">
+        <p style="margin: 0; font-size: 1.5em"><a href="{{ job.url }}" target="_blank">{{ job.title }}</a></p>
+        <p style="margin: 0; font-size: 0.85em;">{{ job.location }}</p>
+        <p style="margin: 0; font-size: 0.85em;">{{ job.date }}</p>
+    </li>
+    {% endfor %}
+</ul>
+
+---
+{% endif %}
