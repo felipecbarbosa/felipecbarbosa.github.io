@@ -22,7 +22,7 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
 
 {% if site.data.job %}
 <ul>
-   {% for job in paginator.site.data.job %}
+   {% for job in site.data.job %}
         <li style="list-style: none;">
             <p style="margin: 0; font-size: 1.5em"><a href="{{ job.url }}" onclick="analytics.track('clicked-job-{{ job.track }}')" target="_blank">{{ job.title }}</a></p>
             <p style="margin: 0; font-size: 0.85em;">{{ job.location }}</p>
