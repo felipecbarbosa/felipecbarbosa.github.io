@@ -22,7 +22,7 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
 
 {% if site.data.job %}
 <ul>
-   {% for job in site.data.job %}
+   {% for job in paginator.site.data.job %}
         <li style="list-style: none;">
             <p style="margin: 0; font-size: 1.5em"><a href="{{ job.url }}" onclick="analytics.track('clicked-job-{{ job.track }}')" target="_blank">{{ job.title }}</a></p>
             <p style="margin: 0; font-size: 0.85em;">{{ job.location }}</p>
@@ -31,4 +31,21 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
     <hr>
     {% endfor %}
 </ul>
+{% endif %}
+
+{% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
+      <i class="fa fa-chevron-left"></i>
+      {{ site.theme_settings.str_prev }}
+    </a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
+      {{ site.theme_settings.str_next }}
+      <i class="fa fa-chevron-right"></i>
+    </a>
+    {% endif %}
+  </div>
 {% endif %}
