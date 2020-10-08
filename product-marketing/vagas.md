@@ -20,8 +20,6 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
 
 ## Vagas {#vagas-product-marketing}
 
-{% for job in paginator.data.job %}
-<div>
 {% if site.data.job %}
 <ul>
    {% for job in site.data.job %}
@@ -33,23 +31,4 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
     <hr>
     {% endfor %}
 </ul>
-{% endif %}
-</div>
-{% endfor %}
-
-{% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      <i class="fa fa-chevron-left"></i>
-      {{ site.theme_settings.str_prev }}
-    </a>
-    {% endif %}
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      {{ site.theme_settings.str_next }}
-      <i class="fa fa-chevron-right"></i>
-    </a>
-    {% endif %}
-  </div>
 {% endif %}
