@@ -3,7 +3,7 @@ layout: page
 title: "Vagas de Marketing de Produto em empresas Brasileiras"
 ---
 
-> [Quero ir direto para as vagas](#vagas-product-marketing)
+[**Quero ir direto para as vagas**](#vagas-product-marketing)
 
 Eu sou apaixonado pela área de [Marketing de Produtos](/marketing-de-produto/){:target="_blank"} desde que entrei no mundo de empresas de tecnologia lá em 2013. 
 
