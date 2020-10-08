@@ -126,8 +126,7 @@ Inspirado em iniciativas como a [Elixir Radar](https://elixir-radar.com/){:targe
             <p style="margin: 0; font-size: 0.85em;">{{ job.location }}</p>
             <p style="margin: 0; font-size: 0.85em;">{{ job.date }}</p>
         </li>
-
-    ---
+    <hr>
     {% endfor %}
 </ul>
 {% endif %}
