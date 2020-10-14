@@ -3,6 +3,7 @@ layout: page
 title: Quer entrar em contato comigo?
 permalink: /contato/
 menu: Contato
+order: 4
 ---
 
 Você pode falar comigo pelo [chat](#hs-chat-open), geralmente respondo rápido, mas caso você queira deixar alguma mensagem maior você pode entrar em contato comigo pelo formulário abaixo:

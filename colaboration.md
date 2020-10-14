@@ -3,6 +3,7 @@ layout: page
 title: Colaborações em eventos, podcasts, artigos e webinars
 permalink: /eventos-podcasts-artigos-webinars/
 menu: Colaborações
+order: 2
 ---
 
 Ao longo dos meus anos como profissional de Marketing e Produto eu colaborei com conteúdo e participei de eventos de outras pessoas e organizações.
