@@ -5,7 +5,6 @@ redirect_from:
     - /leituras-recomendadas/
 permalink: /leituras-recentes/
 menu: Leituras Recentes
-order: 3
 ---
 
 Sempre procuro encontrar um tempo no meu dia a dia para ler um livro. Pode ser em casa, na ida e na volta do trabalho. Na hora do almoço. Enfim, gosto muito de ler e sempre tenho mais livros não lidos do que eu consigo ler em um ano. 
