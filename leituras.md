@@ -11,7 +11,15 @@ Sempre procuro encontrar um tempo no meu dia a dia para ler um livro. Pode ser e
 
 Acredito que dessa forma sempre tenho opções e novos conhecimentos que ainda estão ali para serem descobertos.
 
-Aqui estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
+Ao longo da minha vida de estudante de Adminstração e Marketing e profissional da área de Marketing e Produto, eu já li muitos livros. Alguns mais acadêmicos e teóricos, outros mais práticos. Na minha opinião ambos são muito importantes.
+
+Sem a base teórica e acadêmica, a prática é apenas saber fazer e não entender porque está fazendo. Mas isso é minha opinião.
+
+Você pode conferir aqui a [lista de 176 livros que cruzaram minha vida acadêmica e profissional](/livros-para-profissionais/){:target="_blank"}.
+
+A lista no link acima explora todas as leituras, sem identificar uma sequência de quando foram lidas. Desde 2016 eu faço a lista das leituras e passei a divulgar essa lista no meu blog.
+
+Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ## Livros 2020 {#livros-2020}
 > 17 livros - 3793 páginas - 15 páginas/dia em média até o momento
