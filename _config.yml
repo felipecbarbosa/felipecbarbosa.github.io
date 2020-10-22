@@ -17,7 +17,7 @@ theme_settings:
   # Header and footer text
   header_text: >
     <p style="color: #ffffff;">Quer saber quais empresas brasileiras estão contratando para a posição de Marketing de Produto?</p>
-    <a class="button" style="color: #ffffff; background-color: #0099ff;" href="/product-marketing/vagas">Veja as vagas publicadas!</a>
+    <a class="button" style="color: #ffffff; background-color: #0099ff;" href="/product-marketing/vagas" target="_blank">Veja as vagas publicadas!</a>
         
   header_text_feature_image:
   footer_text: >
