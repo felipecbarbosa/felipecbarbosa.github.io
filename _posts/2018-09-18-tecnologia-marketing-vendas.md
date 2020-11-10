@@ -107,7 +107,7 @@ Todas as ferramentas que listei acima tem integrações com CRMs, especialmente 
 
 O que é bom a respeito dessas ferramentas é que elas se integram muito bem com as ferramentas de Marketing então você acaba fechando todo o ciclo na jornada: você pode enviar dados gerados pelas ferramentas de Marketing para o seu CRM e usar dados do CRM para criar melhores estratégias de automação e de Marketing.
 
-Seu CRM deve ser o lugar onde todas as pessoas da sua empresa buscam entender e ver os resultados de seus investimentos. Por isso você deve sempre manter seu CRM organizado e atualizado com informações e dados completos. Com tudo bem organizad você poderá medir seus resultados, como por exemplo: saber quem gerou determinada oportunidade e negócio (Marketing ou Vendas), qual a fonte que trouxe seus melhores leads e clientes, quais campanhas você está rodando e quais dão melhores resultados, e assim por diante.
+Seu CRM deve ser o lugar onde todas as pessoas da sua empresa buscam entender e ver os resultados de seus investimentos. Por isso você deve sempre manter seu CRM organizado e atualizado com informações e dados completos. Com tudo bem organizado você poderá medir seus resultados, como por exemplo: saber quem gerou determinada oportunidade e negócio (Marketing ou Vendas), qual a fonte que trouxe seus melhores leads e clientes, quais campanhas você está rodando e quais dão melhores resultados, e assim por diante.
 
 Dessa forma é fácil gerar e analisar relatórios para saber onde investir seu dinheiro e onde você deveria parar de apostar.
 
@@ -123,11 +123,11 @@ O Zapier permite que você conecte sua ferramenta a mais de 1000 produtos difere
 
 Algumas empresas possuem integrações nativas muito rudimentares e o Zapier permite que muitas coisas novas sejam criadas.
 
-Eles também lançaram suas próprias integrações *by Zapier*, ou seja, apps (assim as integrações são conhecidas na ferramenta, que permitem filtrar, transformar e manipular dados. Um app bem legal que eles possuem é o de Lead Scoring. Você pode usá-lo para o processo de qualificação dos leads.
+Eles também lançaram suas próprias integrações *by Zapier*, ou seja, apps (assim que as integrações são conhecidas na ferramenta deles), que permitem filtrar, transformar e manipular dados. Um app bem legal que eles possuem é o de Lead Scoring. Você pode usá-lo para o processo de qualificação dos leads.
 
 Enquanto o Zapier não precisa de uma implementação técnica para a grande maiorias dos apps deles, o Segment precisa. 
 
-O Segment irá ajudar times técnicos a usarem os métodos javascript da ferramenta para enviar dados para diferentes produtos.
+O Segment irá ajudar times técnicos a usarem os métodos javascript da ferramenta, ou outras linguagens enviando dados do lado do servidor, para enviar dados para diferentes produtos.
 
 Ambas irão ajudar você a integrar todas as suas ferramentas de Marketing e Vendas.
 
