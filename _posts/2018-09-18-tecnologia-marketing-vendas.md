@@ -30,7 +30,7 @@ Se você precisa trabalhar no **SLA** entre seus times, criar processos claros d
 
 Se você acha que já tem o básico, vamos continuar.
 
-Quando você for o conjunto de ferramentas é importante considerar algumas coisas: é possível adaptá-las a maneira que meus times trabalham? É possível integrar as diferentes ferramentas de maneira fácil? O meu time possui alguém que será o dono da implementação?
+Quando você for escolher o conjunto de ferramentas é importante considerar algumas coisas: é possível adaptá-las a maneira que meus times trabalham? É possível integrar as diferentes ferramentas de maneira fácil? O meu time possui alguém que será o dono da implementação?
 
 É importante responder sim para todas essas questões.
 
