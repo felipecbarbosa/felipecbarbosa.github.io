@@ -16,7 +16,7 @@ Em 2013 eu escutei pela primeira vez o termo [Growth Hacking](https://medium.com
 
 Nessa época um dos principais materiais que eu lembro de encontrar era um conteúdo muito profundo de Neil Patel no [Quicksprout](https://pt.slideshare.net/HuyDang4/the-definitive-guide-to-growth-hacking-quick-sprout-58233796){:target="_blank"}. Além disso começava a surgir algumas comunidades e pessoas escrevendo sobre o assunto.
 
-Logo em seguida conhecia a comunidade [GrowthHackers](https://growthhackers.com/posts){:target="_blank"} e então cada vez mais era possível ler artigos sobre o assunto. Também passaram a aparecer as referências na atividade.
+Logo em seguida conheci a comunidade [GrowthHackers](https://growthhackers.com/posts){:target="_blank"} e então cada vez mais era possível ler artigos sobre o assunto. Também passaram a aparecer as referências na atividade.
 
 No Brasil começou a surgir uma primeira comunidade no Facebook e hoje tem alguns nomes que lá por 2014 ou 2015 passaram a serem as referências brasileiras.
 
