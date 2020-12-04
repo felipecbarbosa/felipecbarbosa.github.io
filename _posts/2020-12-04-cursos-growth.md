@@ -38,7 +38,7 @@ Se eu tivesse que escolher um curso de *Growth* certamente iria em uma dessas 2 
 
 ## Curso Product Growth da PM3
 
-O [curso de Product Growth da PM3](https://www.cursospm3.com.br/curso-product-growth){target="_blank"} tem como foco *Product Managers* e profissionais de [Marketing](/marketing/){:target="_blank"} que querem aprimorar seus conhecimentos sobre o funil dos usuários e gerar crescimento e também para ter a noção nessária para alinhar a visão de [Produto](/produto/){:target="_blank"} com uma estratégia sólida de crescimento.
+O [curso de Product Growth da PM3](https://www.cursospm3.com.br/curso-product-growth){:target="_blank"} tem como foco *Product Managers* e profissionais de [Marketing](/marketing/){:target="_blank"} que querem aprimorar seus conhecimentos sobre o funil dos usuários e gerar crescimento e também para ter a noção nessária para alinhar a visão de [Produto](/produto/){:target="_blank"} com uma estratégia sólida de crescimento.
 
 Uma coisa que me chamou atenção é que não está falando nada de *hacks*.
 
