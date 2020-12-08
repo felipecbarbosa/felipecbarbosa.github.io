@@ -129,6 +129,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 27. Gestão Moderna de Produtos Digitais: O Produto Digital como um meio de entregar valor para o usuário e para o negócio ([Amazon](https://amzn.to/2TqfT5c){:target="_blank"})
 28. Métricas Ágeis: Obtenha melhores resultados em sua equipe ([Amazon](https://amzn.to/2XqWW3R){:target="_blank"})
 29. Sprint a Sprint: Erros e acertos na transformação cultural de um time ágil ([Amazon](https://amzn.to/38aUmUk){:target="_blank"})
+30. Escaping the Build Trap: How Effective Product Management
 
 <h2 id="startups">Startups</h2>
 
@@ -191,6 +192,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 34. Data Science for Startups ([Amazon](https://amzn.to/3eSXfLy){:target="_blank"})
 35. The Art of Business Value
 36. Beyond the Core: Expand Your Market Without Abandoning Your Roots
+37. Demand-Side Sales 101: Stop Selling and Help Your Customers
 
 <h2 id="comportamento-analise">Comportamento e Análise</h2>
 
