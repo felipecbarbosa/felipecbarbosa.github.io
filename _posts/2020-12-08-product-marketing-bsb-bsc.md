@@ -26,9 +26,13 @@ A [American Marketing Association](https://www.ama.org/the-definition-of-marketi
 
 Aqui podemos ver que não diferencia as indústrias, segmentos e se é uma empresa que vende para outras empresas ou se vende para o consumidor final (ou se vende para ambos). 
 
-Pensando na faculdade e em todos os livros teóricos sobre Marketing, nenhum deles especializa a atividade com essa divisão de B2B e B2C. 
+Pensando na faculdade e em todos os livros teóricos sobre Marketing, nenhum deles especializa a atividade com essa divisão de B2B e B2C.
 
-O que se aprende é entender a teoria, entender a dinâmica no mercado, entender o Mix de Marketing e saber quando usar. Acho que poderíamos simplificar da seguinte forma, para qualquer contexto o profissional de Marketing deveria saber responder as seguintes perguntas:
+Até ao se analizar estudos de casos reais o exercício é muito mais entender o que foi feito sob a ótica da teoria de Marketing, os motivos que levaram a cada decisão de sucesso do que pensar somente nos exemplos de ações tomadas e querer replicar isso sem contexto e pensamento crítico.
+
+O que se aprende é entender a teoria, entender a dinâmica no mercado, entender o Mix de Marketing e saber quando usar. 
+
+Acho que poderíamos simplificar da seguinte forma, para qualquer contexto o profissional de Marketing deveria saber responder as seguintes perguntas:
 
 1. Em qual negócio/categoria eu estou?
 2. Quem são meus clientes?
@@ -38,7 +42,7 @@ O que se aprende é entender a teoria, entender a dinâmica no mercado, entender
 6. Quem está competindo comigo por esses clientes?
 7. Como me diferencio da concorrência de maneira relevante ao mercado?
 
-Essas perguntas estão diretamente ligadas a entender o Mix de Marketing, os famosos 4 P's: Produto, Preço, Promoção e Praça (Distribuição). 
+Essas perguntas (a ordem acima não significa que você responde uma depois da outra nesse fluxo) estão diretamente ligadas a entender o Mix de Marketing, os famosos 4 P's: Produto, Preço, Promoção e Praça (Distribuição). 
 
 Entender os clientes e o mercado vai ajudar a ter a melhor estratégia de Produto e pra onde está indo, a melhor estratégia de Preço, a melhor estratégia de distribuição (Praça) e a melhor estratégia de comunicação.
 
@@ -48,7 +52,7 @@ Como diz a definição da AMA sobre Marketing, a preocupação deve ser entregar
 
 Eu acredito que Marketing de Produto é o Marketing raiz. 
 
-É um retorno da atividade de entender os clientes, o mercado, o produto e comunicar da melhor maneira possível para que as pessoas se interessem e acreditem que a escolha certa é o produto que está sendo comunicado.
+É um retorno da atividade, feitas por um profissional de Marketing, de entender os clientes, o mercado, o produto e comunicar da melhor maneira possível para que as pessoas se interessem e acreditem que a escolha certa é o produto que está sendo comunicado.
 
 Então, no ponto de vista da teoria de Marketing e da atividade como um todo não tem porque falarmos que um profissional teria dificuldade de navegar entre empresas B2B e B2C caso essa pessoa seja treinada e tenha estudado sobre o assunto com dedicação.
 
