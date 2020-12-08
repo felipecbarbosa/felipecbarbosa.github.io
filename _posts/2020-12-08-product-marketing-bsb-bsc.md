@@ -173,4 +173,4 @@ Dizer que diferenças no dia-a-dia de trabalho do profissional impactam na ativi
 
 Em toda mudança tem aquele período de adaptação e aprendizado, mas isso as próprias empresas consideram e todas tem período de experiência e de *onboarding*.
 
-Por isso que eu acredito muito em dominar os fundamentos e estudar muito o lado teórico. Faça isso e as barreiras sobre diferença de trabalho cair por completo.
+Por isso que eu acredito muito em dominar os fundamentos e estudar muito o lado teórico. Faça isso e as barreiras sobre diferença de trabalho caam por completo.
