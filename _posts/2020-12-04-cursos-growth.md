@@ -94,7 +94,7 @@ Essa é uma visão geral sobre o curso de *Growth* da Cursos PM3, uma escola que
 
 É um curso que está na sua fase de pré-venda.
 
-## Cruso Growth Hacking da FIAP
+## Curso Growth Hacking da FIAP
 
 O nome completo desse curso é: [Growth Hacking - Como melhorar os resultados de Marketing](https://www.fiap.com.br/shift/curso/negocios/growth-hacking){:target="_blank"}.
 
