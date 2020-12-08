@@ -54,7 +54,7 @@ Eu acredito que Marketing de Produto é o Marketing raiz.
 
 É um retorno da atividade, feitas por um profissional de Marketing, de entender os clientes, o mercado, o produto e comunicar da melhor maneira possível para que as pessoas se interessem e acreditem que a escolha certa é o produto que está sendo comunicado.
 
-Então, no ponto de vista da teoria de Marketing e da atividade como um todo não tem porque falarmos que um profissional teria dificuldade de navegar entre empresas B2B e B2C caso essa pessoa seja treinada e tenha estudado sobre o assunto com dedicação.
+Então, no ponto de vista da teoria de Marketing e da atividade como um todo não tem porque falarmos que um profissional teria dificuldade de navegar entre empresas B2B e B2C caso essa pessoa seja treinada e tenha estudado profundamente sobre a teoria de Marketing.
 
 ## O que é Marketing de Produto?
 
@@ -133,7 +133,7 @@ No caso da venda de um apartamento ou de um carro, bem provável que você terá
 
 Aliás essa última situação está muito em alta com o conceito de [Product Led Growth](/desmistificando-product-led-growth/){:target="_blank"}.
 
-A questão emocional e racional, eu também não acredito que seja tão preto e branco: B2C é possível apelar pro lado emocional e B2B é puramente racional.
+A questão emocional e racional, eu também não acredito que seja algo binário, 1 ou 0: B2C é possível apelar pro lado emocional e B2B é puramente racional.
 
 Fosse assim, todo o esforço de criação de marca seria em vão, afinal, um comprador que é uma empresa não será influenciado emocionalmente em sua decisão.
 
