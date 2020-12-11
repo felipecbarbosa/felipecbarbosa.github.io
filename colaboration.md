@@ -35,6 +35,12 @@ No dia 17 de julho, na trilha de Gestão de Produtos, eu e o Pedro Vargas da [JT
 
 [Aqui estão os slides da palestra](https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019SP/gestaoprod/MGC-4363_2019-08-23T014551_JTBD-%20TDC%20-%20SP.pdf){:target="_blank"}.
 
+### [Product Web Summit](https://productwebsummit.com/){:target="_blank"}
+
+A Product Web Summit foi um evento organizado pela Somos Journey e EventPlay que ocorreu nos dias 3, 4 e 5 de novembro de 2020.
+
+No primeiro dia do evento falei sobre **Product Marketing** e **Lançamento de Novos Produtos** com o Raphael Dyxklay. 
+
 ## Podcasts
 
 ### [V4 Cast](https://open.spotify.com/show/0aRkyjwe9ABN95ljXnzJN0){:target="_blank"}
@@ -112,6 +118,14 @@ O Produteiro é uma série de lives no Instagram do Marcelo Scherer, PO da Kingh
 Nessa conversa de 1h falei sobre minha trajetória profissional, como entrei na área de Marketing de Produto e onde essa competência entra nas empresas, como é o dia a dia e interação com Product Managers e algumas coisas a mais como uma questão polêmica: em empresas PLG, a resposabilidade é do PM ou do PMM?
 
 Conheço o Marcelo faz muito tempo, tivemos oportunidade de trabalharmos juntos em 2 empresas diferentes e fiquei muito feliz em poder trocar essa ideia com ele.
+
+### [Esquenta Product Web Summit | Lançamento de Novos Produtos | Felipe Barbosa e Pablo Silva](https://www.youtube.com/watch?v=5Ot-iEpxO6k&t){:target="_blank"}
+
+No dia 03/11 eu participei da [Product Web Summit](https://productwebsummit.com/){:target="_blank"}, evento organizado pela [Journey](https://somosjourney.com/){:target="_blank"} e EventPlay.
+
+Mas no mês de outubro, duas semanas antes do evento, participei de um webinar organizado pela Journey para falar sobre Lançamentos de Produtos ao lado do Pablo Silva, Líder de Produto na Vindi.
+
+O mediador da conversa foi o Raphael Dyxklay.
 
 ---
 ---
