@@ -193,6 +193,7 @@ Cada livro tem um link para poder comprar em alguma loja. Nos links da Amazon te
 35. The Art of Business Value
 36. Beyond the Core: Expand Your Market Without Abandoning Your Roots
 37. Demand-Side Sales 101: Stop Selling and Help Your Customers
+38. Good Strategy / Bad Strategy: The difference and why it matters
 
 <h2 id="comportamento-analise">Comportamento e Análise</h2>
 
