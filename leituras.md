@@ -22,7 +22,7 @@ A lista no link acima explora todas as leituras, sem identificar uma sequência 
 Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ## Livros 2020 {#livros-2020}
-> 19 livros - 4258 páginas - 12 páginas/dia em média até o momento
+> 20 livros - 4606 páginas - 13 páginas/dia em média até o momento
 
 1. Product Management (460 páginas)
 2. Essential Kanban Condensed (102 páginas)
@@ -43,6 +43,7 @@ Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas
 17. Beyond the Core: Expand Your Market Without Abandoning Your Roots (240 páginas)
 18. Escaping the Build Trap: How Effective Product Management  (239 páginas)
 19. Demand-Side Sales 101: Stop Selling and Help Your Customers (226 páginas)
+20. Good Strategy / Bad Strategy: The difference and why it matters (348 páginas)
 
 ## Livros 2019 {#livros-2019}
 > 31 livros - 7073 páginas - 19 páginas/dia em média no ano
