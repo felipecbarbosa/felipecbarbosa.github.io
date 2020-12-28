@@ -46,7 +46,7 @@ theme_settings:
   ajuda: # https://ajuda.felipebarbosa.me/
 
   # Scripts
-  disqus_shortname: felipebarbosa
+  disqus_shortname: # felipebarbosa
   search: false # Enable the search feature
     
   # Localization strings
