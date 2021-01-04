@@ -50,7 +50,9 @@ Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas
 18. Escaping the Build Trap: How Effective Product Management  (239 páginas)
 19. Demand-Side Sales 101: Stop Selling and Help Your Customers (226 páginas)
 20. Good Strategy / Bad Strategy: The difference and why it matters (348 páginas)
+
 ---
+
 1. [Incompleto] Gestão de Novos Produtos (586 páginas, 152 lidas)
 2. [Incompleto] Playing to Win: How Strategy Really Works (245 páginas, 64 lidas)
 
