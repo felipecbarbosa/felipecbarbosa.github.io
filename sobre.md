@@ -106,9 +106,9 @@ Fiz parte da comunidade de Beta Testers que criamos para engajar desenvolvedores
 
 > Ferramentas que usei: Intercom, Route, Google Analytics, ProductBoard e Trello
 
-#### Chief Marketing Officer @ Route (janeiro 2014 - novembro 2016)
+#### Head of Marketing @ Route (janeiro 2014 - novembro 2016)
 
-Entrei no Route para ser responsável pelos esforços de Marketing do Produto enquanto ainda estava em desenvolvimento.
+Entrei no Route para ser responsável pelos esforços de Marketing do produto enquanto ainda estava em desenvolvimento.
 
 Durante o primeiro ano lancei o site do Route, realizei entrevistas com pessoas que estavam interessadas em nosso Produto e escrevi artigos e books sobre Automação de Marketing, Nutrição de Leads, Lead Scoring e Marketing de Conteúdo.
 
