@@ -22,7 +22,7 @@ A lista no link acima explora todas as leituras, sem identificar uma sequência 
 Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ## Livros 2021 {#livros-2021}
-> 5 livros lidos - 1 2020/2021
+> 5 livros lidos - 1 finalizado em 2021
 
 1. A Morte da Verdade (272 páginas)
 2. Pós-Verdade: A Nova Guerra Contra os Fatos em Tempos de Fake News (144 páginas)
@@ -32,7 +32,7 @@ Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas
 
 ---
 
-1. [2020/2021] Playing to Win: How Strategy Really Works (245 páginas, 190 lidas)
+1. [Finalizado em 2021] Playing to Win: How Strategy Really Works (245 páginas, 190 lidas)
 
 ## Livros 2020 {#livros-2020}
 > 20 livros lidos - 2 incompletos - 4822 páginas lidas - 13 páginas/dia em média até o momento
