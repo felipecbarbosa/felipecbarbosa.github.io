@@ -142,4 +142,4 @@ Talvez eu adicionaria mais um item do profissional *t-shaped* de Marketing: a ha
 
 Para terminar sugiro que vocês façam o teste também. Uma forma de auto-conhecimento.
 
-Link para o teste: [https://growthtribe.io/blog/t-shaped-marketer-2019/](https://growthtribe.io/blog/t-shaped-marketer-2019/)
+[Você pode acessar o teste da Growth Tribe clicando nesse link!](http://b.growthtribe.io/t-shaped-marketer-2020/)
