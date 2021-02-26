@@ -15,7 +15,7 @@ Ao longo da minha vida de estudante de Adminstração e Marketing e profissional
 
 Sem a base teórica e acadêmica, a prática é apenas saber fazer e não entender porque está fazendo. Mas isso é minha opinião.
 
-Você pode conferir aqui a [lista de 176 livros que cruzaram minha vida acadêmica e profissional](/livros-para-profissionais/){:target="_blank"}.
+Você pode conferir aqui a [lista de mais de 150 livros que cruzaram minha vida acadêmica e profissional](/livros-para-profissionais/){:target="_blank"}.
 
 A lista no link acima explora todas as leituras, sem identificar uma sequência de quando foram lidas. Desde 2016 eu faço a lista das leituras e passei a divulgar essa lista no meu blog.
 

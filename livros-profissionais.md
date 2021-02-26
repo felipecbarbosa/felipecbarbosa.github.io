@@ -12,9 +12,7 @@ Mas eu estava curioso para saber quantos livros técnicos e desse universo de ge
 
 Da época da faculdade não consigo me lembrar de todos os títulos, alguns livros eu já me desfiz muito tempo atrás. 
 
-Mas alguns ainda lembro e estão contemplados nessa lista:
-
-> 176 livros
+Mas alguns ainda lembro e estão contemplados nessa lista de mais de 150 livros.
 
 Você irá encontrar desde livros bem acadêmicos até livros de negócios mais *mainstream* e que fizeram algum barulho nos últimos 5 anos mais ou menos.
 
