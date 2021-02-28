@@ -22,7 +22,7 @@ A lista no link acima explora todas as leituras, sem identificar uma sequência 
 Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ## Livros 2021 {#livros-2021}
-> 7 livros lidos - 1 finalizado em 2021
+> 9 livros lidos - 1 finalizado em 2021
 
 1. A Morte da Verdade (272 páginas)
 2. Pós-Verdade: A Nova Guerra Contra os Fatos em Tempos de Fake News (144 páginas)
@@ -31,6 +31,8 @@ Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas
 5. Play Bigger: How Rebels and Innovators Create New Categories and Dominate Markets (258 páginas)
 6. Not a Scientist: How Politicians Mistake, Misrepresent, and Utterly Mangle Science (269 páginas)
 7. Arriscando a Própria Pele: Assimetrias Ocultas no Cotidiano (310 páginas)
+8. The Cult of the Amateur: How blogs, MySpace, YouTube and the rest of today's user-generated media are killing our culture and economy (240 páginas)
+9. Open Learn: Products, Services and Branding (26 páginas)
 
 ---
 
