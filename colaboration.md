@@ -65,9 +65,13 @@ Esses são os episódios que participei:
 
 Gravei junto com o Cassio Politi da da Tracto um convite para participar do podcast que eles organizam chamado Podcast-se. Nessa conversa falamos sobre Marketing de Produtos em um cenário de Produtos Digitais, SaaS, mas nossa conversa também acabou entrando em Marketing Estratégico e Estratégia de negócios.
 
+[Escute agora o episódio número 287: O Marketing de Produto na era Digital](https://open.spotify.com/episode/6Z8KKiJZiGiVU3rQfRJ3Cu?si=RxtcPzzXS6K-UyDxtIAmPQ){:target="_blank"}.
+
 ### [Lança Produto](https://open.spotify.com/episode/3yLy6hsqGDyaoaXds0ren5?si=GuTGOvjVTsSA8r3v2UU1Sw){:target="_blank"}
 
 Sempre falo que quando a Resultados Digitais resolve abordar com seriedade algum assunto da área ela começa a ter destaque no Brasil. Fiquei muito feliz em poder participar desse episódio do Lança Perfume e falar sobre estratégia de Go-To-Market.
+
+[Ouça minha participação no Lança Produto: Estratégia de Go to Market: o que é e por que criar?](https://open.spotify.com/episode/3yLy6hsqGDyaoaXds0ren5?si=GuTGOvjVTsSA8r3v2UU1Sw){:target="_blank"}
 
 ## Artigos
 
