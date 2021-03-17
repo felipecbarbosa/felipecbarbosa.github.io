@@ -171,7 +171,7 @@ Depois de tudo que escrevei eu acredito que não existem diferenças que sejam u
 
 No que diz respeito a teoria de Marketing e de Marketing de Produto você vai seguir os mesmos princípios independente de quem é seu cliente.
 
-Também vejo que muitas diferenças que se fala sobre B2B e B2C é mais em qual é a oferta, o preço dessa oferta e como ela impacta o cliente do que algo intrínsico dessas diferentes organizações.
+Também vejo que muitas diferenças que se fala sobre B2B e B2C é mais em qual é a oferta, o preço dessa oferta e como ela impacta o cliente do que algo intrínseco dessas diferentes organizações.
 
 Dizer que diferenças no dia-a-dia de trabalho do profissional impactam na atividade de Marketing de Produto não acho certo. Porque nesse caso toda e qualquer mudança de empresa, indo para segmentos diferentes seria uma grande barreira. E não acho que seja.
 
