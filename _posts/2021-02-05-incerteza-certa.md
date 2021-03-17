@@ -90,7 +90,7 @@ O que se viu foi um argumento de por ter incertezas não saberíamos de nada.
 
 Obviamente não dá para afirmar que ter implementado isso teria feito o Produto ter um destino diferente, mas hoje praticamente toda ferramenta de Automação de Marketing utiliza como criador de automações uma visão mais próxima de um fluxograma do que uma lista de itens.
 
-Além desses já vi tempo ser disperdiçado e até levar a uma não ação pelo argumento de que por não sabermos tudo, não sabemos nada.
+Além desses já vi tempo ser desperdiçado e até levar a uma não ação pelo argumento de que por não sabermos tudo, não sabemos nada.
 
 O que tenho tentado trazer para os times que eu trabalho é abraçar a incerteza e assumir que sabemos muito mais do que queremos defender. Talvez isso aconteça porque não existe uma cultura que fortaleça isso.
 
