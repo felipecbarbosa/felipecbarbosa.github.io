@@ -27,9 +27,9 @@ No extra coding required. If you don’t want Route’s script to do its magic, 
 
 <script src="https://gist.github.com/RouteTeam/73e80791b070548b4667.js"></script>
 
-Remember to replace the '''YOUR_ORGANIZATION_ID''' with your organization ID available under settings > organization.
+Remember to replace the ```YOUR_ORGANIZATION_ID``` with your organization ID available under settings > organization.
 
-You should put this code right above the '''</head>''' of your HTML so it’s rendered before all the other Route scripts you’ll put on your website’s HTML.
+You should put this code right above the ```</head>``` of your HTML so it’s rendered before all the other Route scripts you’ll put on your website’s HTML.
 
 ## Tracking events with Route
 
