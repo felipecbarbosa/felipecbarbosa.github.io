@@ -9,6 +9,9 @@ Aqui você encontrará todos os meus artigos que estavam na minha conta do Mediu
 
 <ul>
   <li>
+    <a href="/medium/using-keywords-like-a-pro/">Using keywords like a pro</a>
+  </li>
+  <li>
     <a href="/medium/understanding-your-audience-better-with-personas/">Understanding your audience better with personas</a>
   </li>
   <li>
