@@ -41,9 +41,9 @@ What you need is to track their behavior with the following event tracking scrip
 
 With the code above you’ll track what people are doing on your website or app. You can use it as follow:
 
-1. Using the onClick method on a button or link;
-2. Right inside the <body> tag (this will work as a pageview);
-3. Using the onSubmit method on a form.
+1. Using the ```onClick``` method on a button or link;
+2. Right inside the ```<body>``` tag (this will work as a pageview);
+3. Using the ```onSubmit``` method on a form.
 
 The event tracking script is only one part of the equation, capturing what people are doing in your website or app.
 
