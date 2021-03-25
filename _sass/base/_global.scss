@@ -59,6 +59,16 @@ blockquote p:last-child,
 footer p:last-child {
   margin-bottom: 0;
 }
+
+/* Added css code block */
+code #highlighter-rouge {
+  font-family: monospace, monospace;
+  font-size: 1em;
+  background-color: #000000;
+  color: #ff0099;
+  padding: 0 5px 0 5px;
+}
+
 table {
   table-layout:fixed;
   width:100%;
