@@ -9,6 +9,9 @@ Aqui você encontrará todos os meus artigos que estavam na minha conta do Mediu
 
 <ul>
   <li>
+    <a href="/medium/understanding-your-audience-better-with-personas/">Understanding your audience better with personas</a>
+  </li>
+  <li>
     <a href="/medium/why-is-content-marketing-important-to-marketing-automation/">Why is content marketing important to Marketing Automation?</a>
   </li>
   <li>
