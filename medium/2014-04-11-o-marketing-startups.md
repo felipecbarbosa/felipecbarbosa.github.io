@@ -7,6 +7,8 @@ categories: medium
 canonical: https://medium.com/growth-hacking-brasil/o-marketing-nas-startups-bc137023f66e
 ---
 
+*Esse texto foi publicado pela primeira vez no dia 11/04/2014 no Medium*
+
 > Todas que tiveram sucesso investiram em Marketing.
 
 Nos últimos meses tenho lido bastante sobre Startups e como elas fizeram seus negócios crescerem com uma verba pequena ou sem verba de Marketing. São pessoas da tecnologia falando de suas estratégias de Growth Hacking e como esse profissional é diferente de um de Marketing.
