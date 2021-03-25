@@ -3,11 +3,16 @@ layout: page
 title: Artigos antigos publicados no Medium
 permalink: /medium/
 ---
-Aqui você encontrará todos os meus artigos que estavam na minha conta do Medium e migrei pra cá.
+Aqui você encontrará todos os meus artigos que estavam na minha conta do Medium e migrei pra cá. 
+
+Resolvi tirar minhas publicações do Medium devido a política deles em relação aos seus empregados que tentaram criar um sindicato.
 
 :)
 
 <ul>
+  <li>
+    <a href="/medium/follow-these-steps-and-send-your-first-email-using-route/">Follow these steps and send your first email using Route</a>
+  </li>
   <li>
     <a href="/medium/learn-everything-about-route-email-feature/">Learn everything about Route Email feature</a>
   </li>
