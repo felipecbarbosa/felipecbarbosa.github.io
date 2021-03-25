@@ -42,7 +42,3 @@ Não vou me iludir que conseguimos ser imparciais. Mas precisamos ser justos. To
 Quem tem o poder da informação, tem o poder sobre as pessoas. Quem atrai mais pessoas é o que ganha a briga no mercado. O marketing tem como finalidade gerar receita, o jornalismo não. Quando isso se mistura acabamos criando realidades com uma certa irresponsabilidade. Temos o poder de manipular decisões econômicas, legais e mudar o rumo de uma nação. Temos o poder de criar bilionários e levar a falência tantos outros.
 
 **A (des)informação move o mundo.**
-
----
-
-*Esse texto foi publicado pela primeira vez no dia 02/04/2014 no Medium*
