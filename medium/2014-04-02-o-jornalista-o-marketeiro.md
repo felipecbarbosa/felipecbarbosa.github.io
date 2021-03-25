@@ -7,6 +7,8 @@ categories: medium
 canonical: https://felipecbarbosa.medium.com/o-jornalista-o-marketeiro-e-o-poder-da-des-informacao-542853a61148
 ---
 
+*Esse texto foi publicado pela primeira vez no dia 02/04/2014 no Medium*
+
 Eu as vezes me preocupo quando leio um livro que comprova algumas crenças que eu tenho. Fico assim porque corro o risco de estar enganado e simplesmente passar a reforçar esse erro. Uma das últimas vezes que passei por isso foi ao ler [Acredite, estou mentindo — Confissões de um Manipulador das Mídias](https://amzn.to/2X57LrJ){:target="_blank"}.
 
 Nesse livro, Ryan Holiday conta suas histórias de como explorou o comportamento previsível de jornalistas e blogueiros para promover produtos e clientes que representava. Holiday é o cara do marketing da American Apparel, marca americana de roupas que promove algumas campanhas um tanto polêmicas.
