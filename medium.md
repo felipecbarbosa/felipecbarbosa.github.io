@@ -9,6 +9,9 @@ Aqui você encontrará todos os meus artigos que estavam na minha conta do Mediu
 
 <ul>
   <li>
+    <a href="/medium/learn-everything-about-route-email-feature/">Learn everything about Route Email feature</a>
+  </li>
+  <li>
     <a href="/medium/route-setup-javascript/">Route Setup - JavaScript</a>
   </li>
   <li>
