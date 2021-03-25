@@ -2,7 +2,7 @@
 layout: page	
 title: O Marketing Nas Startups
 author: Felipe Barbosa
-permalink: /medium/o-marketing-nas-startupso/
+permalink: /medium/o-marketing-nas-startups/
 categories: medium
 canonical: https://medium.com/growth-hacking-brasil/o-marketing-nas-startups-bc137023f66e
 ---
