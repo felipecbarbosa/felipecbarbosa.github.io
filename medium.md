@@ -11,6 +11,9 @@ Resolvi tirar minhas publicações do Medium devido a política deles em relaç�
 
 <ul>
   <li>
+    <a href="/medium/how-will-marketing-automation-help-boost-your-roi/">How will Marketing Automation Help Boost your ROI?</a>
+  </li>
+  <li>
     <a href="/medium/follow-these-steps-and-send-your-first-email-using-route/">Follow these steps and send your first email using Route</a>
   </li>
   <li>
