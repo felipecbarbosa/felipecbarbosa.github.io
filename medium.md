@@ -9,7 +9,10 @@ Aqui você encontrará todos os meus artigos que estavam na minha conta do Mediu
 
 <ul>
   <li>
-    <a href="/medium/what-are-the-benefits-of-marketing-automation/">AWhat are the benefits of Marketing Automation?</a>
+    <a href="/medium/why-is-content-marketing-important-to-marketing-automation/">Why is content marketing important to Marketing Automation?</a>
+  </li>
+  <li>
+    <a href="/medium/what-are-the-benefits-of-marketing-automation/">What are the benefits of Marketing Automation?</a>
   </li>
   <li>
     <a href="/medium/a-era-do-marketing-de-xalala/">A Era do Marketing de Xalalá</a>
