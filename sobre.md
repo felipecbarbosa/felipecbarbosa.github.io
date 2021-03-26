@@ -21,6 +21,18 @@ Ferramentas que tenha familiaridade: Analytics (Google Analytics, Mixpanel, Heap
 
 ### Gerente de Marketing de Produto (Product Marketing Manager) @ Cortex Intelligence (agosto 2020 - até o momento)
 
+Respondo ao Diretor de Marketing e compartilho atividades e objetivos com o time de Vendas, Produto e Growth Ops.
+
+Sou responsável por duas ofertas diferentes da empresa e minhas principais atividades são:
+
+- Criar materiais para enablement do time de Vendas para que os usem durante a jornada de vendas;
+- Definir e criar estratégias de Go-To-Market, alinhando e validando com o time de Produto e diretores de Marketing, Vendas e Growth;
+- Trabalhar com o time e o Coordenador de Geração de Demanda para definir segmentos e personas para nossos experimentos e campanhas de aquisição;
+- Organizar e liderar reuniões regulares com o time de Produto, Vendas, Marketing e Growth para analisar e otimizar nossas conversões ao longo do funil;
+- Construir e definir junto ao Diretor de Marketing e time Executivo o posicionamento de produto, o messaging e a proposta de valor para guiar nossos esforços de GTM;
+- Lançar novos produtos;
+- Realizar pesquisa de competidores e mercado.
+
 ### Especialista em Marketing de Produto @ Vindi (janeiro 2020 - agosto 2020)
 
 Fui responsável pelo Marketing de Produto para o mercado Enterprise e depois com uma mudança de estrutura que propus ao time migrei para ser par do Product Manager na Squad de Produto focada na plataforma SaaS da Vindi.
