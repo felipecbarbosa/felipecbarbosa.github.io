@@ -158,8 +158,7 @@ O que faz o Uber não ser um táxi deve nos tirar da zona de conforto e pensar o
 
 **No fim das contas é uma guerra de percepções.**
 
-<iframe src="https://www.slideshare.net/felipefcb/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2Dfktv5nMd1SaS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/felipefcb/porque-o-uber-no-um-servio-de-txi-53718977" title="Porque o uber não é um (serviço de) táxi ?" target="_blank">Porque o uber não é um (serviço de) táxi ?</a> </strong> from <strong><a href="https://www.slideshare.net/felipefcb" target="_blank">Felipe Cardoso Barbosa</a></strong> </div>
 ---
 
 *Esse artigo eu publiquei pela primeira vez no dia 9 de outubro de 2015 em uma versão antiga do meu blog. Depois ele foi para minha conta pessoal no Medium e agora volta pra dentro do meu próprio domínio.*
