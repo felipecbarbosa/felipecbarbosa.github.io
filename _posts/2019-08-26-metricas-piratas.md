@@ -4,12 +4,12 @@ title: AARRR - Medindo seu funil de Marketing e Vendas com as Pirate Metrics
 author: Felipe Barbosa
 permalink: /pirate-metrics/
 categories: produto
-canonical: https://medium.com/felipe-barbosa/aarrr-medindo-seu-funil-de-marketing-e-vendas-com-as-pirate-metrics-f2adedb8c882
+canonical: https://felipecbarbosa.medium.com/aarrr-medindo-seu-funil-de-marketing-e-vendas-com-as-pirate-metrics-f2adedb8c882
 ---
 
-*Esse post eu publiquei pela primeira vez no blog do [Publicitários Social Clube](https://medium.com/publicitariossc/as-pirate-metrics-e-o-funil-de-vendas-8fc5258e0ed8), em 2014. Depois em 2015 eu acrescentei informações e publiquei na primeira versão do meu blog. Em 2016, passei para o [Medium](https://medium.com/felipe-barbosa/aarrr-medindo-seu-funil-de-marketing-e-vendas-com-as-pirate-metrics-f2adedb8c882) quando migrava de plataforma e lá se tornou o meu artigo mais acessado e lida. Agora volto a publicá-lo em meu próprio domínio.*
+*Esse post eu publiquei pela primeira vez no blog do [Publicitários Social Clube](https://medium.com/publicitariossc/as-pirate-metrics-e-o-funil-de-vendas-8fc5258e0ed8), em 2014. Depois em 2015 eu acrescentei informações e publiquei na primeira versão do meu blog. Em 2016, passei para o Medium quando migrava de plataforma e lá se tornou o meu artigo mais acessado e lida. Agora volto a publicá-lo em meu próprio domínio.*
 
-Em um dos meus posts eu escrevi sobre [Growth Hacking e como ele na verdade é apenas um marketing muito bem feito](https://medium.com/felipe-barbosa/growth-hacking-%C3%A9-marketing-6bfb677c154d).
+Em um dos meus posts eu escrevi sobre [Growth Hacking e como ele na verdade é apenas um marketing muito bem feito](/growth-hacking-marketing/).
 
 Apesar de ver o [Growth Hacking](/hacking-growth) como uma atividade de [Marketing](/marketing/), sei que ela trouxe ao mercado outras visões sobre atividades mais tradicionais, e uma delas é a mudança na maneira de medir e avaliar o **funil de Marketing e Vendas**.
 
