@@ -150,3 +150,8 @@ O post original chamado [Lições do RDSummit 2015](https://medium.com/felipe-ba
 Nele falo de outras palestras que vi, incluindo **Sujan Patel**, **Lincoln Murphy** e **Max Altschuler**. 
 
 Caso queria ler, basta acessar [Lições do RDSummit 2015](https://medium.com/felipe-barbosa/li%C3%A7%C3%B5es-do-rdsummit-2015-7f55266ce211).
+
+
+---
+
+*Esse artigo eu publiquei pela primeira vez no dia 4 de novembro de 2015 em uma versão antiga do meu blog. Depois ele foi para minha conta pessoal no Medium e agora volta pra dentro do meu próprio domínio.*
