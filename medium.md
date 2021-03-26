@@ -11,6 +11,9 @@ Resolvi tirar minhas publicações do Medium devido a política deles em relaç�
 
 <ul>
   <li>
+    <a href="/medium/o-que-fazer-para-ser-featured-no-product-hunt/">O que fazer para ser featured no Product Hunt?</a>
+  </li>
+  <li>
     <a href="/medium/o-mercado-irracional-das-startups/">O mercado irracional das startups</a>
   </li>
   <li>
