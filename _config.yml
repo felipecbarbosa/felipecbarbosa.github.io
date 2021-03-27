@@ -16,8 +16,8 @@ theme_settings:
   
   # Header and footer text
   header_text: >
-    <p style="color: #ffffff;">Quer saber quais empresas brasileiras estão contratando para a posição de Marketing de Produto?</p>
-    <a class="button" style="color: #ffffff; background-color: #0099ff;" onclick="analytics.track('clicked-curadoria-button') "href="/product-marketing/vagas" target="_blank">Veja as vagas publicadas!</a>
+    <h2 style="color: #ffffff; font-size: 1.2em;">Toda semana faço uma curadoria com os melhores artigos sobre Marketing, Growth e Produto. Quer receber em seu email?</h2>
+    <a class="button" style="color: #ffffff; background-color: #0099ff;" onclick="analytics.track('clicked-curadoria-button') "href="https://curadoria.felipebarbosa.me/" target="_blank">Navegue pelas edições anteriores e Assine!</a>
         
   header_text_feature_image:
   footer_text: >
