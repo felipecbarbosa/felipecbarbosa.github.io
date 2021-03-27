@@ -17,7 +17,7 @@ theme_settings:
   # Header and footer text
   header_text: >
     <h2 style="color: #ffffff; font-size: 1.2em;">Toda semana faço uma curadoria com os melhores artigos sobre Marketing, Growth e Produto. Quer receber em seu email?</h2>
-    <a class="button" style="color: #ffffff; background-color: #0099ff;" onclick="analytics.track('clicked-curadoria-button') "href="https://curadoria.felipebarbosa.me/" target="_blank">Navegue pelas edições anteriores e Assine!</a>
+    <a class="button" style="color: #ffffff; background-color: #0099ff;" onclick="analytics.track('clicked-curadoria-button') "href="https://curadoria.felipebarbosa.me/" target="_blank">CONHEÇA E ASSINE!</a>
         
   header_text_feature_image:
   footer_text: >
