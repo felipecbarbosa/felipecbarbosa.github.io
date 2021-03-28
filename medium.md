@@ -11,6 +11,9 @@ Resolvi tirar minhas publicações do Medium devido a política deles em relaç�
 
 <ul>
   <li>
+    <a href="/medium/the-hard-things-about-hard-things-de-verdade/">The hard things about hard things (de verdade)</a>
+  </li>
+  <li>
     <a href="/medium/5-conteudos-sobre-google-analytics-para-profissionais-de-marketing/">5 conteúdos sobre Google Analytics para profissionais de marketing</a>
   </li>
   <li>
