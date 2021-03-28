@@ -11,6 +11,9 @@ Resolvi tirar minhas publicações do Medium devido a política deles em relaç�
 
 <ul>
   <li>
+    <a href="/medium/automação-de-marketing-101/">Automação de Marketing 101</a>
+  </li>
+  <li>
     <a href="/medium/the-hard-things-about-hard-things-de-verdade/">The hard things about hard things (de verdade)</a>
   </li>
   <li>
