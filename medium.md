@@ -11,6 +11,9 @@ Resolvi tirar minhas publicações do Medium devido a política deles em relaç�
 
 <ul>
   <li>
+    <a href="/medium/lead-nurturing-o-que-é-de-onde-vem-do-que-se-alimenta/">Lead Nurturing: o que é? de onde vem? do que se alimenta?</a>
+  </li>
+  <li>
     <a href="/medium/automação-de-marketing-101/">Automação de Marketing 101</a>
   </li>
   <li>
