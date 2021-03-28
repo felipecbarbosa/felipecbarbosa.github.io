@@ -4,7 +4,7 @@ title: Automação de Marketing 101
 author: Felipe Barbosa
 permalink: /automacao-de-marketing-101/
 categories: marketing
-canonical: https://medium.com/felipe-barbosa/automa%C3%A7%C3%A3o-de-marketing-101-a4a4b346d95a
+canonical: https://felipecbarbosa.medium.com/automa%C3%A7%C3%A3o-de-marketing-101-a4a4b346d95a
 ---
 
 Eu costumo escrever aqui sobre Marketing sempre levando mais para um lado de [Product Marketing](/marketing-de-produto/){:target="_blank"} ou assuntos mais estratégicos. Falo pouco sobre algum assunto mais tático, mas muitos não sabem, eu comecei a trabalhar com Automação de Marketing quando pouca gente trabalhava com isso por aqui. Esse texto eu escrevi pro blog do [Route](http://www.route.to/){:target="_blank"}, depois passei pro Medium acrescentando algumas coisas e agora reproduzo nesse meu blog.
@@ -216,6 +216,21 @@ Sim, você usuará muita automação de campanhas de Email Marketing, mas é mui
 
 Como expliquei anteriormente, Automação de Marketing é muito mais uma tecnologia do que apenas automatizar algumas tarefas de Marketing, como enviar emails.
 
+Uma maneira clara de ver a diferença entre Automação de Marketing e Email Marketing é olhando essa tabela que retirei de um outro post que escrevi no blog do Route:
+
+| Feature        | Email Marketing           | Marketing Automation  |
+| ------------- |:-------------:|:-------------:|
+| List management | Yes | Yes |
+| Facility to segment contacts manually using filters | No | Yes |
+| Lead nurturing | No | Yes |
+| Event based marketing campaigns | No | Yes |
+| Tracking visitor behavior through website events | No | Yes |
+| Capturing visitor info through tracking forms without extra code | No | Yes |
+| CRM, API & 3rd party integrations | Yes | Yes |
+| Campaigns sending info to 3rd party services | No | Yes |
+| Reporting and analytics | Yes | Yes |
+| Mobile optimization | Yes | Yes |
+
 Não pense apenas no envio de emails, pense em todo o universo de atividades de Marketing e Vendas que você pode automatizar:
 
 - Envie SMS;
@@ -288,4 +303,10 @@ Essas são algumas coisas que você precisa ser bom (ou ótimo) para alcançar b
 
 Se você pode por conta própria ou delegando a terceiros, ser bom nesses tópicos, tenho certeza que o investimento mensal (ou anual) em uma ferramenta de Automação de Marketing se pagará rapidamente.
 
-Mas lembre-se: não existe solução milagrosa para os negócios.
+Caso queira saber mais sobre o ROI do investimento em Marketing Automation, escrevi sobre isso no blog do Route: [Como Marketing Automation irá ajudar a aumentar seu ROI?](/medium/how-will-marketing-automation-help-boost-your-roi/).
+
+Enfim, é bom ficar claro que não existe solução milagrosa para os negócios.
+
+---
+
+*Esse texto foi publicado pela primeira vez no dia 29/04/2016 no Medium*
