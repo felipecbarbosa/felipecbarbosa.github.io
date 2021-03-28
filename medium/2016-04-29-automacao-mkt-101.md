@@ -216,7 +216,7 @@ Como expliquei anteriormente, Automação de Marketing é muito mais uma tecnolo
 Uma maneira clara de ver a diferença entre Automação de Marketing e Email Marketing é olhando essa tabela que retirei de um outro post que escrevi no blog do Route:
 
 | Feature        | Email Marketing           | Marketing Automation  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|:-------------:|
 | List management | Yes | Yes |
 | Facility to segment contacts manually using filters | No | Yes |
 | Lead nurturing | No | Yes |
