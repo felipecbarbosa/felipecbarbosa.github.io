@@ -163,7 +163,7 @@ O que você faria se eu dissesse que o Pied Piper é um app real na App Store?
 
 Você acessaria a App Store e faria o download, não é mesmo? Você talvez nem precise do serviço que eles oferecem, mas como você tem visto a série [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)){:target="_blank"} no HBO, iria testá-lo.
 
-Ao final de contas, o Pied Piper está em alta agora. Eles ganharam o TechCrunch Disrupt. Eles venceram a Hooli, a gigante do mundo da tecnologia, em uma disputa judicial. Você também não precisa entender o que é compressão de arquivos para saber a grandeza que eles atingiram com a pontuação 5.2 no Weissman score.
+Ao final de contas, o Pied Piper está em alta agora. Eles ganharam o TechCrunch Disrupt. Eles venceram a Hooli, a gigante do mundo da tecnologia, em uma disputa judicial. Você também não precisa entender o que é compressão de arquivos para saber a grandeza que eles atingiram com a pontuação 5.2 no Weissman score (fonte: [IEEE Spectrum](https://spectrum.ieee.org/view-from-the-valley/computing/software/a-madefortv-compression-metric-moves-to-the-real-world){:target="_blank"}).
 
 ![Weissman Score 5.2 Pied Piper](https://images.ctfassets.net/vrkkgjbn4fsk/7C7zUMRHDGYQoQgKaysUEE/fce892b921d52a3d849ab0c6b2480249/5_Screenshot-2016-06-22-at-2.50.18-PM-1024x567.png)
 
