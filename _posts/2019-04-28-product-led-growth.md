@@ -6,7 +6,7 @@ permalink: /desmistificando-product-led-growth/
 categories: produto
 ---
 
-Com certeza **Product Led Growth** (PLG) vai ser o assunto no universo das [startups SaaS](/startups/) aqui no Brasil. Ano passado com o tema no RD Summit, agora com a própria Resultados Digitais falando sobre o assunto e a busca por esse modelo. Não tenho dúvidas que vai ser um tópico muito quente.
+Com certeza [Product Led Growth](https://www.cursospm3.com.br/blog/saiba-o-que-e-product-led-growth-quais-sao-suas-vantagens-e-como-aplica-lo/){:target="_blank"} (PLG) vai ser o assunto no universo das [startups SaaS](/startups/) aqui no Brasil. Ano passado com o tema no RD Summit, agora com a própria Resultados Digitais falando sobre o assunto e a busca por esse modelo. Não tenho dúvidas que vai ser um tópico muito quente.
 
 Além dessa movimentação por aqui, lá fora é um assunto que também está em alta. [Faço parte de um grupo de Slack](https://trafficiscurrency.com/community/) sobre o assunto e a cada dia tem mais gente. Profissionais de muitas startups conhecidas do Vale do Sílicio estão por lá falando sobre esse conceito.
 

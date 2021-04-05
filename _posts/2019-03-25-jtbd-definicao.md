@@ -9,7 +9,7 @@ Sei que por aí existem diversos textos bem completos sobre a definição de **J
 
 A inspiração desse artigo vem de uma conversa que tive aqui na [Plataformatec](https://plataformatec.com/) com os meus colegas onde trouxe uma visão geral sobre o assunto. 
 
-Trabalhamos com as mais inovadoras empresas de tecnologia e sei que algumas delas já falam e estão começando aplicar o Jobs To Be Done. Por isso achei legal em trazer essa conversa internamente para que todos tenhamos referências sobre esse assunto.
+Trabalhamos com as mais inovadoras empresas de tecnologia e sei que algumas delas já falam e estão começando aplicar o [Jobs To Be Done](https://www.cursospm3.com.br/blog/qual-metodologia-adotar-para-aplicar-jobs-to-be-done/){:target="_blank"}. Por isso achei legal em trazer essa conversa internamente para que todos tenhamos referências sobre esse assunto.
 
 Durante a apresentação contei uma história e fui ligando os pontos para mostrar como eu conheci o JTBD e como fez muito sentido para mim. Fui passando pelos conceitos, [diferenças de abordagens de Jobs To Be Done](/pacoca-jobs-to-be-done/) e a minha opinião sobre o assunto.
 

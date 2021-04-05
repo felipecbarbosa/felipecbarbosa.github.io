@@ -139,7 +139,7 @@ Com o tempo isso foi se perdendo mas se você trabalha em uma empresa com produt
 
 Em *The Lean Product Playbook* o autor percorre por todas as ferramentas, frameworks e melhores práticas sobre como criar, desenvolver e lançar produtos de maneira ágil.
 
-Ele vai de entender conceitos de negócio como *Product Market Fit* até as boas práticas e ferramentas de desenvolvimento e gerenciamento de produtos.
+Ele vai de entender conceitos de negócio como [Product Market Fit](https://www.cursospm3.com.br/blog/produto-alem-do-product-market-fit/){:target="_blank"} até as boas práticas e ferramentas de desenvolvimento e gerenciamento de produtos.
 
 É interessante ter esse tipo de referência se você é uma pessoa de Marketing de Produto.
 
