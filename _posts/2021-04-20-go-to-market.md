@@ -83,7 +83,7 @@ Agora quero explorar um pouco como chegar em respostas para cada um dos itens. A
 
 Você já deve ter escutado a seguinte de ideia:
 
-> Quem vender para todo mundo não vende para ninguém.
+> Quem vende para todo mundo não vende para ninguém.
 
 Muitas empresas tem dificuldade de responder com clareza para quem elas vendem melhor. Esse é um ponto muito importante. As empresas precisam descobrir quem são os melhores clientes porque nem toda venda é igual.
 
