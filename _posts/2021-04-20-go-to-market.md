@@ -191,4 +191,10 @@ Só significa que as vezes as coisas levam um tempo. Nem sempre será um sucesso
 
 Por isso é importante o acompanhamento, a análise dos resultados e esse ciclo de troca de informações entre Marketing e Produto.
 
-Como você irá pensar o seu próximo Go-To-Market?
+## Conectando os pontos
+
+Espero ter conseguido passar a importância de se criar uma estratégia de Go-To-Market, como se diferencia de um plano de lançamento e o que considerar na hora de colocar a mão na massa.
+
+É um jornada que não vai acontecer da noite pro dia. Trate com a importância necessária pois um GTM efetivo pode ser o que indicará sucesso futuro da sua empresa e produto.
+
+E agora, como você irá pensar o seu próximo Go-To-Market?
