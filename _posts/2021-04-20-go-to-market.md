@@ -6,7 +6,7 @@ permalink: /estrategia-go-to-market/
 categories: business
 ---
 
-Caso você trabalhe em times de Marketing ou Produto já deve ter ouvido o termo [Go-To-Market](https://www.cursospm3.com.br/blog/como-fazer-uma-estrategia-de-go-to-market-bem-estruturada-para-o-seu-produto/){:target="_blank"} (GTM). Com uma preocupação maior nas empresas de tecnologia em serem mais efetivas no mercado, tenho visto uma preocupação maior em executar da melhor forma possível essa estratégia. Mas o que siginifica trabalhar o **Go-To-Market**?
+Caso você trabalhe em times de Marketing ou Produto já deve ter ouvido o termo [Go-To-Market](https://www.cursospm3.com.br/blog/como-fazer-uma-estrategia-de-go-to-market-bem-estruturada-para-o-seu-produto/){:target="_blank"} (GTM). Com uma preocupação maior nas empresas de tecnologia em serem mais efetivas no mercado, tenho visto um foco maior em executar da melhor forma possível essa estratégia. Mas o que siginifica trabalhar o **Go-To-Market**?
 
 Primeiro, quero deixar uma coisa bem clara logo no início do texto:
 
