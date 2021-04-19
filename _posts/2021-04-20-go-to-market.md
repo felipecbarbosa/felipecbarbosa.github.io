@@ -103,7 +103,7 @@ Após definir quem é o cliente ideal começa uma nova etapa: qual é a principa
 
 ### O que?
 
-Você pode achar que é óbvio responder o que um produto deve responder se pensarmos que um time de Produto ou a empresa como um todo resolveu desenvolver algo. Mas muitas vezes essa resposta não é tão clara.
+Você pode achar que é óbvio responder o que um produto deve resolver se pensarmos que um time de Produto ou a empresa como um todo decidiu desenvolver algo. Mas muitas vezes essa resposta não é tão clara.
 
 Mais de uma vez eu ouvi coisas como: "Não sabemos bem a dor do nosso público, achamos que é tal coisa" ou "Vamos descobrir após o lançamento".
 
