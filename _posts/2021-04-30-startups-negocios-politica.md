@@ -46,7 +46,7 @@ Mas após o do Jason, outros foram publicados pelo DHH e só deixaram pior a sit
 
 E muitas pessoas, inclusive seus próprios funcionários que sabem o que é serem menosprezados pelo nome e pelo seu contexto social, mostraram onde estava o erro. O papel do líder deveria ser pensar, pedir desculpa e construir um futuro daí.
 
-Não varrer para baixo do tapete tudo.
+Não varrer para debaixo do tapete tudo.
 
 Essa falta de visão fica clara quando em um dos últimos artigos o DHH diz que estão oferecendo um plano de remuneração para quem acreditar que deve sair pois não concorda em como será o futuro na empresa.
 
