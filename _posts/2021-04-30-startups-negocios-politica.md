@@ -98,7 +98,7 @@ Não tem como não considerarmos o nosso ambiente político e social, como pesso
 
 E aqui não quero dizer que todas as pessoas que são fundadoras, CEO, diretoras e líderes precisam ter clareza sobre isso o tempo todo. Muitas vezes é complicado termos visto que erramos.
 
-Mas é fundamental que, no momento que essas pessoas que sofrem consequências pelo que são, a gente pense e tome uma atitude para mudar isso. Por mais difícil que seja admitir um preconceito, mesmo sem perceber que o tem.
+Mas é fundamental que, no momento que essas pessoas que sofrem consequências pelo que são nos chamem a atenção, a gente pense e tome uma atitude para mudar isso. Por mais difícil que seja admitir um preconceito, mesmo sem perceber que o tem.
 
 E daí não quero entrar no detalhe se a mudança é real ou uma estratégia de gerenciamento de crise, mas quando uma pessoa com poder assume estar errada e a empresa faz de tudo para mudar onde foi apontado o erro, damos um primeiro passo para uma mudança real na sociedade.
 
