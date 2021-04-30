@@ -86,7 +86,7 @@ Ainda mais se pegarmos empresas de tecnologia que falam para quem quer ouvir que
 
 Como se inovação e mudança do mundo não fosse uma declaração política. Como se não fosse algo de impacto social.
 
-Por esse miopia vemos empresas como Facebook (e seus produtos como a própria rede social de mesmo nome e o WhatsApp), Twitter, Google e outros, querendo se colocar de fora do debate político e social quando seus produtos são catalizadores de muitas transformações (para o mau ou para bem) políticas e sociais.
+Por esse miopia vemos empresas como Facebook (e seus produtos como a própria rede social de mesmo nome e o WhatsApp), Twitter, Google e outros, querendo se colocar de fora do debate político e social quando seus produtos são catalizadores de muitas transformações políticas e sociais (para o mau ou para bem).
 
 Querer definir que esse tipo de conversa, que muitas vezes é difícil, aconteça apenas em ambientes fora do trabalho, é retirar uma camada importante para a própria inovação.
 
