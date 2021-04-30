@@ -44,7 +44,7 @@ O Basecamp era reconhecido como "a empresa dos sonhos". E os fundadores sempre g
 
 Mas após o do Jason, outros foram publicados pelo DHH e só deixaram pior a situação. Em nenhum dos textos conseguiram admitir que haviam errado. Não conseguem enxergar qualquer erro na decisão final.
 
-E muitas pessoas, inclusive seus próprios funcionários que sabem ser menosprezados pelo nome e pelo seu contexto social, mostraram onde estava o erro. O papel do líder deveria ser pensar, pedir desculpa e construir um futuro daí.
+E muitas pessoas, inclusive seus próprios funcionários que sabem o que é serem menosprezados pelo nome e pelo seu contexto social, mostraram onde estava o erro. O papel do líder deveria ser pensar, pedir desculpa e construir um futuro daí.
 
 Não varrer para baixo do tapete tudo.
 
