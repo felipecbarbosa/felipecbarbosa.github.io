@@ -7,11 +7,13 @@ menu: Sobre
 
 Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e **Produto** em empresas de tecnologia desde Startups até uma tradicional empresa representando um dos maiores players da indústria de EdTech.
 
-No momento sou Product Marketing Manager na Cortex Intelligence e também embaixador e membro-fundador da Product Marketing Alliance aqui no Brasil.
+No momento sou Product Marketing Manager na VTEX e também embaixador e membro-fundador da Product Marketing Alliance aqui no Brasil.
+
+Também atualmente sou um dos instrutores do [Curso de Product Marketing da PM3](https://www.cursospm3.com.br/curso-product-marketing/){:target="_blank"} que está em pré-venda.
 
 Tive a honra e a felicidade de ser citado na lista de [50 profissionais de produto brasileiros](/files/50-profissionais-produto.pdf){:target="_blank"} a serem seguidos elaborada pela [Journey](https://somosjourney.com/){:target="_blank"}.
 
-Tenho sólida experiência e conhecimento em Marketing e um entendimento profundo no desenvolvimento de produtos digitais tendo trabalhado com times de [Produto](/produto/) e Tecnologia tendo participado de atividades como: Customer e Product Development, Product Discovery, [Marketing de Produto](/marketing-de-produto/), Product Demos and Sales Calls, Suporte, Customer Lifecycle Marketing e Estratégia de Produto.
+Tenho **sólida experiência e conhecimento em Marketing e um entendimento profundo no desenvolvimento de produtos digitais** tendo trabalhado com times de [Produto](/produto/) e Tecnologia tendo participado de atividades como: Customer e Product Development, Product Discovery, [Marketing de Produto](/marketing-de-produto/), Product Demos and Sales Calls, Suporte, Customer Lifecycle Marketing e Estratégia de Produto.
 
 Tenho interesse especial em Marketing Estratégico, Marketing de Produto, Gerenciamento de Produto, Jobs to be Done, Product Led Growth e Tecnologia.
 
@@ -19,7 +21,9 @@ Ferramentas que tenha familiaridade: Analytics (Google Analytics, Mixpanel, Heap
 
 ## Experiência Profissional
 
-### Gerente de Marketing de Produto (Product Marketing Manager) @ Cortex Intelligence (agosto 2020 - até o momento)
+### Gerente de Marketing de Produto (Product Marketing Manager) @ VTEX (maio 2021 - atual)
+
+### Gerente de Marketing de Produto (Product Marketing Manager) @ Cortex Intelligence (agosto 2020 - abril 2021)
 
 Respondo ao Diretor de Marketing e compartilho atividades e objetivos com o time de Vendas, Produto e Growth Ops.
 
