@@ -1,233 +1,65 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/2367908355/",
-        "title": "Product Marketing Manager",
-        "location": "Certsys Tecnologia da Informação - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 05/01/2021",
-        "track": "certsys"
+        "url": "https://www.linkedin.com/jobs/view/2484064117/",
+        "title": "Especialista I – Marketing de Produto Perfumaria",
+        "location": "Grupo Boticário - São Paulo, São Paulo, Brasil",
+        "date": "Publicado em 02/05/2021",
+        "track": "grupo-boticario"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/2350252058/",
-        "title": "Analista de Marketing de Produto Senior",
-        "location": "Associação Nova Escola - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 28/12/2020",
-        "track": "nova-escola"
+        "url": "https://www.linkedin.com/jobs/view/2520261490/",
+        "title": "Product Marketing",
+        "location": "Clicksign - São Paulo, São Paulo, Brasil",
+        "date": "Publicado em 02/05/2021",
+        "track": "clicksign"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/2349752801/",
-        "title": "Product Marketing Manager - Marketplace",
-        "location": "Azion - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 22/12/2020",
-        "track": "azion"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2332699588/",
-        "title": "Product Marketing Senior Manager",
-        "location": "Gympass - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 22/12/2020",
-        "track": "gympass"
-    },
-    {
-        "url": "https://olxbrasil.recruiterbox.com/jobs/170f2f32e25d42899f1266a2c315db87",
-        "title": "Especialista de Marketing de Produto",
-        "location": "OLX - Rio de Janeiro, Rio de Janeiro, Brasil",
-        "date": "Publicado em 03/12/2020",
-        "track": "olx"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2321306337/",
-        "title": "Product Marketing Manager",
-        "location": "Linte_ - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 01/12/2020",
-        "track": "linte"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2272668808/",
-        "title": "Global Product Marketing Specialist",
-        "location": "Motorola Mobility (a Lenovo Company) - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 01/12/2020",
-        "track": "motorola"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2288333196/",
-        "title": "Product Marketing Manager - LatAm",
-        "location": "TransferWise - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 01/12/2020",
-        "track": "transferwise"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2300955266/",
-        "title": "Business Product Marketing Manager",
-        "location": "Facebook - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 11/11/2020",
-        "track": "facebook"
-    },
-    {
-        "url": "https://boards.greenhouse.io/creditas/jobs/4635861002?t=56aea99b2us",
-        "title": "Especialista de Marketing de Produto",
-        "location": "Creditas - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 23/10/2020",
-        "track": "creditas"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2222776723/",
-        "title": "Product Marketing Specialist",
-        "location": "Conta Azul - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 22/10/2020",
-        "track": "contaazul"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2221557674/",
-        "title": "Product & Marketing Coordinator",
-        "location": "Gympass - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 21/10/2020",
-        "track": "gympass"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2208657165/",
-        "title": "Senior Manager, Product Marketing",
-        "location": "Whirlpool Corporation - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 15/10/2020",
-        "track": "whirlpool"
-    },
-    {
-        "url": "https://rooster.jobs/jobs/826",
-        "title": "Analista de Marketing de Produto",
-        "location": "Br24 - Florianópolis, Santa Catarina, Brasil",
-        "date": "Publicado em 14/10/2020",
-        "track": "br24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2167638104/",
-        "title": "Analista de Marketing de Produtos Pleno",
-        "location": "Confidencial - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 14/10/2020",
-        "track": "vagaconfidencial"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2206109193/",
-        "title": "Estágio em Marketing do Produto - Fras-le",
-        "location": "Empresas Randon - Caxias do Sul, Rio Grande do Sul, Brasil",
-        "date": "Publicado em 14/10/2020",
-        "track": "randon"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/1598323600/",
-        "title": "Especialista em Marketing de Produto",
-        "location": "AME - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 14/10/2020",
-        "track": "ame"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2202662803/",
-        "title": "Sr. Product Marketing Manager Black+Decker Consumer",
-        "location": "DeWalt Corporation - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 14/10/2020",
-        "track": "dewalt"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2195421801",
-        "title": "Gerente de Produto e Proposta de Valor",
-        "location": "Thomson Reuters Brasil - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 14/10/2020",
-        "track": "thomsonreuters"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2205105133",
-        "title": "Growth Product Manager",
-        "location": "Bytedance - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 14/10/2020",
-        "track": "bytedance"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2191045671",
-        "title": "Lead Growth Product Manager",
+        "url": "https://www.linkedin.com/jobs/view/2498221560/",
+        "title": "Product Analyst, Growth Marketing",
         "location": "Toptal - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 14/10/2020",
+        "date": "Publicado em 02/05/2021",
         "track": "toptal"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/2175150968",
-        "title": "Growth Product Manager",
-        "location": "Hash - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 14/10/2020",
-        "track": "hash"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2183029029",
-        "title": "Product Owner Marketing",
-        "location": "RecargaPay - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 14/10/2020",
-        "track": "recargapay"
-    },
-    {
-        "url": "https://jobs.kenoby.com/deliverymuch/job/product-marketing-manager/5f6e76ae3d6b0613851c9e46",
+        "url": "https://www.linkedin.com/jobs/view/2508624134/",
         "title": "Product Marketing Manager",
-        "location": "Delivery Much - Florianópolis, Santa Catarina, Brasil",
-        "date": "Publicado em 08/10/2020",
-        "track": "deliverymuch"
+        "location": "TradersClub - São Paulo, São Paulo, Brasil",
+        "date": "Publicado em 02/05/2021",
+        "track": "tradersclub"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/1951121647",
-        "title": "HUB Product Marketing Manager",
-        "location": "Hitachi ABB - Guarulhos, São Paulo, Brasil",
-        "date": "Publicado em 07/10/2020",
-        "track": "hitachi"
+        "url": "https://www.linkedin.com/jobs/view/2498008961/",
+        "title": "Marketing Manager (Go to Market and Branding)",
+        "location": "Yara - São Paulo, São Paulo, Brasil",
+        "date": "Publicado em 02/05/2021",
+        "track": "yara"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/2148309699",
-        "title": "Product Go-To-Market Manager",
-        "location": "Adyen - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 07/10/2020",
-        "track": "adyen"
+        "url": "https://www.linkedin.com/jobs/view/2500139734/",
+        "title": "Product Marketing Manager LATAM",
+        "location": "Cepheid - São Paulo, São Paulo, Brasil",
+        "date": "Publicado em 02/05/2021",
+        "track": "cepheid"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/2152068796",
-        "title": "Product Marketing Manager - Talent Pool",
-        "location": "Gupy - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 07/10/2020",
-        "track": "gupy"
+        "url": "https://www.linkedin.com/jobs/view/2483706163/",
+        "title": "Product Marketing Manager",
+        "location": "Robert half - São Paulo, São Paulo, Brasil",
+        "date": "Publicado em 02/05/2021",
+        "track": "robert-half"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/2006545377",
-        "title": "Product Marketing Specialist",
-        "location": "Agrotools - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 07/10/2020",
-        "track": "agrotools"
+        "url": "https://www.linkedin.com/jobs/view/2452368239/",
+        "title": "Senior Product Marketing Manager - CDN",
+        "location": "Azion - São Paulo, São Paulo, Brasil",
+        "date": "Publicado em 02/05/2021",
+        "track": "azion"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/1991102577",
-        "title": "Subsidiary PMM",
-        "location": "Microsoft - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 07/10/2020",
-        "track": "microsoft"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2166022432",
-        "title": "Analista de Marketing de Produtos",
-        "location": "Promax Bardahl BR - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 07/10/2020",
-        "track": "bardahl"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2003554755",
-        "title": "Head of Product Marketing Management",
-        "location": "Wildlife Studios - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 07/10/2020",
-        "track": "wildlife"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2152032005",
-        "title": "Professional Marketing Manager",
-        "location": "Align Technology - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 07/10/2020",
-        "track": "align"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/2152032005",
-        "title": "Product Marketing Specialist - Power Conversion System (PCS)",
-        "location": "ABB Group - São Paulo, São Paulo, Brasil",
-        "date": "Publicado em 07/10/2020",
-        "track": "abbgroup"
+        "url": "https://www.linkedin.com/jobs/view/2514223695/",
+        "title": "Product Marketing Manager",
+        "location": "Logitech - São Paulo, São Paulo, Brasil",
+        "date": "Publicado em 02/05/2021",
+        "track": "logitech"
     }
 ]
