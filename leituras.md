@@ -22,7 +22,7 @@ A lista no link acima explora todas as leituras, sem identificar uma sequência 
 Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ## Livros 2021 {#livros-2021}
-> 10 livros lidos - 1 finalizado em 2021
+> 11 livros lidos - 1 finalizado em 2021
 
 1. A Morte da Verdade (272 páginas)
 2. Pós-Verdade: A Nova Guerra Contra os Fatos em Tempos de Fake News (144 páginas)
