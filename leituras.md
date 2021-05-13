@@ -34,6 +34,7 @@ Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas
 8. The Cult of the Amateur: How blogs, MySpace, YouTube and the rest of today's user-generated media are killing our culture and economy (240 páginas)
 9. Open Learn: Products, Services and Branding (26 páginas)
 10. Excelência no Desenvolvimento de Produto: Como Criar e Desenvolver Produtos que Construam uma Imagem de Qualidade, Elegência, Emoção e Prazer (241 páginas)
+11. The Product-Led Organization: Drive Growth By Putting Product at the Center of Your Customer Experience (252 páginas)
 
 ---
 
