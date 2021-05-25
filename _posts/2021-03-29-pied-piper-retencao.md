@@ -4,7 +4,6 @@ title: O que o Pied Piper deveria fazer para melhorar a retenção de usuários?
 author: Felipe Barbosa
 permalink: /o-que-o-pied-piper-deveria-fazer-para-melhorar-a-retencao-de-usuarios/
 categories: produto
-canonical: https://felipecbarbosa.medium.com/o-que-o-pied-piper-deveria-fazer-para-melhorar-a-reten%C3%A7%C3%A3o-de-usu%C3%A1rios-51dfdb5d4eaf
 ---
 
 Esse post é uma tradução autorizada do artigo [What Pied Piper should be doing to boost retention](https://amplitude.com/blog/2016/06/23/pied-piper-boost-retention){:target="_blank"} publicado no blog da [Amplitude](https://amplitude.com/){:target="_blank"} e escrito por [Aditya Vempaty](https://amplitude.com/blog/author/adityaamplitude-com/){:target="_blank"}. Essa tradução eu fiz em 2016.

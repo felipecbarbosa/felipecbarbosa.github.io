@@ -4,7 +4,6 @@ title: Usando Jobs To Be Done em Product Marketing
 author: Felipe Barbosa
 permalink: /jobs-to-be-done-product-marketing/
 categories: marketing
-canonical: https://medium.com/jtbd/usando-jobs-to-be-done-em-product-marketing-73d709f6fe45
 ---
 
 Quando falamos sobre **Jobs To Be Done** é comum estarmos nos referindo ao seu uso para inovação e desenvolvimento de novos produtos. **Mas será que a teoria só pode ser aplicada nesse contexto?**

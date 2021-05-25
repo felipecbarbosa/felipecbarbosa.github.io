@@ -4,7 +4,6 @@ title: Como posicionar produtos de tecnologia
 author: Felipe Barbosa
 permalink: /como-posicionar-produtos-de-tecnologia/
 categories: marketing
-canonical: https://productmarketingbrasil.com.br/como-posicionar-produtos-de-tecnologia/
 ---
 
 *Esse artigo eu publiquei originalmente no blog do [Product Marketing Brasil](http://productmarketingbrasil.com.br/). Ele é inspirado na parte sobre [Posicionamento](/miopia-em-marketing-e-posicionamento/) do livro Crossing the Chasm.*

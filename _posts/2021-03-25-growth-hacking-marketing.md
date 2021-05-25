@@ -4,7 +4,6 @@ title: Growth Hacking é Marketing!
 author: Felipe Barbosa
 permalink: /growth-hacking-marketing/
 categories: marketing
-canonical: https://felipecbarbosa.medium.com/growth-hacking-%C3%A9-marketing-6bfb677c154d
 ---
 
 Até o final de 2013 eu nunca havia ouvido falar sobre Growth Hacking. A primeira vez que ouvi foi em uma conversa a respeito de uma vaga para trabalhar com Marketing em uma Startup que estava sendo lançada.

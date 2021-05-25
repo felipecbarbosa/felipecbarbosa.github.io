@@ -4,7 +4,6 @@ title: 5 comunidades para profissionais de Marketing de Produto
 author: Felipe Barbosa
 permalink: /5-comunidades-para-profissionais-de-marketing-de-produto/
 categories: marketing
-canonical: https://productmarketingbrasil.com.br/5-comunidades-para-profissionais-de-marketing-de-produto/
 ---
 
 Já compartilhei anteriormente [12 livros que todos profissionais de Marketing de Produto deveriam ler](https://productmarketingbrasil.com.br/12-livros-que-todos-os-profissionais-de-product-marketing-deveriam-ler/). Agora quero dar dicas de comunidades onde é possível se conectar e trocar experiências com outros profissionais do Brasil e do mundo.

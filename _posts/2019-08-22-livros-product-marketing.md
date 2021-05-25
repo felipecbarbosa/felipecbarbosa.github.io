@@ -4,7 +4,6 @@ title: 12 livros que todos os profissionais de product marketing deveriam ler
 author: Felipe Barbosa
 permalink: /12-livros-que-todos-os-profissionais-de-product-marketing-deveriam-ler/
 categories: marketing
-canonical: https://productmarketingbrasil.com.br/12-livros-que-todos-os-profissionais-de-product-marketing-deveriam-ler/
 ---
 
 *Esse artigo eu publiquei originalmente no blog do [Product Marketing Brasil](http://productmarketingbrasil.com.br/).*

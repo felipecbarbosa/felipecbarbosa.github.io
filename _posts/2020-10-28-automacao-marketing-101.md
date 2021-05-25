@@ -4,7 +4,6 @@ title: Automação de Marketing 101
 author: Felipe Barbosa
 permalink: /automacao-de-marketing-101/
 categories: marketing
-canonical: https://felipecbarbosa.medium.com/automa%C3%A7%C3%A3o-de-marketing-101-a4a4b346d95a
 ---
 
 Eu costumo escrever aqui sobre Marketing sempre levando mais para um lado de [Product Marketing](/marketing-de-produto/){:target="_blank"} ou assuntos mais estratégicos. Falo pouco sobre algum assunto mais tático, mas muitos não sabem, eu comecei a trabalhar com Automação de Marketing quando pouca gente trabalhava com isso por aqui. Esse texto eu escrevi pro blog do [Route](http://www.route.to/){:target="_blank"}, depois passei pro Medium acrescentando algumas coisas e agora reproduzo nesse meu blog.

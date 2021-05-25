@@ -4,7 +4,6 @@ title: Porque o Uber não é um táxi?
 author: Felipe Barbosa
 permalink: /porque-o-uber-nao-e-um-taxi/
 categories: marketing
-canonical: https://felipecbarbosa.medium.com/porque-o-uber-n%C3%A3o-%C3%A9-um-t%C3%A1xi-2d1efe72fd2d
 ---
 
 Esse texto eu escrevi em 2015, logo que o Uber estava chegando no Brasil e, principalmente, começando a operar em Porto Alegre. Era algo novo e estava naquele momento de briga entre profissionais do táxi e as pessoas que dirigiam pra Uber. Uma briga também de opinião pública sobre como a empresa operava nas cidades que entrava. O artigo foi construído a partir de uma apresentação que fiz quando estava na RedeHost para falar sobre Posicionamento.
