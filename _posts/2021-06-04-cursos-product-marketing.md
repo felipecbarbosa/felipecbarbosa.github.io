@@ -12,7 +12,7 @@ Por causa disso resolvi escrever esse artigo falando um pouco sobre os cursos qu
 
 Mas antes de começar quero deixar algo claro: 
 
-> No mercado brasileiro, por enquanto, não vejo que nenhum dos cursos que eu irei listar aqui tem um peso na hora do recrutamento. Vagas para [Product Management](/curso-pm3-review/){:target="_blank"} e para cargos de agilista algumas vezes listam como diferencial determinados cursos e certificações. Para Marketing de Produto ainda nenhum dos cursos atuais tem esse peso aqui.
+> No mercado brasileiro, por enquanto, não vejo que nenhum dos cursos que eu irei listar aqui tem um peso na hora do recrutamento. Vagas para [Product Management](/curso-pm3-review/){:target="_blank"} e para cargos de agilista algumas vezes listam como diferencial determinados cursos e certificações. Para Marketing de Produto ainda nenhum dos cursos atuais tem esse peso.
 
 Então, sempre que eu falo sobre dicas de cursos para quem quer migrar para Product Marketing eu gosto de enfatizar que deve ser encarado como mais uma forma, entre tantas outras, de adquirir conhecimento sobre a atividade.
 
@@ -211,7 +211,7 @@ Uma coisa legal que a PMA oferece e pode ser um caminho para profissionais brasi
 
 ## [Curso de Product Marketing](https://www.cursospm3.com.br/curso-product-marketing/){:target="_blank"}
 
-Antes de falar do curso da PM3 quero deixar bem claro que eu sou um dos instrutores do curso. Sim, tenho envolvimento e mas o que vou falar sobre o curso falaria mesmo se não tivesse envolvido.
+Antes de falar do curso da PM3 quero deixar bem claro que eu sou um dos instrutores do curso. Sim, tenho envolvimento mas o que vou falar sobre o curso falaria mesmo se não tivesse envolvido.
 
 Também sou embaixador no Brasil da Product Marketing Alliance a qual citei o curso no tópico acima. 
 
