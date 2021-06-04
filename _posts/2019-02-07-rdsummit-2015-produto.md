@@ -83,14 +83,14 @@ O Survey.io é uma plataforma de pesquisa elaborada por Sean Ellis da Qualaroo e
 
 O que fica da palestra da Janna Bastow é que, na verdade, o PMF não é uma ilusão. Ele só não vem fácil como muitos acreditam.
 
-Lições
+Lições:
 
-- Product Market Fit não é fácil de encontrar
-- Ter muitos betas e muitos Testers não mostra PMF
+- [Product Market Fit](https://www.cursospm3.com.br/blog/produto-alem-do-product-market-fit/){:target="_blank"} não é fácil de encontrar;
+- Ter muitos betas e muitos Testers não mostra PMF;
 - 10 clientes não é PMF. Algo como 1000 clientes pode ser
-- Nós não somos nosso mercado
-- Teste teste teste
-- Survey.io no lugar do NPS
+- Nós não somos nosso mercado;
+- Teste teste teste;
+- Survey.io no lugar do NPS.
 
 ## Manoel Lemos
 
