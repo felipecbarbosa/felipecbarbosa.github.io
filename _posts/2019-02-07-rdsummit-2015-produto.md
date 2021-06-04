@@ -8,7 +8,7 @@ category: produto
 
 Foi no ano de 2015 que comecei a me interessar e estudar sobre Product Management. Nesse mesmo ano fui pela segunda vez no RD Summit e resolvi priorizar as palestras que falavam sobre Gerenciamento de Produto.
 
-Esse meu interesse veio devido ao meu trabalho no **Route**. Durante 2014 eu era novato nesse meio de Startups, empresas de tecnologia e modelo SaaS de produtos digitais. Havia assumido como _CMO_ da empresa, sendo a única pessoa que fazia toda e qualquer interação com usuários.
+Esse meu interesse veio devido ao meu trabalho no **Route**. Durante 2014 eu era novato nesse meio de Startups, empresas de tecnologia e modelo SaaS de produtos digitais. Havia assumido como a pessoa para tocar o Marketing da empresa, sendo a única pessoa que fazia toda e qualquer interação com usuários.
 
 Mas como não tinha muita experiência com [desenvolvimento de produto](/produto/) eu foquei na parte que dominava mais: [Marketing](/marketing/).
 
