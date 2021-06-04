@@ -108,7 +108,7 @@ A [comunidade no Slack da Product Marketing Alliance](https://join.slack.com/t/p
 
 Apesar dessa relevância crescente da PMA, acho que o custo benefício do curso pode não ser o melhor para os profissionais brasileiros.
 
-Infelizmente com o valor do Dólar hoje (no dia 01 de junho de 2021) e com um curso de apenas 10h (pouco se compararmos com cursos de Product Management que costumam ter entre 30h e 40h), fica muito dinheiro para que o certificado não tenha tanto peso no mercado.
+Infelizmente com o valor do Dólar hoje (no dia 04 de junho de 2021) e com um curso de apenas 10h (pouco se compararmos com cursos de Product Management que costumam ter entre 30h e 40h), fica muito dinheiro para que o certificado não tenha tanto peso no mercado.
 
 ### O que você vai aprender?
 
