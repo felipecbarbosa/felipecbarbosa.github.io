@@ -92,7 +92,10 @@ Neste último módulo do curso, nós te apresentaremos técnicas que vão do est
 
 Essa é uma visão geral sobre o curso de *Growth* da Cursos PM3, uma escola que é referência sobre Produto no Brasil. Por ter feito outro curso deles sei que é conteúdo sério e bem completo sobre o que se propõem a ensinar.
 
-É um curso que está na sua fase de pré-venda.
+Caso você tenha interesse em adquirir o curso de Product Growth da PM3 você pode usar um desses 2 cupons de desconto:
+
+Curso Product Growth (parcelado em 6x e 6 meses de acesso): [Acesse aqui](https://conteudo.cursospm3.com.br/a/2147484684/BY7VEvg8){:target="_blank"}
+Curso Product Growth (parcelado em 12x e 12 meses de acesso): [Acesse aqui](https://conteudo.cursospm3.com.br/a/2147484685/BY7VEvg8){:target="_blank"}
 
 ## Curso Growth Hacking da FIAP
 
