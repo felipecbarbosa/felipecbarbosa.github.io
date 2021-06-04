@@ -342,4 +342,4 @@ Já o curso da PM3 além da vantagem no pagamento (poder parcelar), mesmo sendo 
 
 Os 3 cursos são bons e valem a pena, cabe a você olhar para onde se encontra profissionalmente e entender qual é a melhor opção.
 
-Qualquer dúvida você pode enviar um email para felipe[at]felipebarbosa[ponto]me.
+Qualquer dúvida você pode enviar um email para felipe **[@]** felipebarbosa **[.]** me.
