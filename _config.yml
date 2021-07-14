@@ -21,7 +21,7 @@ theme_settings:
         
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/">Github Pages</a><br>Felipe Barbosa 2020
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/">Github Pages</a><br>Felipe Barbosa 2021
 
   # Icons
   rss: true
