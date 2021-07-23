@@ -22,7 +22,7 @@ A lista no link acima explora todas as leituras, sem identificar uma sequência 
 Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ## Livros 2021 {#livros-2021}
-> 12 livros lidos - 1 finalizado em 2021
+> 14 livros lidos - 1 finalizado em 2021
 
 1. A Morte da Verdade (272 páginas)
 2. Pós-Verdade: A Nova Guerra Contra os Fatos em Tempos de Fake News (144 páginas)
@@ -36,6 +36,8 @@ Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas
 10. Excelência no Desenvolvimento de Produto: Como Criar e Desenvolver Produtos que Construam uma Imagem de Qualidade, Elegência, Emoção e Prazer (241 páginas)
 11. The Product-Led Organization: Drive Growth By Putting Product at the Center of Your Customer Experience (252 páginas)
 12. The Business Value of Developer Relations: How and Why Technical Communities Are Key To Your Success (266 páginas)
+13. Ó, o Globo: A História de um Biscoit (249 páginas)
+14. As 100 Piores Ideias da Humanidade: As Piores Sacadas da Humanidade que se transformaram nas melhores roubadas (420 páginas)
 
 ---
 
