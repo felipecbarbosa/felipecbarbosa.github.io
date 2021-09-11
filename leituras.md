@@ -36,7 +36,7 @@ Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas
 10. Excelência no Desenvolvimento de Produto: Como Criar e Desenvolver Produtos que Construam uma Imagem de Qualidade, Elegência, Emoção e Prazer (241 páginas)
 11. The Product-Led Organization: Drive Growth By Putting Product at the Center of Your Customer Experience (252 páginas)
 12. The Business Value of Developer Relations: How and Why Technical Communities Are Key To Your Success (266 páginas)
-13. Ó, o Globo: A História de um Biscoit (249 páginas)
+13. Ó, o Globo: A História de um Biscoito (249 páginas)
 14. As 100 Piores Ideias da Humanidade: As Piores Sacadas da Humanidade que se transformaram nas melhores roubadas (420 páginas)
 15. Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century (299 páginas)
 16. The New Kingmakers: How developers conquered the world (48 páginas)
