@@ -40,6 +40,7 @@ Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas
 14. As 100 Piores Ideias da Humanidade: As Piores Sacadas da Humanidade que se transformaram nas melhores roubadas (420 páginas)
 15. Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century (299 páginas)
 16. The New Kingmakers: How developers conquered the world (48 páginas)
+17. C Programming Language: A step by step guide to learn C Programming in 7 days (105 páginas)
 
 ---
 
