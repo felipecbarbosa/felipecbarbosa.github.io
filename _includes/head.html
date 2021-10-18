@@ -134,38 +134,19 @@
 	<script src="https://cdn.lr-ingest.io/LogRocket.min.js" crossorigin="anonymous"></script>
 	<script>window.LogRocket && window.LogRocket.init('cfanxz/my-site');</script>
 
-	<!-- Leadfeeder Code -->
+	<!-- Autopilot App -->
+	<!-- Autopilot felipecbarbosa capture code -->
 	<script>
-		(function(){
-	  
-		  window.ldfdr = window.ldfdr || {};
-		  (function(d, s, ss, fs){
-			fs = d.getElementsByTagName(s)[0];
-	  
-			function ce(src){
-			  var cs  = d.createElement(s);
-			  cs.src = src;
-			  setTimeout(function(){fs.parentNode.insertBefore(cs,fs)}, 1);
-			}
-	  
-			ce(ss);
-		  })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_JMvZ8gknMzd82pOd.js');
-		})();
-	  </script>
-
-	<!-- Facebook Pixel Code -->
-	<script>
-	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-	document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-	fbq('init', '491510604392955');
-	fbq('track', "PageView");</script>
-	<noscript><img height="1" width="1" style="display:none"
-	src="https://www.facebook.com/tr?id=491510604392955&ev=PageView&noscript=1"
-	/></noscript>
+		window.ap3c = window.ap3c || {};
+		var ap3c = window.ap3c;
+		ap3c.cmd = ap3c.cmd || [];
+		ap3c.cmd.push(function() {
+			ap3c.init('YWzNktdi-Q10Q_DSZmVsaXBlY2JhcmJvc2E', 'https://capture-api.autopilotapp.com/');
+			ap3c.track({v: 0});
+		});
+		var s, t; s = document.createElement('script'); s.type = 'text/javascript'; s.src = "https://cdn3l.ink/app.js";
+		t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);
+	</script>
 
 	<!-- Segment -->		
 	<script>
@@ -178,12 +159,6 @@
 	<!-- Mailchimp Connected Sites Integration -->
 	<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d761afe0b6c97e9f4579c61bf/498a7788f62f2a89c3f1ab97b.js");</script>
 	
-	<!-- Dreamdata.io -->
-	<script>
-		!function(t){var n={};function e(a){if(n[a])return n[a].exports;var i=n[a]={i:a,l:!1,exports:{}};return t[a].call(i.exports,i,i.exports,e),i.l=!0,i.exports}e.m=t,e.c=n,e.d=function(t,n,a){e.o(t,n)||Object.defineProperty(t,n,{enumerable:!0,get:a})},e.r=function(t){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(t,"__esModule",{value:!0})},e.t=function(t,n){if(1&n&&(t=e(t)),8&n)return t;if(4&n&&"object"==typeof t&&t&&t.__esModule)return t;var a=Object.create(null);if(e.r(a),Object.defineProperty(a,"default",{enumerable:!0,value:t}),2&n&&"string"!=typeof t)for(var i in t)e.d(a,i,function(n){return t[n]}.bind(null,i));return a},e.n=function(t){var n=t&&t.__esModule?function(){return t.default}:function(){return t};return e.d(n,"a",n),n},e.o=function(t,n){return Object.prototype.hasOwnProperty.call(t,n)},e.p="",e(e.s=0)}([function(t,n){!function(){window.analytics||(window.analytics=[]),window.analytics.methods=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group","on","once","off"],window.analytics.factory=function(t){return function(){var n=Array.prototype.slice.call(arguments);return n.unshift(t),window.analytics.push(n),window.analytics}};for(var t=0;t<window.analytics.methods.length;t++){var n=window.analytics.methods[t];window.analytics[n]=window.analytics.factory(n)}analytics.load=function(t){if(!document.getElementById("dreamdata-analytics")){window.a=window.analytics;var n=document.createElement("script");n.async=!0,n.id="dreamdata-analytics",n.type="text/javascript",n.src="https://cdn.dreamdata.cloud/scripts/analytics/v1/dreamdata.min.js",n.addEventListener?n.addEventListener("load",(function(n){"function"==typeof t&&t(n)}),!1):n.onreadystatechange=function(){"complete"!=this.readyState&&"loaded"!=this.readyState||t(window.event)};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)}},
-		analytics.load((function(){for(analytics.initialize({"Dreamdata.io":{apiKey:"598614e1-021c-4ddb-9337-6b846b485b2a"}});window.a.length>0;){var t=window.a.shift(),n=t.shift();analytics[n]&&analytics[n].apply(analytics,t)}})),analytics.page()}()}]);
-	</script>
-
 	<!-- Freshpaint -->
 	<script type="text/javascript">
 		(function(c,a){if(!a.__SV){var b=window;try{var d,m,j,k=b.location,f=k.hash;d=function(a,b){return(m=a.match(RegExp(b+"=([^&]*)")))?m[1]:null};f&&d(f,"fpState")&&(j=JSON.parse(decodeURIComponent(d(f,"fpState"))),"fpeditor"===j.action&&(b.sessionStorage.setItem("_fpcehash",f),history.replaceState(j.desiredHash||"",c.title,k.pathname+k.search)))}catch(n){}var l,h;window.freshpaint=a;a._i=[];a.init=function(b,d,g){function c(b,i){var a=i.split(".");2==a.length&&(b=b[a[0]],i=a[1]);b[i]=function(){b.push([i].concat(Array.prototype.slice.call(arguments,
