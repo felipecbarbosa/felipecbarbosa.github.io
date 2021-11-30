@@ -139,6 +139,19 @@ Mas no mês de outubro, duas semanas antes do evento, participei de um webinar o
 
 O mediador da conversa foi o Raphael Dyxklay.
 
+### [Papel do Product Marketing Manager](https://www.youtube.com/watch?v=XCVzVh-OrnE){:target="_blank"}
+
+Em abril de 2021 eu participei de uma live da [Coproduto](https://www.meetup.com/pt-BR/meetupdeproduto/){:target="_blank"} para falar sobre o papel do Product Marketing Manager e como esse profissional se relaciona com outros times, principalmente o time de produto.
+
+### [Curso de Product Marketing da PM3](https://www.cursospm3.com.br/curso-product-marketing/){:target="_blank"}
+
+Em fevereiro de 2021 fui convidado pelo time da [Cursos PM3](https://www.cursospm3.com.br){:target="_blank"} para ser um dos instrutores do curso de Product Marketing que a escola estava desenvolvendo.
+
+Acabei colaborando e gravando duas aulas, uma de Análise Competitiva e outra de Métricas para Go-To-Market. Quem quiser fazer o curso eu tenho dois links de descontos:
+
+- [Curso Product Marketing - 10% de desconto - 12 meses de acesso](https://conteudo.cursospm3.com.br/a/2147498317/BY7VEvg8){:target="_blank"}
+- [Curso Product Marketing - 10% de desconto - 6 meses de acesso](https://conteudo.cursospm3.com.br/a/2147498316/BY7VEvg8){:target="_blank"}
+
 ---
 ---
 ---
