@@ -21,8 +21,11 @@ A lista no link acima explora todas as leituras, sem identificar uma sequência 
 
 Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
+## Livros 2022 {#livros-2022}
+> Loading...
+
 ## Livros 2021 {#livros-2021}
-> 18 livros lidos - 1 finalizado em 2021
+> 18 livros lidos - 1 finalizado em 2021 - 1 incompleto em 2021 - 4642 páginas lidas - 12 páginas/dia em média no ano
 
 1. A Morte da Verdade (272 páginas)
 2. Pós-Verdade: A Nova Guerra Contra os Fatos em Tempos de Fake News (144 páginas)
@@ -47,8 +50,12 @@ Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas
 
 1. [Finalizado em 2021] Playing to Win: How Strategy Really Works (245 páginas, 190 lidas)
 
+---
+
+1. [Incompleto] Brand Naming: The complete guide to creating a name for your company, product, or service (227 páginas, 60 páginas lidas)
+
 ## Livros 2020 {#livros-2020}
-> 20 livros lidos - 2 incompletos - 4822 páginas lidas - 13 páginas/dia em média até o momento
+> 20 livros lidos - 2 incompletos - 4822 páginas lidas - 13 páginas/dia em média no ano
 
 1. Product Management (460 páginas)
 2. Essential Kanban Condensed (102 páginas)
