@@ -22,7 +22,11 @@ A lista no link acima explora todas as leituras, sem identificar uma sequência 
 Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ## Livros 2022 {#livros-2022}
-> Loading...
+> 1 finalizado em 2022
+
+---
+
+[Finalizado em 2022] Brand Naming: The complete guide to creating a name for your company, product, or service (227 páginas, 167 páginas lidas) 
 
 ## Livros 2021 {#livros-2021}
 > 18 livros lidos - 1 finalizado em 2021 - 1 incompleto em 2021 - 4642 páginas lidas - 12 páginas/dia em média no ano
