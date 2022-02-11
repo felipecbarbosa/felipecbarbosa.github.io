@@ -1,6 +1,6 @@
 #Sobre mim
 
-Meu nome é Felipe e sou Product Marketing Manager na Cortex e também embaixador da Product Marketing Alliance no Brasil na cidade de São Paulo.
+Meu nome é Felipe e sou Product Marketing Manager na VTEX e também embaixador da Product Marketing Alliance no Brasil na cidade de São Paulo.
 
 Meu linkedin é https://www.linkedin.com/in/felipecardosobarbosa/ e você pode entrar em contato comigo por email felipe[at]felipebarbosa.me ou me chamar [diretamente via chat](https://www.felipebarbosa.me/sobre/#hs-chat-open).
 
