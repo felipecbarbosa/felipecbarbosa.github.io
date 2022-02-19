@@ -9,25 +9,36 @@ Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e **Produto**
 
 No momento sou Product Marketing Manager na VTEX e também embaixador e membro-fundador da Product Marketing Alliance aqui no Brasil.
 
-Também atualmente sou um dos instrutores do [Curso de Product Marketing da PM3](https://www.cursospm3.com.br/curso-product-marketing/){:target="_blank"} que está em pré-venda.
+Também atualmente sou um dos instrutores do [Curso de Product Marketing da PM3](https://www.cursospm3.com.br/curso-product-marketing/){:target="_blank"} e se você tiver interesse em fazer o curso me [chama no chat](#hs-chat-open) porque tenho cupom de desconto.
 
 Tive a honra e a felicidade de ser citado na lista de [50 profissionais de produto brasileiros](/files/50-profissionais-produto.pdf){:target="_blank"} a serem seguidos elaborada pela [Journey](https://somosjourney.com/){:target="_blank"}.
+
+Também entrei na [lista de 2021 das 100 pessoas de Product Marketing influentes](/files/pma-top-100-influencers-2021.pdf) e dos [30 Product Marketing Managers para acompanhar em 2022](https://www.productmarketingalliance.com/30-product-marketers-to-look-out-for-in-2022/){:target="_blank"}, ambas criadas pela Product Marketing Alliance.
 
 Tenho **sólida experiência e conhecimento em Marketing e um entendimento profundo no desenvolvimento de produtos digitais** tendo trabalhado com times de [Produto](/produto/) e Tecnologia tendo participado de atividades como: Customer e Product Development, Product Discovery, [Marketing de Produto](/marketing-de-produto/), Product Demos and Sales Calls, Suporte, Customer Lifecycle Marketing e Estratégia de Produto.
 
 Tenho interesse especial em Marketing Estratégico, Marketing de Produto, Gerenciamento de Produto, Jobs to be Done, Product Led Growth e Tecnologia.
 
-Ferramentas que tenha familiaridade: Analytics (Google Analytics, Mixpanel, Heap, Hotjar, Excel); Tag Management (Segment, Google Tag Manager); Marketing Automation (Eloqua, RD Station, Autopilot, Drip, Mailchimp); Live Chat/Customer Support (Intercom, Drift); Lead Generation (Leadpages, SumoMe); CRM (Salesforce, Pipedrive); Sales Automation (Woodpecker, Reply); Developer (Zapier, Git, Netlify, Jekyll).
+Ferramentas que tenha familiaridade: Analytics (Google Analytics, Mixpanel, Heap, Hotjar, Excel); Tag Management (Segment, Google Tag Manager); Marketing Automation (Eloqua, RD Station, Autopilot, Drip, Mailchimp); Live Chat/Customer Support (Intercom, Drift); Lead Generation (Leadpages, SumoMe); CRM (Salesforce, Pipedrive); Sales Automation (Woodpecker, Reply); Developer (Zapier, Git, Netlify, Vercel, Jekyll).
 
 ## Experiência Profissional
 
 ### Gerente de Marketing de Produto (Product Marketing Manager) @ VTEX (maio 2021 - atual)
 
+Trabalho no time de Product Marketing da VTEX, dentro da organização de Growth. Sou responsável pelo Marketing de Produto do VTEX IO, a plataforma de desenvolvimento da VTEX que tem como foco principal de mercado times técnicos e de desenvolvimento.
+
+As minhas principais atribuições incluem:
+
+- Definição de Posicionamento, Messaging, Naming e Packaging dos produtos junto aos times de Produto, Engenharia e Growth;
+- Desenvolvimento e execução do Go-To-Market e plano de lançamento dos produtos trabalhando com times do Brasil e exterior;
+- Trabalho de relacionamento com Desenvolvedores e Developer Marketing;
+- Pesquisa de mercado e análise competitiva.
+
 ### Gerente de Marketing de Produto (Product Marketing Manager) @ Cortex Intelligence (agosto 2020 - abril 2021)
 
-Respondo ao Diretor de Marketing e compartilho atividades e objetivos com o time de Vendas, Produto e Growth Ops.
+Respondia ao Diretor de Marketing e compartilhava atividades e objetivos com o time de Vendas, Produto e Growth Ops.
 
-Sou responsável por duas ofertas diferentes da empresa e minhas principais atividades são:
+Fui responsável por duas ofertas diferentes da empresa e minhas principais atividades são:
 
 - Criar materiais para enablement do time de Vendas para que os usem durante a jornada de vendas;
 - Definir e criar estratégias de Go-To-Market, alinhando e validando com o time de Produto e diretores de Marketing, Vendas e Growth;
