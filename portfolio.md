@@ -55,7 +55,7 @@ Web Archive link: [http://web.archive.org/web/20210125235953/http://help.route.t
 
 <br>
 <div style="text-align:center;">
-<img alt= "Route Product Hunt launch" src="https://www.producthunt.com/posts/route-1" />
+<img alt= "Route Product Hunt launch" src="https://res.cloudinary.com/felipe-barbosa/image/upload/q_100/v1646376505/route-product-hunt_yceprk.png" />
 </div>
 <br>
 
