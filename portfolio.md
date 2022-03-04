@@ -22,7 +22,7 @@ Some of my contributions:
 
 Defined the Positioning and Messaging of the product. Wrote the copy in the website and planed the content sctructure, images and navigation. Worked with the frontend developer to launch the site.
 
-Route's website is no longer available but it's possible to access it through this link from Web Archive: http://web.archive.org/web/20211223070727/http://www.route.to/
+Route's website is no longer available but it's possible to access it through this link from Web Archive: [http://web.archive.org/web/20211223070727/http://www.route.to/](http://web.archive.org/web/20211223070727/http://www.route.to/){:target="_blank"}
 
 ### Product Updates
 
@@ -36,8 +36,8 @@ Built the Product Update page to be our Change Log and wrote blog posts about ou
 
 Web Archive links:
 
-- Product Updates page: http://web.archive.org/web/20210422171510/http://help.route.to/product-updates/
-- Product Update blog post example: http://web.archive.org/web/20210127060808/http://insights.route.to/blog/2016/09/21/custom-attributes-new-contant-and-triggers/
+- Product Updates page: [http://web.archive.org/web/20210422171510/http://help.route.to/product-updates/](http://web.archive.org/web/20210422171510/http://help.route.to/product-updates/){:target="_blank"}
+- Product Update blog post example: [http://web.archive.org/web/20210127060808/http://insights.route.to/blog/2016/09/21/custom-attributes-new-contant-and-triggers/](http://web.archive.org/web/20210127060808/http://insights.route.to/blog/2016/09/21/custom-attributes-new-contant-and-triggers/){:target="_blank"}
 
 ### Product Documentation
 
@@ -49,7 +49,7 @@ Web Archive links:
 
 Wrote Route's documentation page.
 
-Web Archive link: http://web.archive.org/web/20210125235953/http://help.route.to/
+Web Archive link: [http://web.archive.org/web/20210125235953/http://help.route.to/](http://web.archive.org/web/20210125235953/http://help.route.to/){:target="_blank"}
 
 ### Product Launch
 
@@ -63,13 +63,13 @@ Route was launched in Beta in late 2014 but it was a soft launch and we rolled o
 
 I was in charge of launching it and our main goal was being featured in Product Hunt.
 
-Product Hunt link: https://www.producthunt.com/posts/route-1
+Product Hunt link: [https://www.producthunt.com/posts/route-1](https://www.producthunt.com/posts/route-1){:target="_blank"}
 
 ### Setup Guide Ebook
 
 Wrote and designed our first Setup Guide.
 
-Ebook link: https://www.felipebarbosa.me/files/route-setup-guide.pdf
+Ebook link: [https://www.felipebarbosa.me/files/route-setup-guide.pdf](https://www.felipebarbosa.me/files/route-setup-guide.pdf){:target="_blank"}
 
 ## Grupo A
 
@@ -84,6 +84,8 @@ Grupo A is one of the leading education companies in Brazil. They have a portfol
 <br>
 
 Worked with an external agency to build the new Blackboard site managed by Grupo A. Defined the Messaging and wrote the copy the agency needed to use in the website. Also guided the agency in how we should structure the pages and content of the website.
+
+Website link: [https://blackboard.grupoa.com.br/](https://blackboard.grupoa.com.br/){:target="_blank"}
 
 ### Video Demo
 
@@ -117,7 +119,7 @@ The way we talked about the company and our products was slightely different bec
 
 The company no longer exists because it was [acquired by Nubank through a Acqui-hiring](https://plataformatec.com/){:target="_blank"}.
 
-Web Archive link: https://web.archive.org/web/20200114180432/https://plataformatec.com/en/
+Web Archive link: [https://web.archive.org/web/20200114180432/https://plataformatec.com/en/](https://web.archive.org/web/20200114180432/https://plataformatec.com/en/){:target="_blank"}
 
 ### Customer Cases
 
@@ -149,13 +151,13 @@ I was invited to be an instructor for their Product Marketing course. I gave two
 </div>
 <br>
 
-Here's the course curriculum (in Portuguese): https://s3.amazonaws.com/kajabi-storefronts-production/sites/27802/themes/2148069834/downloads/G5ZknPhlRHGjGTCzycRX_Ementa_de_aniversa_rio_-_Curso_de_Product_Marketing_PM3-min.pdf
+Here's the course curriculum (in Portuguese): [https://s3.amazonaws.com/kajabi-storefronts-production/sites/27802/themes/2148069834/downloads/G5ZknPhlRHGjGTCzycRX_Ementa_de_aniversa_rio_-_Curso_de_Product_Marketing_PM3-min.pdf](https://s3.amazonaws.com/kajabi-storefronts-production/sites/27802/themes/2148069834/downloads/G5ZknPhlRHGjGTCzycRX_Ementa_de_aniversa_rio_-_Curso_de_Product_Marketing_PM3-min.pdf){:target="_blank"}
 
 ## Personal Accomplishments
 
-I was voted one of the 100 Product Marketing influencers: https://www.felipebarbosa.me/files/pma-top-100-influencers-2021.pdf
+I was voted one of the 100 Product Marketing influencers: [https://www.felipebarbosa.me/files/pma-top-100-influencers-2021.pdf](https://www.felipebarbosa.me/files/pma-top-100-influencers-2021.pdf){:target="_blank"}
 
-I was also featured in PMA's 30+ Product Marketers to look out for in 2022: https://www.productmarketingalliance.com/30-product-marketers-to-look-out-for-in-2022/
+I was also featured in PMA's 30+ Product Marketers to look out for in 2022: [https://www.productmarketingalliance.com/30-product-marketers-to-look-out-for-in-2022/](https://www.productmarketingalliance.com/30-product-marketers-to-look-out-for-in-2022/){:target="_blank"}
 
 ---
 
