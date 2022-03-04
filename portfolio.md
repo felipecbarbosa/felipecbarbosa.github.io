@@ -12,7 +12,7 @@ Route was a startup building a Marketing Automation Platform. Joined the company
 
 Some of my contributions:
 
-1. Product Positioning and Messaging
+### Product Positioning and Messaging
 
 <br>
 <div style="text-align:center;">
@@ -24,7 +24,7 @@ Defined the Positioning and Messaging of the product. Wrote the copy in the webs
 
 Route's website is no longer available but it's possible to access it through this link from Web Archive: http://web.archive.org/web/20211223070727/http://www.route.to/
 
-2. Product Updates
+### Product Updates
 
 <br>
 <div style="text-align:center;">
@@ -39,7 +39,7 @@ Web Archive links:
 - Product Updates page: http://web.archive.org/web/20210422171510/http://help.route.to/product-updates/
 - Product Update blog post example: http://web.archive.org/web/20210127060808/http://insights.route.to/blog/2016/09/21/custom-attributes-new-contant-and-triggers/
 
-3. Product Documentation
+### Product Documentation
 
 <br>
 <div style="text-align:center;">
@@ -51,7 +51,7 @@ Wrote Route's documentation page.
 
 Web Archive link: http://web.archive.org/web/20210125235953/http://help.route.to/
 
-4. Product Launch
+### Product Launch
 
 <br>
 <div style="text-align:center;">
@@ -65,7 +65,7 @@ I was in charge of launching it and our main goal was being featured in Product 
 
 Product Hunt link: https://www.producthunt.com/posts/route-1
 
-5. Setup Guide Ebook
+### Setup Guide Ebook
 
 Wrote and designed our first Setup Guide.
 
@@ -75,7 +75,7 @@ Ebook link: https://www.felipebarbosa.me/files/route-setup-guide.pdf
 
 Grupo A is one of the leading education companies in Brazil. They have a portfolio of products for universities, from books to Learning Management Systems. I worked in the team representing Blackboard in Brazil.
 
-1. Website Structure, Messaging and Copy
+### Website Structure, Messaging and Copy
 
 <br>
 <div style="text-align:center;">
@@ -85,13 +85,13 @@ Grupo A is one of the leading education companies in Brazil. They have a portfol
 
 Worked with an external agency to build the new Blackboard site managed by Grupo A. Defined the Messaging and wrote the copy the agency needed to use in the website. Also guided the agency in how we should structure the pages and content of the website.
 
-2. Video Demo
+### Video Demo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Ra3zA_5n6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Wrote the script and recorded the platform demo to be displayed in our Booth at CIAED's event, one of the major events in Brazil for the higher education market.
 
-3. Platform Overview
+### Platform Overview
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e3wRCgT8smg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -103,7 +103,7 @@ Plataformatec was a well known Software Development consultancy among companies 
 
 Joined the company to work in their new Positioning in the market. 
 
-1. Website Messaging
+### Website Messaging
 
 <br>
 <div style="text-align:center;">
@@ -119,7 +119,7 @@ The company no longer exists because it was [acquired by Nubank through a Acqui-
 
 Web Archive link: https://web.archive.org/web/20200114180432/https://plataformatec.com/en/
 
-2. Customer Cases
+### Customer Cases
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l5nfMEFnkP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -131,7 +131,7 @@ Worked with our Video Producer and PR agencies to record two customer cases.
 
 VTEX is one of the biggest digital commerce companies in the world. I'm the PMM overlooking all of VTEX technical products. I don't have publicly available work to share but I helped on of our teams during the launch of our Live Shopping app.
 
-1. Launch video
+### Launch Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oKYgnbVxewM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
