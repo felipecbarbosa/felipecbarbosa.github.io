@@ -151,7 +151,7 @@ I was invited to be an instructor for their Product Marketing course. I gave two
 </div>
 <br>
 
-Here's the course curriculum (in Portuguese): [https://s3.amazonaws.com/kajabi-storefronts-production/sites/27802/themes/2148069834/downloads/G5ZknPhlRHGjGTCzycRX_Ementa_de_aniversa_rio_-_Curso_de_Product_Marketing_PM3-min.pdf](https://s3.amazonaws.com/kajabi-storefronts-production/sites/27802/themes/2148069834/downloads/G5ZknPhlRHGjGTCzycRX_Ementa_de_aniversa_rio_-_Curso_de_Product_Marketing_PM3-min.pdf){:target="_blank"}
+[Here's the course curriculum (in Portuguese)](https://s3.amazonaws.com/kajabi-storefronts-production/sites/27802/themes/2148069834/downloads/G5ZknPhlRHGjGTCzycRX_Ementa_de_aniversa_rio_-_Curso_de_Product_Marketing_PM3-min.pdf){:target="_blank"}
 
 ## Personal Accomplishments
 
