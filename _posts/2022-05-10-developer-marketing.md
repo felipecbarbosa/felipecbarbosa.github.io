@@ -28,7 +28,7 @@ Estou trazendo DevRel para conversa porque quero fazer uma distinção que vai i
 
 Na minha visão DevRel é uma pessoa. Uma posição na empresa. Uma área, assim como Product Marketing. É uma especialização que precisa acontecer para que tenham pessoas e recursos específicos para as iniciativas. Iniciativas essas que são importantes para as empresas. Empresas que tem (ou deveriam ter) estratégias para onde estão indo no mercado.
 
-Eu sou uma pessoa que acredita muito no Marketing. Acredita no Marketing como disciplina e como peça fundamental nas estratégias das empresas. No Marketing que vai além do departamente, além da aquisição e ponta do funil. Acredito no Marketing estratégico em todas suas camadas.
+Eu sou uma pessoa que acredita muito no Marketing. Acredita no Marketing como disciplina e como peça fundamental nas estratégias das empresas. No Marketing que vai além do departamento, além da aquisição e ponta do funil. Acredito no Marketing estratégico em todas suas camadas.
 
 Assim como Product Marketing faz parte de Marketing como disciplina ampla e que engloba os pontos de contato de uma empresa com a sociedade na geração de valor, vejo que DevRel também estaria nesse universo.
 
