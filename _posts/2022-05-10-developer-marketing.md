@@ -12,7 +12,7 @@ Em diferentes fases da minha vida profissional eu trabalhei em produtos que tinh
 
 Antes de começar quero falar um pouco sobre outro assunto que tá em alta: DevRel ou Developer Relations.
 
-Developer Relations é um assunto que eu vejo tem algumas intersecções com Developer Marketing. Não quero me alongar muito por aqui sobre isso e recomendo muito acompanhar a [Pachi Parra](https://www.pachicodes.com/){:target="_blank"} que é uma referência no tema. Vou pegar um texto dela sobre o básico de [DevRel](https://dev.to/feministech/pt-br-devrel-o-basico-4e7m){:target="_blank"} para dar contexto o que é antes de continuar falando sobre Developer Marketing:
+Developer Relations é um assunto que eu vejo que tem algumas intersecções com Developer Marketing. Não quero me alongar muito por aqui sobre isso e recomendo muito acompanhar a [Pachi Parra](https://www.pachicodes.com/){:target="_blank"} que é uma referência no tema. Vou pegar um texto dela sobre o básico de [DevRel](https://dev.to/feministech/pt-br-devrel-o-basico-4e7m){:target="_blank"} para dar contexto o que é antes de continuar falando sobre Developer Marketing:
 
 > Um DevRel é uma ponte entre a comunidade (devs) e a empresa.
 
@@ -92,17 +92,17 @@ Hoje eu participo de comunidades de empresas como [Shopify](https://discord.gg/s
 
 Na [VTEX estamos construindo a nossa própria comunidade](https://community.vtex.com/){:target="_blank"} porque entendemos a importância desse ambiente para que nossos usuários técnicos principalmente, mas não-técnicos também, possam interagir.
 
-No passo eu lembro que em uma das empresas que trabalhei criamos uma comunidade só para ter pessoas interessadas em serem Beta Testers de nosso produto focado no público de desenvolvimento. Era possível sentir que as pessoas participando, trocando ideias, dando sugestões e ajudando umas as outras com dúvidas que iam surgindo, se sentiam estimuladas a participar.
+Eu lembro que em uma das empresas que trabalhei criamos uma comunidade só para ter pessoas interessadas em serem Beta Testers de nosso produto focado no público de desenvolvimento. Era possível sentir que as pessoas participando, trocando ideias, dando sugestões e ajudando umas as outras com dúvidas que iam surgindo, se sentiam estimuladas a participar.
 
-Podemos dizer que construção de comunidade é uma iniciativa que podem ser boas para outros públicos, mas entendo que pro público técnico é essencial.
+Podemos dizer que construção de comunidade é uma iniciativa que pode ser boas para outros públicos, mas entendo que pro público técnico é essencial.
 
 ### Ser direto ao ponto
 
-Outra coisa que é comum ouvirmos e acho que vem daí muito da mística que pessoas desenvolvedoras não gostam de Marketing é que as mensagens de Marketing costumam ser muito abstratas e por isso não funcionam.
+Outra coisa que é comum ouvirmos, e acho que vem daí muito da mística que pessoas desenvolvedoras não gostam de Marketing, é que as mensagens de Marketing costumam ser muito abstratas e por isso não funcionam.
 
 São muito aspiracionais e isso de certa forma não conecta com esse público.
 
-Primeiro que posso dizer que tem muita mensagem que fica tão num nível tão abstrato que eu duvido que funcione com qualquer segmento. Mas eu entendo o problema.
+Primeiro, que posso dizer que tem muita mensagem que fica num nível tão abstrato que eu duvido que funcione com qualquer segmento. Mas eu entendo o problema.
 
 O problema é que, geralmente, pessoas técnicas querem olhar um produto ou serviço e saber claramente o que resolve e como vai poder fazer da vida delas algo melhor. 
 
@@ -186,9 +186,9 @@ Dentro da estratégia de aquisição, engajamento e retenção é essencial pens
 
 Se estamos falando na importância de construir comunidades, ter uma mensagem direto ao ponto e criarmos uma documentação robusta, é porque queremos que as pessoas usem nosso produto no fim do dia. 
 
-E nada pior do que fazer uma pessoa desenvolvedora, que está buscando a solução para seu problema e precisa saber se a tecnologia ajuda do que fazer ela passar por um processo burocrático, lento e com muitas barreiras para isso acontecer.
+E nada pior do que fazer uma pessoa desenvolvedora, que está buscando a solução para seu problema e precisa saber se a tecnologia ajuda, passar por um processo burocrático, lento e com muitas barreiras para poder começar a mexer no produto.
 
-Hoje se fala pro mercado SaaS em geral sobre [Produc-Led Growth](/desmistificando-product-led-growth/){:target="_blank"} e para [produtos que tem de alguma forma um foco no público técnico](https://everydeveloper.com/developer-marketing-continuum/){:target="_blank"}, usar abordagens de PLG e facilitar ao máximo o acesso ao produto é essencial.
+Hoje se fala pro mercado SaaS em geral sobre [Produc-Led Growth](/desmistificando-product-led-growth/){:target="_blank". Para [produtos que tem de alguma forma um foco no público técnico](https://everydeveloper.com/developer-marketing-continuum/){:target="_blank"}, usar abordagens de PLG e facilitar ao máximo o acesso ao produto é essencial.
 
 As pessoas podem até gostar do seu Marketing mas vão querer conferir de perto se é verdade.
 
