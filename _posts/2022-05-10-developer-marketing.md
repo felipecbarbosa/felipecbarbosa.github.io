@@ -6,31 +6,33 @@ permalink: /developer-marketing/
 categories: marketing
 ---
 
-Em diferentes fases da minha vida profissional eu trabalhei em produtos que tinham como público pessoas técnicas. O perfil era desde pessoas desenvolvedoras que estavam no processo de decisão e compra numa jornada única ou lideranças técnicas que compravam e seus times usavam. Mas foi só agora entrando na VTEX para cuidar do Marketing de Produto de sua plataforma de desenvolvimento que eu fui ler sobre uma atividade conhecida como Developer Marketing. Então, o que é Developer Marketing?
+Em diferentes fases da minha vida profissional eu trabalhei em produtos que tinham como público pessoas técnicas. O perfil era desde pessoas desenvolvedoras que estavam no processo de decisão e compra numa jornada única ou lideranças técnicas que compravam e seus times usavam. Mas foi só agora entrando na VTEX para cuidar do Marketing de Produto de sua [plataforma de desenvolvimento](https://vtex.com/us-en/vtex-io/){:target="_blank"} que eu fui ler sobre uma atividade conhecida como Developer Marketing. Então, o que é Developer Marketing?
 
 ## Developer Marketing e DevRel
 
 Antes de começar quero falar um pouco sobre outro assunto que tá em alta: DevRel ou Developer Relations.
 
-Developer Relations é um assunto que eu vejo tem algumas intersecções com Developer Marketing. Não quero me alongar muito por aqui sobre o isso e recomendo muito acompanhar a [Pachi Parra](https://www.pachicodes.com/){:target="_blank"} que é uma referência no assunto, e vou pegar um texto dela sobre o básico de [DevRel](https://dev.to/feministech/pt-br-devrel-o-basico-4e7m){:target="_blank"} para dar contexto o que é antes de continuar falando sobre Developer Marketing:
+Developer Relations é um assunto que eu vejo tem algumas intersecções com Developer Marketing. Não quero me alongar muito por aqui sobre isso e recomendo muito acompanhar a [Pachi Parra](https://www.pachicodes.com/){:target="_blank"} que é uma referência no tema. Vou pegar um texto dela sobre o básico de [DevRel](https://dev.to/feministech/pt-br-devrel-o-basico-4e7m){:target="_blank"} para dar contexto o que é antes de continuar falando sobre Developer Marketing:
 
 > Um DevRel é uma ponte entre a comunidade (devs) e a empresa.
 
 No mesmo texto ela cita algumas atividades que uma pessoa DevRel pode executar:
 
 > Elas criam conteúdo (palestras, podcasts, artigos, vídeos do YouTube e muito mais);
+> 
 > Eles respondem a perguntas e apoiam a comunidade #DEV;
+> 
 > Elas ouvem o que essa comunidade está dizendo, o que está em alta e o que precisa melhorar. Com esse feedback, elas advocam as empresas para tornar seus produtos mais amigáveis ​​para o desenvolvedor.
 
-Estou trazendo DevRel pra conversa porque quero fazer uma distinção, pra esse texto que vai influenciar como eu entendo Developer Marketing.
+Estou trazendo DevRel para conversa porque quero fazer uma distinção que vai influenciar como eu entendo Developer Marketing.
 
-Na minha visão DevRel é uma pessoa, uma posição na empresa. uma área. Assim como Product Marketing. É uma especialização que precisa acontecer para que tenham pessoas e recursos específicos para as iniciativas. Iniciativas essas que são importantes para as empresas. Empresas que tem (ou deveriam ter) estratégia para onde estão indo no mercado.
+Na minha visão DevRel é uma pessoa. Uma posição na empresa. Uma área, assim como Product Marketing. É uma especialização que precisa acontecer para que tenham pessoas e recursos específicos para as iniciativas. Iniciativas essas que são importantes para as empresas. Empresas que tem (ou deveriam ter) estratégias para onde estão indo no mercado.
 
 Eu sou uma pessoa que acredita muito no Marketing. Acredita no Marketing como disciplina e como peça fundamental nas estratégias das empresas. No Marketing que vai além do departamente, além da aquisição e ponta do funil. Acredito no Marketing estratégico em todas suas camadas.
 
 Assim como Product Marketing faz parte de Marketing como disciplina ampla e que engloba os pontos de contato de uma empresa com a sociedade na geração de valor, vejo que DevRel também estaria nesse universo.
 
-Então DevRel está dentro de Developer Marketing, ou seja, dentro de iniciativas de Marketing para desenvolvedores.
+Então DevRel está dentro de Developer Marketing, ou seja, dentro de iniciativas de Marketing para pessoas desenvolvedoras.
 
 ## O que é Developer Marketing?
 
@@ -40,11 +42,11 @@ Developer Marketing é fazer Marketing para pessoas desenvolvedoras.
 
 Mas na verdade Developer Marketing é apenas Marketing. Acho que tentar enxergar isso de forma diferente é o que nos leva a acreditar que é preciso criar sub-grupos de Marketing.
 
-Nesse caso vem muita da crença que pessoas técnicas, que pessoas desenvolvedoras, não gostam ou não são sucetíveis as mensagens de Marketing.
+Esse caso vem muita da crença que pessoas técnicas, que pessoas desenvolvedoras, não gostam ou não são sucetíveis as mensagens de Marketing.
 
 Mas ao mesmo tempo vemos como pessoas nesse público usam com orgulho camisetas e outras peças de vestuário das suas tecnologias preferidas. Decoram seus laptops com adesivos das marcas que criam essas tecnologias. Participam ativamente de comunidades dessas tecnologias. Vão em eventos. Participam com muito envolvimento de tudo isso.
 
-Se o que criamos dentro da disciplina de Marketing não funcionasse com esse público, como muitas vezes acreditamos, não teríamos produtos como [Carbon](https://www.carbonads.net/){:target="_blank"} e a plataforma de [Ads do StackOverflow](https://stackoverflow.co/advertising/){:target="_blank"} que olham pra um pequeno pedaço que é o de Promoção e Publicidade.
+Se o que criamos dentro da disciplina de Marketing não funcionasse com esse público, como muitas vezes acreditamos, não teríamos produtos como [Carbon](https://www.carbonads.net/){:target="_blank"} e a plataforma de [Ads do StackOverflow](https://stackoverflow.co/advertising/){:target="_blank"} que olham para um pequeno pedaço que é o de Promoção e Publicidade.
 
 Não teríamos plataformas como a [Orbit](https://orbit.love/){:target="_blank"} para gerenciar comunidades e "construir relacionamentos, não planilhas", como diz a *tagline* do site, e é usada por empresas que são claramente focadas em pessoas desenvolvedoras.
 
@@ -52,7 +54,7 @@ Comunidade, engajamento, está dentro do escopo de Customer Relationship Marketi
 
 Enfim, muitas empresas nesse segmento não fazem esses esforços de graça. Algumas podem nem saber, mas estão implementando várias táticas de Marketing para atrair, engajar, reter e encantar seu público.
 
-Essas sub-grupos dentro do Marketing existem em outros contextos. Falamos de Marketing B2B e Marketing B2C. Falamos de Marketing para idosos, Marketing para o público LBTGQIA+, Marketing para mulheres (Pink Marketing) e por aí vai.
+Esses sub-grupos dentro do Marketing existem em outros contextos. Falamos de Marketing B2B e Marketing B2C. Falamos de Marketing para idosos, Marketing para o público LBTGQIA+, Marketing para mulheres (Pink Marketing) e por aí vai.
 
 Mas no fim é tudo Marketing.
 
@@ -110,7 +112,7 @@ E como resolve o problema está ligado a como entrega valor.
 
 Então ao construir o *messaging* a partir do seu posicionamento e for descrever as propostas de valor e o que o produto faz para explicar esse posicionamento, tenha uma mensagem direta.
 
-Deixe claro que faz, o que resolve, como faz e pra quem resolve.
+Deixe claro que faz, o que resolve, como faz e para quem resolve.
 
 Alguns exemplos de empresas que, na minha opinião, são referência quando falamos em comunicação nesse universo por terem produtos voltados aos públicos técnicos. Vou pegar só informações do *Header* para vermos como são bem diretos:
 
@@ -154,7 +156,7 @@ Ou na Twilio vamos ter:
 >
 > Create the exact solution you need to engage customers at every step of their journey. Twilio is a single platform with flexible APIs for any channel, built-in intelligence, and global infrastructure to support you at scale.
 
-Quem lê entende o que faz e como faz. Até pra quem faz. A Twilio tem a clássica frase "Ask Your Developer".
+Quem lê entende o que faz e como faz. Até para quem faz. A Twilio tem a clássica frase "Ask Your Developer".
 
 Então a parte de comunicação nesse segmento parece mais eficaz quando somos direto-ao-ponto.
 
