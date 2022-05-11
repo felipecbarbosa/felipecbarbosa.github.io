@@ -100,7 +100,7 @@ Podemos dizer que construção de comunidade é uma iniciativa que pode ser boas
 
 Outra coisa que é comum ouvirmos, e acho que vem daí muito da mística que pessoas desenvolvedoras não gostam de Marketing, é que as mensagens de Marketing costumam ser muito abstratas e por isso não funcionam.
 
-São muito aspiracionais e isso de certa forma não conecta com esse público.
+São muito aspiracional e isso de certa forma não conecta com esse público.
 
 Primeiro, que posso dizer que tem muita mensagem que fica num nível tão abstrato que eu duvido que funcione com qualquer segmento. Mas eu entendo o problema.
 
@@ -188,7 +188,7 @@ Se estamos falando na importância de construir comunidades, ter uma mensagem di
 
 E nada pior do que fazer uma pessoa desenvolvedora, que está buscando a solução para seu problema e precisa saber se a tecnologia ajuda, passar por um processo burocrático, lento e com muitas barreiras para poder começar a mexer no produto.
 
-Hoje se fala pro mercado SaaS em geral sobre [Produc-Led Growth](/desmistificando-product-led-growth/){:target="_blank". Para [produtos que tem de alguma forma um foco no público técnico](https://everydeveloper.com/developer-marketing-continuum/){:target="_blank"}, usar abordagens de PLG e facilitar ao máximo o acesso ao produto é essencial.
+Hoje se fala pro mercado SaaS em geral sobre [Produc-Led Growth](/desmistificando-product-led-growth/){:target="_blank"}. Para [produtos que tem de alguma forma um foco no público técnico](https://everydeveloper.com/developer-marketing-continuum/){:target="_blank"}, usar abordagens de PLG e facilitar ao máximo o acesso ao produto é essencial.
 
 As pessoas podem até gostar do seu Marketing mas vão querer conferir de perto se é verdade.
 
