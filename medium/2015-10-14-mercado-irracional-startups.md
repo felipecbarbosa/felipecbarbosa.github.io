@@ -149,7 +149,7 @@ Isso pode ser verdade, mas a preocupação com mais uma bolha tem o foco no mund
 
 Sempre que uma conversa sobre as startups entra no assunto bolha começam as polêmicas. Alguns estão certos que estamos nela, mesmo que considerem que seja diferente da que derrubou as ponto-com no início dos anos 2000. Outros dizem que não, o contexto agora é outro, as startups geram receitas reais.
 
-Na minha opinião existe sim uma bolha. [Uma reportagem da Vanity Fair](http://www.vanityfair.com/news/2015/08/is-silicon-valley-in-another-bubble){:target="_blank"} de agosto desse (2015) ano pinta um quadro o qual eu acredito.
+Na minha opinião existe sim uma bolha. [Uma reportagem da Vanity Fair](http://www.vanityfair.com/news/2015/08/is-silicon-valley-in-another-bubble){:target="_blank"} de agosto desse ano (2015) pinta um quadro o qual eu acredito.
 
 Ao longo do artigo ele vai relacionando comportamentos de outras épocas anteriores a um colapso que se repetem hoje.
 
@@ -167,7 +167,7 @@ Inclusive Aileen Lee, a **VC que cunhou o termo unicórnio** diz:
 
 > But a lot of these are paper unicorns, so their valuations may not be real for a while.” Others, Lee acknowledged, may never see their balance sheets add enough zeros to justify the title. They will be given a new sobriquet: "unicorpse".
 
-O número de unicórnios aumenta mas muitas estã só no papel. E o que a realidade tem mostrado é que pouquíssimas startups conseguem no mercado o que tinham de valorização no setor privado. Outras levam tempo, como o Facebook. E outras com o passar do tempo vão [perdendo valor](https://www.bloomberg.com/news/articles/2015-09-17/alibaba-s-rise-and-fall-what-comes-after-the-historic-wipeout-){:target="_blank"}.
+O número de unicórnios aumenta mas muitas estão só no papel. E o que a realidade tem mostrado é que pouquíssimas startups conseguem no mercado o que tinham de valorização no setor privado. Outras levam tempo, como o Facebook. E outras com o passar do tempo vão [perdendo valor](https://www.bloomberg.com/news/articles/2015-09-17/alibaba-s-rise-and-fall-what-comes-after-the-historic-wipeout-){:target="_blank"}.
 
 Mas se estivermos numa bolha, o que isso significa?
 
@@ -240,7 +240,7 @@ Não é pra todo mundo isso.
 
 Acho que a primeira coisa boa é que assim não ficamos atrás da famosa *silver bullet*, aquela tática infalível para levar as startups que trabalhamos ao sucesso.
 
-Outra questão é que assim paramos de querer ser o novo Uber, o novo Airbnb e o novo Slack. Isso porque essas histórias são embelezadas e dificlmente levam em conta os resultados financeiros reais.
+Outra questão é que assim paramos de querer ser o novo Uber, o novo Airbnb e o novo Slack. Isso porque essas histórias são embelezadas e dificilmente levam em conta os resultados financeiros reais.
 
 E também existem muitos fatores que não temos como controlar (contatos dos founders, momento que foram lançados os serviços, contexto onde cada startup começou, efeito FOMO que se cria a medida que os primeiros investidores entram no jogo e os sites de tecnologia começam a falar todo dia da mais nova empresa que irá mudar o mundo) que leva uma startup a explodir.
 
