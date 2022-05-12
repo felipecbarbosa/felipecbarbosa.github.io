@@ -118,9 +118,9 @@ Alguns exemplos de empresas que, na minha opinião, são referência quando fala
 
 #### [Netlify](https://www.netlify.com/){:target=""_blank}
 
-**Build the future of the web**
+**Bring it all together**
 
-Netlify unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.
+The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web.
 
 #### [Vercel](https://vercel.com/){:target=""_blank}
 
