@@ -67,11 +67,17 @@ Gravei junto com o Cassio Politi da da Tracto um convite para participar do podc
 
 [Escute agora o episódio número 287: O Marketing de Produto na era Digital](https://open.spotify.com/episode/6Z8KKiJZiGiVU3rQfRJ3Cu?si=RxtcPzzXS6K-UyDxtIAmPQ){:target="_blank"}.
 
-### [Lança Produto](https://open.spotify.com/episode/3yLy6hsqGDyaoaXds0ren5?si=GuTGOvjVTsSA8r3v2UU1Sw){:target="_blank"}
+### [Lança Produto](https://open.spotify.com/show/3xChxQsDToX7gLLHGUo8qk){:target="_blank"}
 
-Sempre falo que quando a Resultados Digitais resolve abordar com seriedade algum assunto da área ela começa a ter destaque no Brasil. Fiquei muito feliz em poder participar desse episódio do Lança Perfume e falar sobre estratégia de Go-To-Market.
+Sempre falo que quando a Resultados Digitais resolve abordar com seriedade algum assunto da área ela começa a ter destaque no Brasil. Eu gravei 2 participações no podcast Lança Produto que trata do universo de Product Marketing.
 
-[Ouça minha participação no Lança Produto: Estratégia de Go to Market: o que é e por que criar?](https://open.spotify.com/episode/3yLy6hsqGDyaoaXds0ren5?si=GuTGOvjVTsSA8r3v2UU1Sw){:target="_blank"}
+Minha primeira participação foi um episódio do Lança Perfume para falar sobre estratégia de Go-To-Market.
+
+[Ouça minha participação no Lança Produto "Estratégia de Go to Market: o que é e por que criar?"](https://open.spotify.com/episode/3yLy6hsqGDyaoaXds0ren5?si=GuTGOvjVTsSA8r3v2UU1Sw){:target="_blank"}
+
+A segunda foi uma conversa sobre alinhamento e colaboração entre Product Marketing e Vendas.
+
+[Ouça minha participação no Lança Produto "Marketing e Vendas: vamos tirar o elefante da sala de reunião?"](https://open.spotify.com/episode/5xHTaxuzfMghF5FqbeRYYa?si=lix2R2ocR-q3dJnASyqVCA){:target="_blank"}
 
 ## Artigos
 
@@ -102,6 +108,14 @@ A Antavo é uma empresa que tem uma plataforma de *Customer Loyalty Management*.
 Esse não é um artigo escrito por mim mas tem um parágrafo onde eu dou minha opinião sobre o assunto.
 
 Você pode ler aqui o texto [41 Experts Weigh in on the Future of Marketing Automation for Customer Loyalty](https://antavo.com/blog/41-experts-weigh-in-on-the-future-of-marketing-automation-for-customer-loyalty/){:target="_blank"}
+
+### [Blog da Developer Marketing Alliance](https://www.developermarketing.io/){:target="_blank"}
+
+Eu escrevi um texto aqui em meu blog sobre [Developer Marketing](/developer-marketing/){:target="_blank"} e compartilhei no Slack da Developer Marketing Alliance na esperança de ter pessoas que falam português por lá.
+
+Para minha surpresa havia uma pessoa de Portugal, responsável pelo conteúdo da comunidade, que prontamente veio falar comigo sugerindo passar o texto para o inglês para que pudesse ser publicado no blog da comunidade.
+
+Você pode ler a versão em inglês acessando [The characteristics of developer marketing](https://www.developermarketing.io/the-characteristics-of-developer-marketing/){:target="_blank"}.
 
 ## Webinars
 
@@ -143,14 +157,21 @@ O mediador da conversa foi o Raphael Dyxklay.
 
 Em abril de 2021 eu participei de uma live da [Coproduto](https://www.meetup.com/pt-BR/meetupdeproduto/){:target="_blank"} para falar sobre o papel do Product Marketing Manager e como esse profissional se relaciona com outros times, principalmente o time de produto.
 
+## Cursos
+
 ### [Curso de Product Marketing da PM3](https://www.cursospm3.com.br/curso-product-marketing/){:target="_blank"}
 
 Em fevereiro de 2021 fui convidado pelo time da [Cursos PM3](https://www.cursospm3.com.br){:target="_blank"} para ser um dos instrutores do curso de Product Marketing que a escola estava desenvolvendo.
 
 Acabei colaborando e gravando duas aulas, uma de Análise Competitiva e outra de Métricas para Go-To-Market. Quem quiser fazer o curso eu tenho dois links de descontos:
 
-- [Curso Product Marketing - 10% de desconto - 12 meses de acesso](https://conteudo.cursospm3.com.br/a/2147498317/BY7VEvg8){:target="_blank"}
-- [Curso Product Marketing - 10% de desconto - 6 meses de acesso](https://conteudo.cursospm3.com.br/a/2147498316/BY7VEvg8){:target="_blank"}
+- [Curso Product Marketing - 10% de desconto - 12 meses de acesso - 12x](https://conteudo.cursospm3.com.br/a/2147498317/BY7VEvg8){:target="_blank"}
+- [Curso Product Marketing - 10% de desconto - 6 meses de acesso - 6x](https://conteudo.cursospm3.com.br/a/2147498316/BY7VEvg8){:target="_blank"}
+- [Curso Product Marketing - 10% de desconto - 6 meses de acesso - à vista](https://conteudo.cursospm3.com.br/a/2147503256/BY7VEvg8){:target="_blank"}
+
+### [Curso Fundamentos de Product Management da Produtos Incríveis](https://produtosincriveis.co/curso/fundamentos-product-management){:target="_blank"}
+
+Eu gravei uma aula sobre Product Marketing que acabou entrando no curso de Product Management da Produtos Incríveis.
 
 ---
 ---
