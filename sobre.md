@@ -58,8 +58,6 @@ No dia a dia tenho interação constante com os times de Produto e Tecnologia, V
 
 Responsável pelo lançamento de novas funcionalidades, pesquisa de mercado, definição de personas e perfil de cliente ideal, *sales enablement*, proposta de valor e posicionamento da plataforma para o mercado de grandes contas.
 
-Além disso estou envolvido em projetos que impactam todos os segmentos de clientes como o de onboarding, mapeamento da jornada do nosso cliente com a Vindi, tagueamento da plataforma para análise de comportamento dos usuários, pesquisas com usuários e uma nova proposta de planos e preços para a plataforma.
-
 ### Analista de Marketing de Produto @ Plataformatec (setembro 2018 - janeiro 2020)
 
 Trabalhei na *squad* multidisciplinar focada no mercado brasileiro e fui responsável pelo [Marketing de Produto](/marketing-de-produto/){target="_blank"} dentro do time.
