@@ -5,11 +5,11 @@ permalink: /sobre/
 menu: Sobre
 ---
 
-Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e **Produto** em empresas de tecnologia desde Startups até uma tradicional empresa representando um dos maiores players da indústria de EdTech.
+Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e **Produto** em empresas de tecnologia que vão de startups, scaleups até unicórnios listados na bolsa.
 
-No momento sou Product Marketing Manager na VTEX e também embaixador e membro-fundador da Product Marketing Alliance aqui no Brasil.
+No momento sou Product Marketing Manager no { empresa.nome } e embaixador e membro-fundador da Product Marketing Alliance aqui no Brasil.
 
-Também atualmente sou um dos instrutores do [Curso de Product Marketing da PM3](https://www.cursospm3.com.br/curso-product-marketing/){:target="_blank"} e se você tiver interesse em fazer o curso me [chama no chat](#hs-chat-open) porque tenho cupom de desconto.
+Também atualmente sou um dos instrutores do [Curso de Product Marketing da PM3](https://www.cursospm3.com.br/curso-product-marketing/){:target="_blank"} e também no curso de Product Management da Produtos Incríveis. Se você tiver interesse em fazer o curso da PM3 me [chama no chat](#hs-chat-open) porque tenho cupom de desconto.
 
 Tive a honra e a felicidade de ser citado na lista de [50 profissionais de produto brasileiros](/files/50-profissionais-produto.pdf){:target="_blank"} a serem seguidos elaborada pela [Journey](https://somosjourney.com/){:target="_blank"}.
 
@@ -23,11 +23,13 @@ Ferramentas que tenha familiaridade: Analytics (Google Analytics, Mixpanel, Heap
 
 ## Experiência Profissional
 
-### Gerente de Marketing de Produto (Product Marketing Manager) @ VTEX (maio 2021 - atual)
+### Gerente de Marketing de Produto (Product Marketing Manager) @ { empresa.nome } (julho 2022 - atualmente)
 
-Trabalho no time de Product Marketing da VTEX, dentro da organização de Growth. Sou responsável pelo Marketing de Produto do VTEX IO, a plataforma de desenvolvimento da VTEX que tem como foco principal de mercado times técnicos e de desenvolvimento.
+### Gerente de Marketing de Produto (Product Marketing Manager) @ VTEX (maio 2021 - junho 2022)
 
-As minhas principais atribuições incluem:
+Trabalhei no time de Product Marketing da VTEX, dentro da organização de Growth. Fui responsável pelo Marketing de Produto do VTEX IO, a plataforma de desenvolvimento da VTEX que tem como foco principal de mercado times técnicos e de desenvolvimento.
+
+As minhas principais atribuições incluíam:
 
 - Definição de Posicionamento, Messaging, Naming e Packaging dos produtos junto aos times de Produto, Engenharia e Growth;
 - Desenvolvimento e execução do Go-To-Market e plano de lançamento dos produtos trabalhando com times do Brasil e exterior;
@@ -50,7 +52,7 @@ Fui responsável por duas ofertas diferentes da empresa e minhas principais ativ
 
 ### Especialista em Marketing de Produto @ Vindi (janeiro 2020 - agosto 2020)
 
-Fui responsável pelo Marketing de Produto para o mercado Enterprise e depois com uma mudança de estrutura que propus ao time migrei para ser par do Product Manager na Squad de Produto focada na plataforma SaaS da Vindi.
+Fui responsável pelo Marketing de Produto para o mercado Enterprise e depois com uma mudança de estrutura que propus ao time migrei para ser par do Product Manager na Squad de Produto focada na plataforma SaaS da [Vindi](https://vindi.com.br/){:target="_blank"}.
 
 No dia a dia tenho interação constante com os times de Produto e Tecnologia, Vendas, Dados e Sucesso do Cliente.
 
@@ -60,7 +62,7 @@ Além disso estou envolvido em projetos que impactam todos os segmentos de clien
 
 ### Analista de Marketing de Produto @ Plataformatec (setembro 2018 - janeiro 2020)
 
-Trabalhei na *squad* multidisciplinar focada no mercado brasileiro e fui responsável pelo [Marketing de Produto](/marketing-de-produto/) dentro do time.
+Trabalhei na *squad* multidisciplinar focada no mercado brasileiro e fui responsável pelo [Marketing de Produto](/marketing-de-produto/){target="_blank"} dentro do time.
 
 Fui responsável por levar ao mercado novos produtos e conectá-los às necessidades dos clientes, desenvolver análises competitivas, posicionamento de produto, comunicação com o mercado e planos de lançamento. 
 
