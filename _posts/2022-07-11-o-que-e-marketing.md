@@ -48,7 +48,7 @@ Acredito que Marketing é uma disciplina que se sairmos perguntando para diferen
 
 Acho que alguns fatores podem explicar isso (talvez tenham outros até):
 
-- Nem todo mundo que trabalha com Marketing tem um background acadêmico de Marketing;
+- Nem todo mundo que trabalha com Marketing tem um background acadêmico de Marketing ou estudou formalmente a disciplina;
 - As empresas em seus respectivos mercados podem ter diferentes visões sobre as atribuições dos seus times de Marketing;
 - A popularização do Marketing Digital, que tem muito foco no tátivo e operacional, levou o Marketing para um foco de resposta direta e isso acabou se confundindo como sendo a própria disciplina;
 - Profissionais podem ter gostos e visões diferentes e isso é natural em um mercado plural.
