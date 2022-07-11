@@ -67,7 +67,9 @@ Aqui estão algumas definições:
 
 > Marketing is the process by which companies create value for customers and build strong customer relationships in order to capture value from customers in return. (Marketing an Introduction, Armstrong & Kotler & Trifts & Buchwitz)
 
-Em geral todas essas definições estão bem próximas ao que a American Marketing Association usa para definir Marketing e, claramente, estão bem distantes de dizer que Marketing é apenas Promoção e Publicidade. Não é colocar dinheiro em anúncios. Não é querer vender algo. É muito mais do que isso.
+Em geral todas essas definições estão bem próximas ao que a American Marketing Association usa para definir Marketing e, claramente, estão bem distantes de dizer que Marketing é apenas Promoção e Publicidade. 
+
+Não é colocar dinheiro em anúncios. Não é querer vender algo. É muito mais do que isso.
 
 Eu sinto que toda vez que pessoas no mercado usam uma definição míope do que é Marketing diminuem o trabalho dos profissionais. E essa diminuição desvaloriza esse trabalho.
 
