@@ -79,7 +79,7 @@ E por isso que o primeiro texto que escrevi sobre Product Marketing eu coloquei 
 
 Boa parte da definição de Marketing lembra o caráter estratégico da atividade. 
 
-O longo prazo que na imagem que inspirou esse texto não estava ao lado do que a pessoa que a criou definia como Marketing.
+O longo prazo que, na imagem que inspirou esse texto, não estava ao lado do que a pessoa que a criou definia como Marketing.
 
 Marketing é curto, médio e longo prazo. [Marketing é estratégico, tático e operacional](/marketing-estrategico-tatico-operacional/){:target="_blank"}.
 
