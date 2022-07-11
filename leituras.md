@@ -22,7 +22,7 @@ A lista no link acima explora todas as leituras, sem identificar uma sequência 
 Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ## Livros 2022 {#livros-2022}
-> 7 livros lido - 1 finalizado em 2022
+> 8 livros lidos - 1 finalizado em 2022
 
 1. Developer Marketing Does Not Exist: The Authentic Guide to Reach a Technical Audience (144 páginas)
 2. Rolling Rocks Downhill: The Agile+ToC Business Novel (321 páginas)
@@ -30,7 +30,8 @@ Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas
 4. Pálido Ponto Azul: Uma Visão do Futuro da Humanidade no Espaço (418 páginas)
 5. Loved: How to Rethink Marketing for Tech Products (276 páginas)
 6. Product Marketing Misunderstood: How to Establish Your Role, Authority, and Strategic Value (172 páginas)
-7. Ruby: Aprenda a Programar na Linguagem Mais Divertida (349 páginas)  
+7. Ruby: Aprenda a Programar na Linguagem Mais Divertida (349 páginas)
+8. The Data Detective: Ten Easy Rules to Make Sense of Statistics (336 páginas)  
 
 ---
 
