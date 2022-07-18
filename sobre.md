@@ -7,7 +7,7 @@ menu: Sobre
 
 Nos últimos 10 anos tenho trabalhado com [Marketing](/marketing/) e **Produto** em empresas de tecnologia que vão de startups, scaleups até unicórnios listados na bolsa.
 
-No momento sou Product Marketing Manager no { empresa.nome } e embaixador e membro-fundador da Product Marketing Alliance aqui no Brasil.
+No momento sou Product Marketing Manager no Nubank e embaixador e membro-fundador da Product Marketing Alliance aqui no Brasil.
 
 Também atualmente sou um dos instrutores do [Curso de Product Marketing da PM3](https://www.cursospm3.com.br/curso-product-marketing/){:target="_blank"} e também no curso de Product Management da Produtos Incríveis. Se você tiver interesse em fazer o curso da PM3 me [chama no chat](#hs-chat-open) porque tenho cupom de desconto.
 
@@ -23,7 +23,7 @@ Ferramentas que tenha familiaridade: Analytics (Google Analytics, Mixpanel, Heap
 
 ## Experiência Profissional
 
-### Gerente de Marketing de Produto (Product Marketing Manager) @ { empresa.nome } (julho 2022 - atualmente)
+### Gerente de Marketing de Produto (Product Marketing Manager) @ Nubank (julho 2022 - atualmente)
 
 ### Gerente de Marketing de Produto (Product Marketing Manager) @ VTEX (maio 2021 - junho 2022)
 
