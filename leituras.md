@@ -22,7 +22,7 @@ A lista no link acima explora todas as leituras, sem identificar uma sequência 
 Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ## Livros 2022 {#livros-2022}
-> 11 livros lidos - 1 finalizado em 2022
+> 12 livros lidos - 1 finalizado em 2022
 
 1. Developer Marketing Does Not Exist: The Authentic Guide to Reach a Technical Audience (144 páginas)
 2. Rolling Rocks Downhill: The Agile+ToC Business Novel (321 páginas)
@@ -35,6 +35,7 @@ Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas
 9. Setenta (152 páginas) 
 10. Maus (296 páginas)
 11. The Decision Book: Fifty Models for Strategic Thinking (176 páginas)
+12. O Contador de Histórias: Memórias de Vida e Música (416 páginas)
 
 ---
 
