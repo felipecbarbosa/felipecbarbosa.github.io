@@ -342,4 +342,14 @@ Já o curso da PM3 além da vantagem no pagamento (poder parcelar), mesmo sendo 
 
 Os 3 cursos são bons e valem a pena, cabe a você olhar para onde se encontra profissionalmente e entender qual é a melhor opção.
 
-Qualquer dúvida você pode enviar um email para felipe **[@]** felipebarbosa **[.]** me.
+---
+
+## Cupom de 10% de Desconto para os Cursos da PM3
+
+Caso você decida fazer o Curso de Product Marketing da PM3 você pode usar o cupom FELIPE10 no checkout.
+
+Ah, e esse cupom vale para os outros cursos também.
+
+Caso você tenha alguma dúvida e quer trocar uma ideia diretamente você pode [me chamar no chat através desse link](#hs-chat-open) e conversamos.
+
+Ou então você pode enviar um email para felipe **[@]** felipebarbosa **[.]** me.
