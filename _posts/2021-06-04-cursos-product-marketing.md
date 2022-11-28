@@ -349,7 +349,3 @@ Os 3 cursos são bons e valem a pena, cabe a você olhar para onde se encontra p
 Caso você decida fazer o Curso de Product Marketing da PM3 você pode usar o cupom FELIPE10 no checkout.
 
 Ah, e esse cupom vale para os outros cursos também.
-
-Caso você tenha alguma dúvida e quer trocar uma ideia diretamente você pode [me chamar no chat através desse link](#hs-chat-open) e conversamos.
-
-Ou então você pode enviar um email para felipe **[@]** felipebarbosa **[.]** me.
