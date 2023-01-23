@@ -54,10 +54,27 @@ Comprar na Amazon: <a target="_blank" href="https://www.amazon.com.br/P%25C3%25A
 
 ### Loved: How to Rethink Marketing for Tech Products
 
+O livro "LOVED" explica os fundamentos da melhor prática de marketing de produtos para equipes de produtos, profissionais de marketing, fundadores e qualquer líder com um produto e uma visão. 
 
+A autora, Martina Lauchengco, compartilha suas histórias pessoais como líder de produtos e marketing na Microsoft e Netscape e como consultora para startups da Silicon Valley, investidora de venture capital e professora de escola de engenharia da UC Berkeley. 
+
+Ela apresenta décadas de lições aprendidas trabalhando com centenas de empresas para tornar "LOVED" a guia definitivo para o marketing de produtos moderno. 
+
+O livro mostra como a centralidade do marketing de produtos é crucial para o sucesso de qualquer produto, as habilidades e ações necessárias para fazê-lo bem, os quatro fundamentos do marketing de produtos e como aplicá-los, como contratar, liderar e organizar o marketing de produtos e como os profissionais de marketing de produtos otimizam a colaboração crucial com outras funções.
+
+Comprar na Amazon: <a target="_blank" href="https://www.amazon.com.br/Loved-Rethink-Marketing-Products-Silicon-ebook/dp/B09X2B2N2J/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;qid=1674444898&amp;sr=8-1&_encoding=UTF8&tag=felipebarb009-20&linkCode=ur2&linkId=3d58e504f78bb2d8ef48959ee3e61ea2&camp=1789&creative=9325">Loved: How to Rethink Marketing for Tech Products</a>
 
 ### Product Marketing Misunderstood: How to Establish Your Role, Authority, and Strategic Value
 
+O livro aborda as principais dificuldades enfrentadas pelos profissionais de marketing de produtos e como superá-las para estabelecer sua posição, autoridade e valor estratégico. Ele fornece técnicas e estratégias para ajudar os profissionais de marketing a se posicionarem como líderes estratégicos dentro da empresa.
+
+1. **Compreenda a diferença entre marketing de produtos e outras áreas de marketing:** é importante compreender a diferença entre as funções de marketing e como elas se relacionam para estabelecer sua posição e autoridade dentro da empresa.
+2. **Defina seu papel e responsabilidades:** é importante definir claramente o papel e as responsabilidades dos profissionais de marketing de produtos para que possam ser reconhecidos como líderes estratégicos.
+3. **Desenvolva suas habilidades:** os profissionais de marketing de produtos precisam desenvolver habilidades como análise de dados, pesquisa de mercado e comunicação para se posicionarem como líderes estratégicos.
+4. **Faça parcerias estratégicas:** é importante estabelecer parcerias estratégicas com outras áreas da empresa, como vendas e desenvolvimento de produtos, para aumentar a sua autoridade e valor estratégico.
+5. **Faça a diferença:** os profissionais de marketing de produtos precisam fazer a diferença e contribuir para o sucesso da empresa para se posicionarem como líderes estratégicos.
+
+Comprar na Amazon: <a target="_blank" href="https://www.amazon.com.br/Product-Marketing-Misunderstood-Establish-Authority-ebook/dp/B09WZL6YZC/ref=sr_1_1?__mk_pt_BR=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=M31FKEJ1IR8&amp;keywords=product+marketing+misunderstood&amp;qid=1674445879&amp;sprefix=product+marketing+misunderstoo%252Caps%252C231&amp;sr=8-1&_encoding=UTF8&tag=felipebarb009-20&linkCode=ur2&linkId=7e913ffe29d62920a8728b481f33755d&camp=1789&creative=9325">Product Marketing Misunderstood: How to Establish Your Role, Authority, and Strategic Value</a>
 
 ### Ruby: Aprenda a Programar na Linguagem Mais Divertida
 
