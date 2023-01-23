@@ -22,7 +22,7 @@ A lista no link acima explora todas as leituras, sem identificar uma sequência 
 Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
 ## Livros 2022 {#livros-2022}
-> 16 livros lidos - 1 finalizado em 2022
+> 16 livros lidos - 1 finalizado em 2022 - 1 incompleto em 2022 - 4779 páginas lidas - 13 páginas/dia em média no ano
 
 1. Developer Marketing Does Not Exist: The Authentic Guide to Reach a Technical Audience (144 páginas)
 2. Rolling Rocks Downhill: The Agile+ToC Business Novel (321 páginas)
