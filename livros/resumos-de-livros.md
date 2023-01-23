@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resumo das minhas leituras
-permalink: /leituras/
+permalink: /livros/leituras/
 ---
 
 Quer saber mais sobre as leituras que eu publico na página [Leituras Recentes](/leituras-recentes/){:target="_blank"}? Aqui estão os resumos (powered by ChatGPT).
