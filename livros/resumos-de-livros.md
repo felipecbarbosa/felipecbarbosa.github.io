@@ -78,9 +78,21 @@ Comprar na Amazon: <a target="_blank" href="https://www.amazon.com.br/Product-Ma
 
 ### Ruby: Aprenda a Programar na Linguagem Mais Divertida
 
+Este livro é uma referência completa para a linguagem Ruby. Com ele, os leitores poderão aprender os conceitos básicos da linguagem, desde as principais características até as APIs mais utilizadas, tais como String, Enumerable, File, entre outras. Além disso, o livro também aborda questões mais avançadas, como metaprogramação, distribuição de código e gerenciamento de dependências, permitindo um maior aproveitamento da linguagem Ruby.
+
+Comprar na Amazon: <a target="_blank" href="https://www.amazon.com.br/Ruby-Aprenda-programar-linguagem-divertida-ebook/dp/B00VAB1IXQ/ref=sr_1_1?__mk_pt_BR=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1NB7OVJRRT77Q&amp;keywords=ruby+aprenda+a+programar&amp;qid=1674603605&amp;sprefix=ruby+aprenda+a+programa%252Caps%252C227&amp;sr=8-1&_encoding=UTF8&tag=felipebarb009-20&linkCode=ur2&linkId=6e5fe27d8ac5f2347186bd8bacb59785&camp=1789&creative=9325">Ruby: Aprenda a programar na linguagem mais divertida</a>
 
 ### The Data Detective: Ten Easy Rules to Make Sense of Statistics
 
+"The Data Detective: Ten Easy Rules to Make Sense of Statistics" ensina como entender e interpretar estatísticas de forma fácil e acessível. O livro apresenta dez regras simples para ajudar os leitores a identificar e evitar erros comuns na análise de dados.
+
+1. Entenda a importância da visualização de dados: a visualização de dados é uma ferramenta poderosa para ajudar a entender e interpretar estatísticas.
+2. Aprenda a identificar e evitar erros comuns na análise de dados: o livro ensina como identificar e evitar erros comuns na análise de dados, como distorções de escala e interpretação incorreta de gráficos.
+3. Descubra como usar estatísticas para tomar decisões: o livro mostra como usar estatísticas para tomar decisões informadas e melhorar as decisões.
+4. Aprenda a interpretar e comunicar estatísticas de forma eficaz: o livro ensina como interpretar e comunicar estatísticas de forma clara e precisa.
+5. Aprenda a pensar criticamente sobre estatísticas: o livro ensina como pensar criticamente sobre estatísticas e evitar a manipulação intencional ou inconsciente dos dados.
+
+Comprar na Amazon:<a target="_blank" href="https://www.amazon.com.br/Data-Detective-Rules-Statistics-English-ebook/dp/B089425N6D/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=&_encoding=UTF8&tag=felipebarb009-20&linkCode=ur2&linkId=27922f3903ab3e43cf2ebcd9208f8a83&camp=1789&creative=9325">The Data Detective: Ten Easy Rules to Make Sense of Statistics</a>
 
 ### Setenta
 
