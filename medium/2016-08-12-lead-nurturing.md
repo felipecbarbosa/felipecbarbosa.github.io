@@ -11,7 +11,7 @@ canonical: https://felipecbarbosa.medium.com/lead-nurturing-o-que-%C3%A9-de-onde
 
 Lead Nurturing, conhecido por aqui como nutrição de leads, é uma atividade que recebe um grande peso quando se fala em Inbound Marketing e [Automação de Marketing](/medium/automação-de-marketing-101/){:target="_blank"}.
 
-A primeira vez que li sobre o assunto foi lá por 2010 quando comprei o livro sobre [Inbound Marketing da HubSpot](https://amzn.to/33CRdd9){:target="_blanks"}.
+A primeira vez que li sobre o assunto foi lá por 2010 quando comprei o livro sobre [Inbound Marketing da HubSpot](https://amzn.to/33CRdd9){:target="_blank"}.
 
 Na época eu não sabia quem e o que era a HubSpot e muito menos Inbound Marketing. Mas o título me chamou atenção e resolvi comprar.
 
