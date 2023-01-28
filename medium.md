@@ -11,6 +11,9 @@ Resolvi tirar minhas publicações do Medium devido a política deles em relaç�
 
 <ul>
   <li>
+    <a href="/medium/marketing-e-posicionamento-o-que-a-ia-do-chatgpt-tem-a-dizer/">Marketing e Posicionamento, o que a IA do ChatGPT tem a dizer?</a>
+  </li>
+  <li>
     <a href="/medium/lead-nurturing-o-que-é-de-onde-vem-do-que-se-alimenta/">Lead Nurturing: o que é? de onde vem? do que se alimenta?</a>
   </li>
   <li>
