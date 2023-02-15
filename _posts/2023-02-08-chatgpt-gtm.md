@@ -16,9 +16,7 @@ Mas por volta de 2015 dia sim, outro dia também, tinha uma reportagem sobre o S
 
 Tinha artigos e opiniões em todo lado sobre o crescimento exponencial deles. O gráfico a seguir estava em muitas dessas publicações e é realmente impressionante:
 
-<center>
 ![Crescimento do Slack entre 2013 e 2015](https://www.datadeck.com/en/blog/wp-content/uploads/2018/01/slack-1year-Feb12-2015-dau.gif)
-</center>
 
 Além disso tenho certeza que o caso do Slack foi o principal para surgir o conceito de Product Led Growth. O termo surgiu bem na época.
 
