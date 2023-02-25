@@ -25,6 +25,10 @@ Ferramentas que tenha familiaridade: Analytics (Google Analytics, Mixpanel, Heap
 
 ### Gerente de Marketing de Produto (Product Marketing Manager) @ Nubank (julho 2022 - atualmente)
 
+No momento estou na estrutura do time de Marketing do Nubank como Product Marketing Manager responsável pelos produtos de seguros.
+
+Entre julho/2022 e janeiro/2023 trabalhei dentro da squad do [Nubank Auto](https://blog.nubank.com.br/seguro-nubank-auto/){:target="_blank"} construindo o Go-To-Market do produto que foi lançado no início de fevereiro/2023.
+
 ### Gerente de Marketing de Produto (Product Marketing Manager) @ VTEX (maio 2021 - junho 2022)
 
 Trabalhei no time de Product Marketing da VTEX, dentro da organização de Growth. Fui responsável pelo Marketing de Produto do VTEX IO, a plataforma de desenvolvimento da VTEX que tem como foco principal de mercado times técnicos e de desenvolvimento.
