@@ -7,6 +7,7 @@ layout: default
     <p class="meta">
     {{ page.date | date: "%B %-d, %Y" }}
     {% if page.author %} - <a href="https://www.linkedin.com/in/felipecardosobarbosa/" target="_blank">{{ page.author }}</a>{% endif %}
+    {% if page.categories %} - <a href="https://www.felipebarbosa.me/{{ page.categories }}" target="_blank">{{ page.categories }}</a>{% endif %}
     </p>
   </header>
   <section class="post-content">{{ content }}</section>
