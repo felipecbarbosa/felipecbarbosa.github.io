@@ -21,6 +21,7 @@ layout: default
         </h2>
         <p class="meta">
           {{ post.date | date: "%B %-d, %Y" }}
+          {% if page.categories %} - <a href="https://www.felipebarbosa.me/{{ page.categories }}" target="_blank">{{ page.categories }}</a>{% endif %}
         </p>
       </header>
       <div class="excerpt">
