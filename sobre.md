@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Quem é o Felipe Cardoso Barbosa?
+redirect_from:
+    - /ferramentas/
+    - /portfolio/
+    - /product-stars-materiais/
 permalink: /sobre/
 menu: Sobre
 ---
