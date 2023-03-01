@@ -28,7 +28,7 @@ Finalmente vou conseguir cumprir o que falei que faria tantos anos atrás. Não 
 
 Então, como nada do que eu escreveria seria novo, deixo para vocês a paródia co-escrita com a IA do ChatGPT.
 
-E como vou ter menos trabalho do que escrever um post completo sobre o assunto, resolvi pegar a cifra da música original e colocá-la na letra da paródia.
+E como vou ter menos trabalho do que escrever um post completo sobre o assunto, resolvi pegar a [cifra da música original](https://www.cifraclub.com.br/e-o-tchan/segure-o-tchan/){:target="_blank"} e colocá-la na letra da paródia.
 
 Na próxima reunião do time vocês podem cantá-la para estimular todo mundo a focar esforços em diminuir *churn*, afinal, de nada adianta uma aquisição boa se o balde tá furado.
 
