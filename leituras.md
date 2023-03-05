@@ -21,6 +21,13 @@ A lista no link acima explora todas as leituras, sem identificar uma sequência 
 
 Abaixo estão os livros que li desde 2016, ano que comecei a controlar em listas os livros que ia terminando de ler.
 
+## Livros 2023 {#livros-2023}
+> x livros lidos - 1 finalizado em 2023 - x incompleto em 2022 - 108 páginas lidas - x páginas/dia em média no ano
+
+---
+
+1. [Finalizado em 2022] How Brands Grow - Como as Marcas Crescem (279 páginas, 108 páginas lidas)
+
 ## Livros 2022 {#livros-2022}
 > 16 livros lidos - 1 finalizado em 2022 - 1 incompleto em 2022 - 4950 páginas lidas - 13 páginas/dia em média no ano
 
