@@ -10,33 +10,39 @@ Quer saber mais sobre as leituras que eu publico na página [Leituras Recentes](
 
 ### Developer Marketing Does Not Exist: The Authentic Guide to Reach a Technical Audience
 
-Esse livro do Adam Duvander, aborda a importância de se comunicar de forma autêntica e transparente com a audiência técnica. Aqui estão cinco das principais lições do livro:
+O livro "Developer Marketing Does Not Exist" de Adam Duvander ensina como se envolver de forma autêntica com desenvolvedores para atraí-los para o seu produto. 
 
-1. É importante entender que a audiência técnica tem uma alta capacidade crítica e desconfia de promessas ou jargões exagerados. Portanto, é crucial ser transparente e mostrar resultados concretos.
-2. A comunicação deve ser baseada em valor, e não em venda. Isso significa oferecer conteúdo útil e relevante que ajude a resolver problemas específicos da audiência.
-3. Participar ativamente das comunidades técnicas é essencial para construir relacionamentos e confiança com a audiência.
-4.É importante ter uma presença online forte e consistente, incluindo blogs, redes sociais e outros canais de mídia social.
-5. O sucesso no marketing para desenvolvedores não é medido apenas pelas vendas, mas também pela satisfação da audiência e sua fidelidade a longo prazo.
+As táticas de marketing tradicionais não funcionam com esse público, que é cético em relação a qualquer coisa promocional. 
+
+Para alcançar uma audiência técnica, é preciso reconhecer que o marketing para desenvolvedores não existe e, em seguida, começar a se envolver autenticamente com eles. 
+
+Adam DuVander trabalhou com dezenas de empresas focadas em desenvolvedores para ajudá-las a atrair milhões de desenvolvedores qualificados para seus produtos. 
+
+"Developer Marketing Does Not Exist" ajudará você a descobrir o que realmente ressoa com sua audiência técnica para que possa começar a alcançar mais desenvolvedores.
 
 Comprar na Amazon: <a target="_blank" href="https://www.amazon.com.br/Developer-Marketing-Does-Not-Exist-ebook/dp/B091NK954H/ref=sr_1_1?__mk_pt_BR=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=3MKMON6OCEJLN&amp;keywords=developer+marketing&amp;qid=1674443829&amp;sprefix=developer+marketing%252Caps%252C237&amp;sr=8-1&_encoding=UTF8&tag=felipebarb009-20&linkCode=ur2&linkId=3d2770583053107b3bb05869635069f6&camp=1789&creative=9325">Developer Marketing Does Not Exist: The Authentic Guide to Reach a Technical Audience</a>
 
 ### Rolling Rocks Downhill: The Agile+ToC Business Novel
 
-Esse é um livro de ficção que explora como a combinação de metodologias Agile e Teoria das Restrições (ToC) pode ajudar uma empresa a alcançar seus objetivos. A história segue a jornada de uma equipe de gerenciamento de projetos enquanto eles lutam para alcançar seus objetivos e aprendem a utilizar essas metodologias.
+O livro "Rolling Rocks Downhill: The Agile+ToC Business Novel" conta a história de Steve, o CIO de uma empresa cujo principal projeto de TI está atrasado e, de repente, tem seu prazo reduzido pelo CEO. Steve precisa encontrar uma maneira de entregar o projeto no novo prazo sem sacrificar a qualidade ou reduzir o escopo. 
 
-Os 5 principais ensinamentos do livro são:
+Ele e sua equipe decidem abordar o desafio como um jogo, usando sua única vida para trabalhar juntos e inovar. 
 
-1. A combinação de Agile e ToC pode ajudar a equipe a se concentrar nas restrições-chave e a maximizar seu potencial.
-2. A colaboração e a comunicação são fundamentais para o sucesso da equipe.
-3. A flexibilidade é importante para lidar com mudanças e incertezas.
-4. A metodologia Agile permite que a equipe se adapte rapidamente a mudanças e melhore continuamente.
-5. A Teoria das Restrições ajuda a equipe a identificar e gerenciar os principais problemas que impedem o progresso do projeto.
+Este livro é uma novela de negócios Agile e Theory of Constraints escrita por Clarke Ching, autor do best-seller da Amazon, "The Bottleneck Rules".
 
 Comprar na Amazon: <a target="_blank" href="https://www.amazon.com.br/Rolling-Rocks-Downhill-Business-mentions-ebook/dp/B00PJ8HBW8/ref=sr_1_21?__mk_pt_BR=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1ZZ2P5C0FDFU6&amp;keywords=rolling+rocks&amp;qid=1674444249&amp;sprefix=rolling+rocks%252Caps%252C256&amp;sr=8-21&_encoding=UTF8&tag=felipebarb009-20&linkCode=ur2&linkId=00ffce8e85c01ad11cfbdefc2df4691e&camp=1789&creative=9325">Rolling Rocks Downhill: The Agile+ToC Business Novel</a>
 
 ### First Blood
 
-"First Blood" é um livro de aventura escrito por David Morrell em 1972. A história acompanha o ex-soldado John Rambo, que é forçado a lutar contra a polícia local depois de ser acusado de vagabundagem. Com suas habilidades de combate e sua determinação, Rambo luta para provar sua inocência e escapar da perseguição dos oficiais.
+Do autor best-seller do New York Times, David Morrell, vem um thriller clássico que apresenta o personagem Rambo, um dos heróis de ação mais icônicos do século XX. 
+
+First Blood, chamado de "o pai do romance de ação moderno", mudou o gênero. Embora o livro e a adaptação para o cinema tenham semelhanças, eles são muito diferentes, especialmente em seu final inesperado e sua intensidade maior. 
+
+Se você só experimentou o filme, terá uma surpresa. O livro apresenta a história de Rambo, um ex-soldado que se vê em conflito com o Chefe de Polícia de Madison, Kentucky. 
+
+É uma luta emocionante que nos faz refletir sobre o impacto que a guerra pode ter sobre os soldados e sua capacidade de voltar à vida civil. 
+
+First Blood é uma obra premiada que já foi traduzida para 26 idiomas e nunca saiu de circulação. Foi um dos primeiros romances a lidar com o transtorno de estresse pós-traumático.
 
 Comprar na Amazon: <a target="_blank" href="https://www.amazon.com.br/First-Blood-English-David-Morrell-ebook/dp/B0057AOWVG/ref=sr_1_1?__mk_pt_BR=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=3J5QPQ9W4V43M&amp;keywords=first+blood&amp;qid=1674444560&amp;sprefix=first+bloo%252Caps%252C285&amp;sr=8-1&_encoding=UTF8&tag=felipebarb009-20&linkCode=ur2&linkId=9ae23f73b1486f1326a88737d47152bb&camp=1789&creative=9325">First Blood</a>
 
