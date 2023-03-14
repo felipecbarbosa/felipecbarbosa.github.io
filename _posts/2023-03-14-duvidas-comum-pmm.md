@@ -122,7 +122,7 @@ Ter uma liderança de PMM acima de mim enquanto no status de colaborador individ
 
 Talvez você não precise no dia 1 quando está recém implementando ter um nível entre você gestora de Marketing e PMMs. Mas assim que começar a engrenar pense em ter a posição de liderança para PMMs.
 
-## Como PMMs devem atuar junto às pessoas de Produto?
+## Como PMMs devem atuar junto as pessoas de Produto?
 
 Essa pergunta costuma ser complementada com:
 
@@ -170,7 +170,7 @@ Mas eu e meu colega PMM olharíamos para o Posicionamento dos Produtos. No fim d
 
 Combinar o jogo é essencial. 
 
-## Como cuidar do excesso de comunicaçâo com os clientes?
+## Como cuidar do excesso de comunicação com os clientes?
 
 Essa é uma dúvida que eu vejo empresas maiores com vários produtos terem. E faz muito sentido essa preocupação.
 
