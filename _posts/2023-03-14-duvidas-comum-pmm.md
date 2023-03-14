@@ -64,7 +64,7 @@ E fora do mundo B2B? Eu tenho pensado muito nisso.
 
 Recentemente tive conversas com empresas e profissionais B2C que começam a implementar a disciplina de Product Marketing. Empresas que nem sempre terão pessoas de Vendas para seus produtos. Que podem ter um vasto portfolio, de produtos bem transacionais para produtos com Vendas mais complexas.
 
-Portifolios enormes, com muitas frentes e times diferentes os quais as pessoas de Marketing de Produto deveriam atender. Como ficam essas empresas?
+Portfolios enormes, com muitas frentes e times diferentes os quais as pessoas de Marketing de Produto deveriam atender. Como ficam essas empresas?
 
 Sempre que eu tentei entender como empresas B2C que são fortes em Marketing atuavam, especialmente as de Bens de Consumo, entendia que muitas vezes cada Marca e cada Produto tem um time responsável por fazê-la crescer.
 
